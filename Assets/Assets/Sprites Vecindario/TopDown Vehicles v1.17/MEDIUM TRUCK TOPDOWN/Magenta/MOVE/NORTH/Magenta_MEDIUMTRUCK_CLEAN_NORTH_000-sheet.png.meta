@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 3e4d21fac3ca5eb4f95f15a78487d903
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4231902923758095862
+    second: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_0
+  - first:
+      213: -7311498427447164240
+    second: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_1
+  - first:
+      213: 1213275835757020313
+    second: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_2
+  - first:
+      213: 7210795519150925804
+    second: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_3
+  - first:
+      213: 2211211694921454221
+    second: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_4
+  - first:
+      213: -681138561268868363
+    second: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_5
+  - first:
+      213: -5424396679423185453
+    second: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_6
+  - first:
+      213: -6449074823505736145
+    second: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_7
+  - first:
+      213: 1324343994881132458
+    second: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_8
+  - first:
+      213: 5126220097458897647
+    second: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_9
+  - first:
+      213: 3430392908064469564
+    second: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_10
+  - first:
+      213: 8167069575069946259
+    second: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 309
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02367166b24545c0800000000000000
+      internalID: -4231902923758095862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 309
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b24f201be6588a90800000000000000
+      internalID: -7311498427447164240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 309
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994ccd4c1fb66d010800000000000000
+      internalID: 1213275835757020313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 309
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce728faf154e11460800000000000000
+      internalID: 7210795519150925804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 169
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d829bfe225dcfae10800000000000000
+      internalID: 2211211694921454221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 169
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa9fbc561c1c86f0800000000000000
+      internalID: -681138561268868363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 169
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd2c22b5fba8b4b0800000000000000
+      internalID: -5424396679423185453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 169
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e860fdd984086a0800000000000000
+      internalID: -6449074823505736145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 29
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7cf4fb8d3016210800000000000000
+      internalID: 1324343994881132458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 29
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2818dc40ef32740800000000000000
+      internalID: 5126220097458897647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 29
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32b335cc243b9f20800000000000000
+      internalID: 3430392908064469564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 29
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391d1fde182475170800000000000000
+      internalID: 8167069575069946259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_0: -4231902923758095862
+      Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_1: -7311498427447164240
+      Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_10: 3430392908064469564
+      Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_11: 8167069575069946259
+      Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_2: 1213275835757020313
+      Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_3: 7210795519150925804
+      Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_4: 2211211694921454221
+      Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_5: -681138561268868363
+      Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_6: -5424396679423185453
+      Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_7: -6449074823505736145
+      Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_8: 1324343994881132458
+      Magenta_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_9: 5126220097458897647
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

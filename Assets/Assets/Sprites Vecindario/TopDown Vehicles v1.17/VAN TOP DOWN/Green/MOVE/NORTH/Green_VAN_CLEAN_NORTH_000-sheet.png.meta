@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 593c66104f760ef46860a316174b4a45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5094925635513372422
+    second: Green_VAN_CLEAN_NORTH_000-sheet_0
+  - first:
+      213: 5376478112400845505
+    second: Green_VAN_CLEAN_NORTH_000-sheet_1
+  - first:
+      213: 8934902010997232942
+    second: Green_VAN_CLEAN_NORTH_000-sheet_2
+  - first:
+      213: -5269487954315784146
+    second: Green_VAN_CLEAN_NORTH_000-sheet_3
+  - first:
+      213: -3737361479029378545
+    second: Green_VAN_CLEAN_NORTH_000-sheet_4
+  - first:
+      213: -1235573604488018008
+    second: Green_VAN_CLEAN_NORTH_000-sheet_5
+  - first:
+      213: 4092234179826107477
+    second: Green_VAN_CLEAN_NORTH_000-sheet_6
+  - first:
+      213: 533506364419946636
+    second: Green_VAN_CLEAN_NORTH_000-sheet_7
+  - first:
+      213: 121916385325621201
+    second: Green_VAN_CLEAN_NORTH_000-sheet_8
+  - first:
+      213: 6912549040443903791
+    second: Green_VAN_CLEAN_NORTH_000-sheet_9
+  - first:
+      213: -4893556594106297051
+    second: Green_VAN_CLEAN_NORTH_000-sheet_10
+  - first:
+      213: 7547971814963288696
+    second: Green_VAN_CLEAN_NORTH_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green_VAN_CLEAN_NORTH_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 217
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0b13ae0203b49b0800000000000000
+      internalID: -5094925635513372422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_VAN_CLEAN_NORTH_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 217
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1caa0508b561d9a40800000000000000
+      internalID: 5376478112400845505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_VAN_CLEAN_NORTH_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 218
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25d9643a062ffb70800000000000000
+      internalID: 8934902010997232942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_VAN_CLEAN_NORTH_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 218
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20decedf940fd6b0800000000000000
+      internalID: -5269487954315784146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_VAN_CLEAN_NORTH_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 118
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02b9354989322cc0800000000000000
+      internalID: -3737361479029378545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_VAN_CLEAN_NORTH_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 118
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a784a26a5c5adee0800000000000000
+      internalID: -1235573604488018008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_VAN_CLEAN_NORTH_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 118
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5544f321e498ac830800000000000000
+      internalID: 4092234179826107477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_VAN_CLEAN_NORTH_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 118
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8839a83635676700800000000000000
+      internalID: 533506364419946636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_VAN_CLEAN_NORTH_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 18
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df12a77e4221b100800000000000000
+      internalID: 121916385325621201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_VAN_CLEAN_NORTH_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 18
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f40206abe4eef50800000000000000
+      internalID: 6912549040443903791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_VAN_CLEAN_NORTH_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 17
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52516007438961cb0800000000000000
+      internalID: -4893556594106297051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_VAN_CLEAN_NORTH_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 17
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a1c85ff58cfb860800000000000000
+      internalID: 7547971814963288696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green_VAN_CLEAN_NORTH_000-sheet_0: -5094925635513372422
+      Green_VAN_CLEAN_NORTH_000-sheet_1: 5376478112400845505
+      Green_VAN_CLEAN_NORTH_000-sheet_10: -4893556594106297051
+      Green_VAN_CLEAN_NORTH_000-sheet_11: 7547971814963288696
+      Green_VAN_CLEAN_NORTH_000-sheet_2: 8934902010997232942
+      Green_VAN_CLEAN_NORTH_000-sheet_3: -5269487954315784146
+      Green_VAN_CLEAN_NORTH_000-sheet_4: -3737361479029378545
+      Green_VAN_CLEAN_NORTH_000-sheet_5: -1235573604488018008
+      Green_VAN_CLEAN_NORTH_000-sheet_6: 4092234179826107477
+      Green_VAN_CLEAN_NORTH_000-sheet_7: 533506364419946636
+      Green_VAN_CLEAN_NORTH_000-sheet_8: 121916385325621201
+      Green_VAN_CLEAN_NORTH_000-sheet_9: 6912549040443903791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

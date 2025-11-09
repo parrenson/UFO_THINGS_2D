@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 066f4b36661b7ec47bf7abced641b9a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6727829488427769441
+    second: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_0
+  - first:
+      213: 2674755423644774118
+    second: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_1
+  - first:
+      213: -2426036291031726227
+    second: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_2
+  - first:
+      213: -841896128121394802
+    second: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_3
+  - first:
+      213: -3926112207173006180
+    second: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_4
+  - first:
+      213: -432190325570324954
+    second: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_5
+  - first:
+      213: 830928409494108320
+    second: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_6
+  - first:
+      213: 2215082204406928502
+    second: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_7
+  - first:
+      213: -7918759474214464585
+    second: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_8
+  - first:
+      213: -6794508422190442430
+    second: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_9
+  - first:
+      213: 1541393560354186681
+    second: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_10
+  - first:
+      213: -495604750101053894
+    second: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 309
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e922f264d0e5d50800000000000000
+      internalID: 6727829488427769441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 309
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee6567e2e3ae1520800000000000000
+      internalID: 2674755423644774118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 309
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6709d4d8dcf45ed0800000000000000
+      internalID: -2426036291031726227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 309
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e892c899eebf054f0800000000000000
+      internalID: -841896128121394802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 169
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cc02fbfb5a389c0800000000000000
+      internalID: -3926112207173006180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 169
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6263501503d800af0800000000000000
+      internalID: -432190325570324954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 169
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a83da96cfc088b00800000000000000
+      internalID: 830928409494108320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 169
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674d6f5678d8dbe10800000000000000
+      internalID: 2215082204406928502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 29
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b310bda63aea1290800000000000000
+      internalID: -7918759474214464585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 29
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24850ffb69e05b1a0800000000000000
+      internalID: -6794508422190442430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 29
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b56cf7c641246510800000000000000
+      internalID: 1541393560354186681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 29
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3efa390b124f19f0800000000000000
+      internalID: -495604750101053894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_0: 6727829488427769441
+      Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_1: 2674755423644774118
+      Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_10: 1541393560354186681
+      Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_11: -495604750101053894
+      Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_2: -2426036291031726227
+      Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_3: -841896128121394802
+      Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_4: -3926112207173006180
+      Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_5: -432190325570324954
+      Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_6: 830928409494108320
+      Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_7: 2215082204406928502
+      Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_8: -7918759474214464585
+      Yellow_MEDIUMTRUCK_CLEAN_NORTH_000-sheet_9: -6794508422190442430
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

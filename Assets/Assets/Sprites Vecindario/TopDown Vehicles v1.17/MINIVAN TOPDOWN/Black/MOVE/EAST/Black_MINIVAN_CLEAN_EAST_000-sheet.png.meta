@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 7a43197d2abd70c4facb2d75b984ee59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6138487685699457615
+    second: Black_MINIVAN_CLEAN_EAST_000-sheet_0
+  - first:
+      213: 7105292067469730372
+    second: Black_MINIVAN_CLEAN_EAST_000-sheet_1
+  - first:
+      213: 7434408974573790589
+    second: Black_MINIVAN_CLEAN_EAST_000-sheet_2
+  - first:
+      213: -2780851836700918924
+    second: Black_MINIVAN_CLEAN_EAST_000-sheet_3
+  - first:
+      213: -5988717183960449458
+    second: Black_MINIVAN_CLEAN_EAST_000-sheet_4
+  - first:
+      213: 4718350708863631629
+    second: Black_MINIVAN_CLEAN_EAST_000-sheet_5
+  - first:
+      213: 398730031515570816
+    second: Black_MINIVAN_CLEAN_EAST_000-sheet_6
+  - first:
+      213: -1776098164321501473
+    second: Black_MINIVAN_CLEAN_EAST_000-sheet_7
+  - first:
+      213: -7516323359731544491
+    second: Black_MINIVAN_CLEAN_EAST_000-sheet_8
+  - first:
+      213: -2711977799215862116
+    second: Black_MINIVAN_CLEAN_EAST_000-sheet_9
+  - first:
+      213: 832644236353023846
+    second: Black_MINIVAN_CLEAN_EAST_000-sheet_10
+  - first:
+      213: 7444808740535155498
+    second: Black_MINIVAN_CLEAN_EAST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black_MINIVAN_CLEAN_EAST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 227
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42d93ce60a403550800000000000000
+      internalID: 6138487685699457615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MINIVAN_CLEAN_EAST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 227
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4422fea6d711b9260800000000000000
+      internalID: 7105292067469730372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MINIVAN_CLEAN_EAST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 227
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75627cb2935c2760800000000000000
+      internalID: 7434408974573790589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MINIVAN_CLEAN_EAST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 227
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bf274fcfd6869d0800000000000000
+      internalID: -2780851836700918924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MINIVAN_CLEAN_EAST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 127
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e72c5637dc3eca0800000000000000
+      internalID: -5988717183960449458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MINIVAN_CLEAN_EAST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 127
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01878788f2fa7140800000000000000
+      internalID: 4718350708863631629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MINIVAN_CLEAN_EAST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 127
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08214c1e9d2988500800000000000000
+      internalID: 398730031515570816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MINIVAN_CLEAN_EAST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 127
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdeb46531280a57e0800000000000000
+      internalID: -1776098164321501473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MINIVAN_CLEAN_EAST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 27
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e0b3e3ab7a0b790800000000000000
+      internalID: -7516323359731544491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MINIVAN_CLEAN_EAST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 27
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e2efe6f8e1d5ad0800000000000000
+      internalID: -2711977799215862116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MINIVAN_CLEAN_EAST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 27
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f291c75852e8b00800000000000000
+      internalID: 832644236353023846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MINIVAN_CLEAN_EAST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 27
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b3250fa16415760800000000000000
+      internalID: 7444808740535155498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black_MINIVAN_CLEAN_EAST_000-sheet_0: 6138487685699457615
+      Black_MINIVAN_CLEAN_EAST_000-sheet_1: 7105292067469730372
+      Black_MINIVAN_CLEAN_EAST_000-sheet_10: 832644236353023846
+      Black_MINIVAN_CLEAN_EAST_000-sheet_11: 7444808740535155498
+      Black_MINIVAN_CLEAN_EAST_000-sheet_2: 7434408974573790589
+      Black_MINIVAN_CLEAN_EAST_000-sheet_3: -2780851836700918924
+      Black_MINIVAN_CLEAN_EAST_000-sheet_4: -5988717183960449458
+      Black_MINIVAN_CLEAN_EAST_000-sheet_5: 4718350708863631629
+      Black_MINIVAN_CLEAN_EAST_000-sheet_6: 398730031515570816
+      Black_MINIVAN_CLEAN_EAST_000-sheet_7: -1776098164321501473
+      Black_MINIVAN_CLEAN_EAST_000-sheet_8: -7516323359731544491
+      Black_MINIVAN_CLEAN_EAST_000-sheet_9: -2711977799215862116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

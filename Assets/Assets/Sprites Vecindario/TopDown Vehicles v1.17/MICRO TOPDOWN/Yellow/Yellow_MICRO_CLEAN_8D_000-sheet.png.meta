@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 37f2d7d7fcf27ca41a05c7b3d504e69f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5514069214174055113
+    second: Yellow_MICRO_CLEAN_8D_000-sheet_0
+  - first:
+      213: -183539165299156792
+    second: Yellow_MICRO_CLEAN_8D_000-sheet_1
+  - first:
+      213: -6262259921900996850
+    second: Yellow_MICRO_CLEAN_8D_000-sheet_2
+  - first:
+      213: -3076677709588901170
+    second: Yellow_MICRO_CLEAN_8D_000-sheet_3
+  - first:
+      213: -4058417245993829338
+    second: Yellow_MICRO_CLEAN_8D_000-sheet_4
+  - first:
+      213: -7763716767511892837
+    second: Yellow_MICRO_CLEAN_8D_000-sheet_5
+  - first:
+      213: 9060055405646961564
+    second: Yellow_MICRO_CLEAN_8D_000-sheet_6
+  - first:
+      213: 7249608061223069862
+    second: Yellow_MICRO_CLEAN_8D_000-sheet_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_8D_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 231
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca03c94cb8e58c40800000000000000
+      internalID: 5514069214174055113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_8D_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8d8f10a10f37df0800000000000000
+      internalID: -183539165299156792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_8D_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 225
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07fce7a7cbf719a0800000000000000
+      internalID: -6262259921900996850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_8D_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 125
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2579f8ce17d45d0800000000000000
+      internalID: -3076677709588901170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_8D_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 131
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cf736640b9da7c0800000000000000
+      internalID: -4058417245993829338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_8D_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 127
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ca5bfdbbcb14490800000000000000
+      internalID: -7763716767511892837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_8D_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 29
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bd1f2a368cbbd70800000000000000
+      internalID: 9060055405646961564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_8D_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 27
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a862022f18cb9460800000000000000
+      internalID: 7249608061223069862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Yellow_MICRO_CLEAN_8D_000-sheet_0: 5514069214174055113
+      Yellow_MICRO_CLEAN_8D_000-sheet_1: -183539165299156792
+      Yellow_MICRO_CLEAN_8D_000-sheet_2: -6262259921900996850
+      Yellow_MICRO_CLEAN_8D_000-sheet_3: -3076677709588901170
+      Yellow_MICRO_CLEAN_8D_000-sheet_4: -4058417245993829338
+      Yellow_MICRO_CLEAN_8D_000-sheet_5: -7763716767511892837
+      Yellow_MICRO_CLEAN_8D_000-sheet_6: 9060055405646961564
+      Yellow_MICRO_CLEAN_8D_000-sheet_7: 7249608061223069862
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: ef214deea7f276e45b04ef689fe97b41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7842127861691574703
+    second: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_0
+  - first:
+      213: 8090687133425264157
+    second: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_1
+  - first:
+      213: -1168159390449373944
+    second: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_2
+  - first:
+      213: 7162186311002029885
+    second: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_3
+  - first:
+      213: -6967612557557263128
+    second: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_4
+  - first:
+      213: 3030856862659296779
+    second: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_5
+  - first:
+      213: -8752790897599835751
+    second: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_6
+  - first:
+      213: 6551299652144235233
+    second: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_7
+  - first:
+      213: 6449014014803615289
+    second: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_8
+  - first:
+      213: 6901073545627649434
+    second: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_9
+  - first:
+      213: 5941796343205477698
+    second: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_10
+  - first:
+      213: 5049543094933653252
+    second: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 304
+        width: 46
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1561ea8524a2b2390800000000000000
+      internalID: -7842127861691574703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 304
+        width: 46
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16e2a0e415e74070800000000000000
+      internalID: 8090687133425264157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 303
+        width: 46
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d6a3b393dd9cfe0800000000000000
+      internalID: -1168159390449373944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 303
+        width: 46
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ff072c082356360800000000000000
+      internalID: 7162186311002029885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 163
+        width: 46
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e49f3e7b411e4f90800000000000000
+      internalID: -6967612557557263128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 163
+        width: 46
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ebcd72244cf0a20800000000000000
+      internalID: 3030856862659296779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 163
+        width: 46
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9911a4b8d07d78680800000000000000
+      internalID: -8752790897599835751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 163
+        width: 46
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e28237c254eaea50800000000000000
+      internalID: 6551299652144235233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 23
+        width: 46
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e92eff3108f7950800000000000000
+      internalID: 6449014014803615289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 23
+        width: 46
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a954bf783d985cf50800000000000000
+      internalID: 6901073545627649434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 23
+        width: 46
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d3a7c0b40857250800000000000000
+      internalID: 5941796343205477698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 24
+        width: 46
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4070c83f0b4931640800000000000000
+      internalID: 5049543094933653252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_0: -7842127861691574703
+      Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_1: 8090687133425264157
+      Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_10: 5941796343205477698
+      Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_11: 5049543094933653252
+      Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_2: -1168159390449373944
+      Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_3: 7162186311002029885
+      Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_4: -6967612557557263128
+      Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_5: 3030856862659296779
+      Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_6: -8752790897599835751
+      Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_7: 6551299652144235233
+      Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_8: 6449014014803615289
+      Blue_MEDIUMTRUCK_CLEAN_SOUTH_000-sheet_9: 6901073545627649434
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

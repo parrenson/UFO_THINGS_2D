@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 6967d37d66a59694db3da388700113c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3968220546929970381
+    second: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_0
+  - first:
+      213: 8379067163092514161
+    second: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_1
+  - first:
+      213: 7474158634574484734
+    second: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_2
+  - first:
+      213: 5191619655796878681
+    second: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_3
+  - first:
+      213: 3335642477055931944
+    second: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_4
+  - first:
+      213: 7020899586930124849
+    second: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_5
+  - first:
+      213: 8527813121372523888
+    second: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_6
+  - first:
+      213: 6362298497246288812
+    second: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_7
+  - first:
+      213: -1428924302295436368
+    second: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_8
+  - first:
+      213: 4254981173444196887
+    second: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_9
+  - first:
+      213: -4159062620993880917
+    second: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_10
+  - first:
+      213: 7907278458949673473
+    second: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 224
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33335d5ef6c0ee8c0800000000000000
+      internalID: -3968220546929970381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 224
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175f44dc03d684470800000000000000
+      internalID: 8379067163092514161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 224
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef41bb8adab89b760800000000000000
+      internalID: 7474158634574484734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 224
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d65b012965c0840800000000000000
+      internalID: 5191619655796878681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 124
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8267f9ee8259a4e20800000000000000
+      internalID: 3335642477055931944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 124
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13828aad9fe3f6160800000000000000
+      internalID: 7020899586930124849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 124
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d03520ad0e85670800000000000000
+      internalID: 8527813121372523888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 124
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabdd5b36cc6b4850800000000000000
+      internalID: 6362298497246288812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 24
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3f1c6fae07b2ce0800000000000000
+      internalID: -1428924302295436368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 24
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71abd1955dabc0b30800000000000000
+      internalID: 4254981173444196887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 24
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacfd05f49a0846c0800000000000000
+      internalID: -4159062620993880917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CIVIC_CLEAN_SOUTH_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 24
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1022bc52ddb4cbd60800000000000000
+      internalID: 7907278458949673473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_0: -3968220546929970381
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_1: 8379067163092514161
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_10: -4159062620993880917
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_11: 7907278458949673473
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_2: 7474158634574484734
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_3: 5191619655796878681
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_4: 3335642477055931944
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_5: 7020899586930124849
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_6: 8527813121372523888
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_7: 6362298497246288812
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_8: -1428924302295436368
+      Magenta_CIVIC_CLEAN_SOUTH_000-sheet_9: 4254981173444196887
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

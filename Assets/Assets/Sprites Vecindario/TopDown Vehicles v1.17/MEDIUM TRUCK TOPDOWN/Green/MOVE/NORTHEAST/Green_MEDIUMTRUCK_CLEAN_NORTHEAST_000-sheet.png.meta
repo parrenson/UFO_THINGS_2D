@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 3047f978840cf294889782e0b5c5e6aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1630326885241995720
+    second: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_0
+  - first:
+      213: -7753621129334563181
+    second: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_1
+  - first:
+      213: -3561006868879090332
+    second: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_2
+  - first:
+      213: -3544294898262044442
+    second: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_3
+  - first:
+      213: 5808504201816259832
+    second: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_4
+  - first:
+      213: -2426383346620003169
+    second: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_5
+  - first:
+      213: 5576421722282318182
+    second: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_6
+  - first:
+      213: 4936881486049349235
+    second: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_7
+  - first:
+      213: -5359720461988758809
+    second: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_8
+  - first:
+      213: 6938434555763081011
+    second: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_9
+  - first:
+      213: 9107027169888199636
+    second: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_10
+  - first:
+      213: -981395794416852253
+    second: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 309
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83eb161f55aef59e0800000000000000
+      internalID: -1630326885241995720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 309
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39edc0fc9aa956490800000000000000
+      internalID: -7753621129334563181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 310
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d5cb9ae13c49ec0800000000000000
+      internalID: -3561006868879090332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 310
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e09cd9819220dec0800000000000000
+      internalID: -3544294898262044442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 170
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc3f99fbc3fb9050800000000000000
+      internalID: 5808504201816259832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 170
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c8ac7a331c35ed0800000000000000
+      internalID: -2426383346620003169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 170
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669d862e20e636d40800000000000000
+      internalID: 5576421722282318182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 170
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e8c2a0e83538440800000000000000
+      internalID: 4936881486049349235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 30
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea74c703a27e95b0800000000000000
+      internalID: -5359720461988758809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 30
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fbd8197754a4060800000000000000
+      internalID: 6938434555763081011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 29
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3640db5f8a26e70800000000000000
+      internalID: 9107027169888199636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 29
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2a8b189b16162f0800000000000000
+      internalID: -981395794416852253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_0: -1630326885241995720
+      Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_1: -7753621129334563181
+      Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_10: 9107027169888199636
+      Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_11: -981395794416852253
+      Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_2: -3561006868879090332
+      Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_3: -3544294898262044442
+      Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_4: 5808504201816259832
+      Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_5: -2426383346620003169
+      Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_6: 5576421722282318182
+      Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_7: 4936881486049349235
+      Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_8: -5359720461988758809
+      Green_MEDIUMTRUCK_CLEAN_NORTHEAST_000-sheet_9: 6938434555763081011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

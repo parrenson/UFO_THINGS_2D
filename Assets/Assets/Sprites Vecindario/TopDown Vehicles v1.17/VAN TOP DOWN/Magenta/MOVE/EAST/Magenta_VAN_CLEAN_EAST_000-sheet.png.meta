@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: de59ce63de41d6047825df3ca7ad8494
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9117872513839705722
+    second: Magenta_VAN_CLEAN_EAST_000-sheet_0
+  - first:
+      213: -9065793391082016431
+    second: Magenta_VAN_CLEAN_EAST_000-sheet_1
+  - first:
+      213: -3912185536331283801
+    second: Magenta_VAN_CLEAN_EAST_000-sheet_2
+  - first:
+      213: 1688430361672721398
+    second: Magenta_VAN_CLEAN_EAST_000-sheet_3
+  - first:
+      213: -6377507992604411211
+    second: Magenta_VAN_CLEAN_EAST_000-sheet_4
+  - first:
+      213: 4282818889754055206
+    second: Magenta_VAN_CLEAN_EAST_000-sheet_5
+  - first:
+      213: -7672519370859692547
+    second: Magenta_VAN_CLEAN_EAST_000-sheet_6
+  - first:
+      213: -1952532490499551161
+    second: Magenta_VAN_CLEAN_EAST_000-sheet_7
+  - first:
+      213: -5088989927633626061
+    second: Magenta_VAN_CLEAN_EAST_000-sheet_8
+  - first:
+      213: -2523605494929185648
+    second: Magenta_VAN_CLEAN_EAST_000-sheet_9
+  - first:
+      213: 3280212991981893991
+    second: Magenta_VAN_CLEAN_EAST_000-sheet_10
+  - first:
+      213: -6986339641929839621
+    second: Magenta_VAN_CLEAN_EAST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magenta_VAN_CLEAN_EAST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 227
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6815949d14fc67180800000000000000
+      internalID: -9117872513839705722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_VAN_CLEAN_EAST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 227
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151f87581f4df2280800000000000000
+      internalID: -9065793391082016431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_VAN_CLEAN_EAST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 227
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a28d8b7bff15b9c0800000000000000
+      internalID: -3912185536331283801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_VAN_CLEAN_EAST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 227
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3ac7fd7728e6710800000000000000
+      internalID: 1688430361672721398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_VAN_CLEAN_EAST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 127
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba799c254a8e77a0800000000000000
+      internalID: -6377507992604411211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_VAN_CLEAN_EAST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 127
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6229f11c611af6b30800000000000000
+      internalID: 4282818889754055206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_VAN_CLEAN_EAST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 127
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdba9f684cb58590800000000000000
+      internalID: -7672519370859692547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_VAN_CLEAN_EAST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 127
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7409d5b7b0637e4e0800000000000000
+      internalID: -1952532490499551161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_VAN_CLEAN_EAST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 27
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c5bd99f964069b0800000000000000
+      internalID: -5088989927633626061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_VAN_CLEAN_EAST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 27
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094a5894c2a5afcd0800000000000000
+      internalID: -2523605494929185648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_VAN_CLEAN_EAST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 27
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769b3be3658a58d20800000000000000
+      internalID: 3280212991981893991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_VAN_CLEAN_EAST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 27
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbca826c198b0f90800000000000000
+      internalID: -6986339641929839621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magenta_VAN_CLEAN_EAST_000-sheet_0: -9117872513839705722
+      Magenta_VAN_CLEAN_EAST_000-sheet_1: -9065793391082016431
+      Magenta_VAN_CLEAN_EAST_000-sheet_10: 3280212991981893991
+      Magenta_VAN_CLEAN_EAST_000-sheet_11: -6986339641929839621
+      Magenta_VAN_CLEAN_EAST_000-sheet_2: -3912185536331283801
+      Magenta_VAN_CLEAN_EAST_000-sheet_3: 1688430361672721398
+      Magenta_VAN_CLEAN_EAST_000-sheet_4: -6377507992604411211
+      Magenta_VAN_CLEAN_EAST_000-sheet_5: 4282818889754055206
+      Magenta_VAN_CLEAN_EAST_000-sheet_6: -7672519370859692547
+      Magenta_VAN_CLEAN_EAST_000-sheet_7: -1952532490499551161
+      Magenta_VAN_CLEAN_EAST_000-sheet_8: -5088989927633626061
+      Magenta_VAN_CLEAN_EAST_000-sheet_9: -2523605494929185648
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 94d3cc00c54020d47b3422a0c1dee874
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5572315829352208782
+    second: Brown_LIMO_CLEAN_EAST_000-sheet_0
+  - first:
+      213: 2920330713329503837
+    second: Brown_LIMO_CLEAN_EAST_000-sheet_1
+  - first:
+      213: 4685100366378634271
+    second: Brown_LIMO_CLEAN_EAST_000-sheet_2
+  - first:
+      213: 2732155614693241233
+    second: Brown_LIMO_CLEAN_EAST_000-sheet_3
+  - first:
+      213: -2559726663774014237
+    second: Brown_LIMO_CLEAN_EAST_000-sheet_4
+  - first:
+      213: -6289905283290424546
+    second: Brown_LIMO_CLEAN_EAST_000-sheet_5
+  - first:
+      213: -2765612436436771573
+    second: Brown_LIMO_CLEAN_EAST_000-sheet_6
+  - first:
+      213: -8876516793909564782
+    second: Brown_LIMO_CLEAN_EAST_000-sheet_7
+  - first:
+      213: -310838306870532933
+    second: Brown_LIMO_CLEAN_EAST_000-sheet_8
+  - first:
+      213: 3649477977573537685
+    second: Brown_LIMO_CLEAN_EAST_000-sheet_9
+  - first:
+      213: 2012837713294912936
+    second: Brown_LIMO_CLEAN_EAST_000-sheet_10
+  - first:
+      213: 1559876613979429505
+    second: Brown_LIMO_CLEAN_EAST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brown_LIMO_CLEAN_EAST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 327
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276ec2fc6482ba2b0800000000000000
+      internalID: -5572315829352208782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_LIMO_CLEAN_EAST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 327
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e0baaaf49178820800000000000000
+      internalID: 2920330713329503837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_LIMO_CLEAN_EAST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 327
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c0d03e5f1d40140800000000000000
+      internalID: 4685100366378634271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_LIMO_CLEAN_EAST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 327
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19131e45e019ae520800000000000000
+      internalID: 2732155614693241233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_LIMO_CLEAN_EAST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 187
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e477ab49260a7cd0800000000000000
+      internalID: -2559726663774014237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_LIMO_CLEAN_EAST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 187
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b1f9e5874c5b8a0800000000000000
+      internalID: -6289905283290424546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_LIMO_CLEAN_EAST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 187
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d98c354229e99d0800000000000000
+      internalID: -2765612436436771573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_LIMO_CLEAN_EAST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 187
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a2b38710740d480800000000000000
+      internalID: -8876516793909564782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_LIMO_CLEAN_EAST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 47
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4e560f43eafabf0800000000000000
+      internalID: -310838306870532933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_LIMO_CLEAN_EAST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 47
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597b1e482ec85a230800000000000000
+      internalID: 3649477977573537685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_LIMO_CLEAN_EAST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 47
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ade37b5c390feb10800000000000000
+      internalID: 2012837713294912936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_LIMO_CLEAN_EAST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 47
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18adead048bc5a510800000000000000
+      internalID: 1559876613979429505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Brown_LIMO_CLEAN_EAST_000-sheet_0: -5572315829352208782
+      Brown_LIMO_CLEAN_EAST_000-sheet_1: 2920330713329503837
+      Brown_LIMO_CLEAN_EAST_000-sheet_10: 2012837713294912936
+      Brown_LIMO_CLEAN_EAST_000-sheet_11: 1559876613979429505
+      Brown_LIMO_CLEAN_EAST_000-sheet_2: 4685100366378634271
+      Brown_LIMO_CLEAN_EAST_000-sheet_3: 2732155614693241233
+      Brown_LIMO_CLEAN_EAST_000-sheet_4: -2559726663774014237
+      Brown_LIMO_CLEAN_EAST_000-sheet_5: -6289905283290424546
+      Brown_LIMO_CLEAN_EAST_000-sheet_6: -2765612436436771573
+      Brown_LIMO_CLEAN_EAST_000-sheet_7: -8876516793909564782
+      Brown_LIMO_CLEAN_EAST_000-sheet_8: -310838306870532933
+      Brown_LIMO_CLEAN_EAST_000-sheet_9: 3649477977573537685
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

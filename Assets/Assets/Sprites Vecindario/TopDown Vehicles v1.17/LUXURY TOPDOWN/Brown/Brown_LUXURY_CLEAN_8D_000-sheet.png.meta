@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: b7e442109a9bf354c97fd0a677c5e51a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7238964614024881421
+    second: Brown_LUXURY_CLEAN_8D_000-sheet_0
+  - first:
+      213: -9035219900758750326
+    second: Brown_LUXURY_CLEAN_8D_000-sheet_1
+  - first:
+      213: -6639623884333633340
+    second: Brown_LUXURY_CLEAN_8D_000-sheet_2
+  - first:
+      213: 3945663309320713391
+    second: Brown_LUXURY_CLEAN_8D_000-sheet_3
+  - first:
+      213: 482213231183921827
+    second: Brown_LUXURY_CLEAN_8D_000-sheet_4
+  - first:
+      213: -6259486218542754196
+    second: Brown_LUXURY_CLEAN_8D_000-sheet_5
+  - first:
+      213: -1995334590592636927
+    second: Brown_LUXURY_CLEAN_8D_000-sheet_6
+  - first:
+      213: 3418166008336422645
+    second: Brown_LUXURY_CLEAN_8D_000-sheet_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brown_LUXURY_CLEAN_8D_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 225
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05639876f7f57460800000000000000
+      internalID: 7238964614024881421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_LUXURY_CLEAN_8D_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 212
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b0cb3fe537c9280800000000000000
+      internalID: -9035219900758750326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_LUXURY_CLEAN_8D_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 210
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0381461415bd3a0800000000000000
+      internalID: -6639623884333633340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_LUXURY_CLEAN_8D_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 112
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa47a53ffdfc1c630800000000000000
+      internalID: 3945663309320713391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_LUXURY_CLEAN_8D_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 125
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a206bef06a21b600800000000000000
+      internalID: 482213231183921827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_LUXURY_CLEAN_8D_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 111
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c665e4bc276d129a0800000000000000
+      internalID: -6259486218542754196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_LUXURY_CLEAN_8D_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 9
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1082da7f2c52f44e0800000000000000
+      internalID: -1995334590592636927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_LUXURY_CLEAN_8D_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 11
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f61536dfd3cf6f20800000000000000
+      internalID: 3418166008336422645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Brown_LUXURY_CLEAN_8D_000-sheet_0: 7238964614024881421
+      Brown_LUXURY_CLEAN_8D_000-sheet_1: -9035219900758750326
+      Brown_LUXURY_CLEAN_8D_000-sheet_2: -6639623884333633340
+      Brown_LUXURY_CLEAN_8D_000-sheet_3: 3945663309320713391
+      Brown_LUXURY_CLEAN_8D_000-sheet_4: 482213231183921827
+      Brown_LUXURY_CLEAN_8D_000-sheet_5: -6259486218542754196
+      Brown_LUXURY_CLEAN_8D_000-sheet_6: -1995334590592636927
+      Brown_LUXURY_CLEAN_8D_000-sheet_7: 3418166008336422645
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

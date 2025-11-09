@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 13068d4959faed5499e6ed0785bf16e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3942034854838463295
+    second: Magenta_CAMPER_CLEAN_EAST_000-sheet_0
+  - first:
+      213: -9049800897498281673
+    second: Magenta_CAMPER_CLEAN_EAST_000-sheet_1
+  - first:
+      213: -5808917600584850488
+    second: Magenta_CAMPER_CLEAN_EAST_000-sheet_2
+  - first:
+      213: -720093666180540370
+    second: Magenta_CAMPER_CLEAN_EAST_000-sheet_3
+  - first:
+      213: 7765015337961468412
+    second: Magenta_CAMPER_CLEAN_EAST_000-sheet_4
+  - first:
+      213: -7320607327735719395
+    second: Magenta_CAMPER_CLEAN_EAST_000-sheet_5
+  - first:
+      213: 2294490428586653043
+    second: Magenta_CAMPER_CLEAN_EAST_000-sheet_6
+  - first:
+      213: 1710784577208982103
+    second: Magenta_CAMPER_CLEAN_EAST_000-sheet_7
+  - first:
+      213: 8979071004032542255
+    second: Magenta_CAMPER_CLEAN_EAST_000-sheet_8
+  - first:
+      213: -6945631925233007572
+    second: Magenta_CAMPER_CLEAN_EAST_000-sheet_9
+  - first:
+      213: -1083501507961135349
+    second: Magenta_CAMPER_CLEAN_EAST_000-sheet_10
+  - first:
+      213: 7874432415675652285
+    second: Magenta_CAMPER_CLEAN_EAST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magenta_CAMPER_CLEAN_EAST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 327
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3beade80dbe4b630800000000000000
+      internalID: 3942034854838463295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CAMPER_CLEAN_EAST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 327
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7398a981806a86280800000000000000
+      internalID: -9049800897498281673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CAMPER_CLEAN_EAST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 327
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c320af1834926fa0800000000000000
+      internalID: -5808917600584850488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CAMPER_CLEAN_EAST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 327
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28dc4630a6b106f0800000000000000
+      internalID: -720093666180540370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CAMPER_CLEAN_EAST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 187
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf137ae1f40e2cb60800000000000000
+      internalID: 7765015337961468412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CAMPER_CLEAN_EAST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 187
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ad032fb6af76a90800000000000000
+      internalID: -7320607327735719395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CAMPER_CLEAN_EAST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 187
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375f07853eaa7df10800000000000000
+      internalID: 2294490428586653043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CAMPER_CLEAN_EAST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 187
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a12c3428dedb710800000000000000
+      internalID: 1710784577208982103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CAMPER_CLEAN_EAST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 47
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26ae5841811c9c70800000000000000
+      internalID: 8979071004032542255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CAMPER_CLEAN_EAST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 47
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24cfd340982c9f90800000000000000
+      internalID: -6945631925233007572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CAMPER_CLEAN_EAST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 47
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f50608e11a6f0f0800000000000000
+      internalID: -1083501507961135349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_CAMPER_CLEAN_EAST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 47
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db81b20cf8a974d60800000000000000
+      internalID: 7874432415675652285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magenta_CAMPER_CLEAN_EAST_000-sheet_0: 3942034854838463295
+      Magenta_CAMPER_CLEAN_EAST_000-sheet_1: -9049800897498281673
+      Magenta_CAMPER_CLEAN_EAST_000-sheet_10: -1083501507961135349
+      Magenta_CAMPER_CLEAN_EAST_000-sheet_11: 7874432415675652285
+      Magenta_CAMPER_CLEAN_EAST_000-sheet_2: -5808917600584850488
+      Magenta_CAMPER_CLEAN_EAST_000-sheet_3: -720093666180540370
+      Magenta_CAMPER_CLEAN_EAST_000-sheet_4: 7765015337961468412
+      Magenta_CAMPER_CLEAN_EAST_000-sheet_5: -7320607327735719395
+      Magenta_CAMPER_CLEAN_EAST_000-sheet_6: 2294490428586653043
+      Magenta_CAMPER_CLEAN_EAST_000-sheet_7: 1710784577208982103
+      Magenta_CAMPER_CLEAN_EAST_000-sheet_8: 8979071004032542255
+      Magenta_CAMPER_CLEAN_EAST_000-sheet_9: -6945631925233007572
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

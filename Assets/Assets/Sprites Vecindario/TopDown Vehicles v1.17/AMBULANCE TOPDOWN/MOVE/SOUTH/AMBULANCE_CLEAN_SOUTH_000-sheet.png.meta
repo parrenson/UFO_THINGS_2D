@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: a779b0e621394cc42ae172e618d6c8a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6180022611056329423
+    second: AMBULANCE_CLEAN_SOUTH_000-sheet_0
+  - first:
+      213: -4907970224698704310
+    second: AMBULANCE_CLEAN_SOUTH_000-sheet_1
+  - first:
+      213: -3539887068057832613
+    second: AMBULANCE_CLEAN_SOUTH_000-sheet_2
+  - first:
+      213: -7438344742639359615
+    second: AMBULANCE_CLEAN_SOUTH_000-sheet_3
+  - first:
+      213: 3242368262183361066
+    second: AMBULANCE_CLEAN_SOUTH_000-sheet_4
+  - first:
+      213: 8816748489015352193
+    second: AMBULANCE_CLEAN_SOUTH_000-sheet_5
+  - first:
+      213: -6032690784866911656
+    second: AMBULANCE_CLEAN_SOUTH_000-sheet_6
+  - first:
+      213: 2403686192740991660
+    second: AMBULANCE_CLEAN_SOUTH_000-sheet_7
+  - first:
+      213: 8490980369027586030
+    second: AMBULANCE_CLEAN_SOUTH_000-sheet_8
+  - first:
+      213: -7963119154376476227
+    second: AMBULANCE_CLEAN_SOUTH_000-sheet_9
+  - first:
+      213: -5251094632930620087
+    second: AMBULANCE_CLEAN_SOUTH_000-sheet_10
+  - first:
+      213: 9135133396200731960
+    second: AMBULANCE_CLEAN_SOUTH_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AMBULANCE_CLEAN_SOUTH_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 305
+        width: 40
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc205e352d9d3c550800000000000000
+      internalID: 6180022611056329423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMBULANCE_CLEAN_SOUTH_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 304
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4eb3ac851363ebb0800000000000000
+      internalID: -4907970224698704310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMBULANCE_CLEAN_SOUTH_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 304
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53f96b777bcfdec0800000000000000
+      internalID: -3539887068057832613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMBULANCE_CLEAN_SOUTH_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 304
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189261addd0b5c890800000000000000
+      internalID: -7438344742639359615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMBULANCE_CLEAN_SOUTH_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 164
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a907271c43ffc20800000000000000
+      internalID: 3242368262183361066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMBULANCE_CLEAN_SOUTH_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 163
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bd8b1a9026b5a70800000000000000
+      internalID: 8816748489015352193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMBULANCE_CLEAN_SOUTH_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 163
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a3c3891b3974ca0800000000000000
+      internalID: -6032690784866911656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMBULANCE_CLEAN_SOUTH_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 164
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca286d56bdb9b5120800000000000000
+      internalID: 2403686192740991660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMBULANCE_CLEAN_SOUTH_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 24
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee754b298a506d570800000000000000
+      internalID: 8490980369027586030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMBULANCE_CLEAN_SOUTH_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 24
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9f74bc1515d7190800000000000000
+      internalID: -7963119154376476227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMBULANCE_CLEAN_SOUTH_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 24
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dc53ab04d5027b0800000000000000
+      internalID: -5251094632930620087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AMBULANCE_CLEAN_SOUTH_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 24
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8353a508c6386ce70800000000000000
+      internalID: 9135133396200731960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AMBULANCE_CLEAN_SOUTH_000-sheet_0: 6180022611056329423
+      AMBULANCE_CLEAN_SOUTH_000-sheet_1: -4907970224698704310
+      AMBULANCE_CLEAN_SOUTH_000-sheet_10: -5251094632930620087
+      AMBULANCE_CLEAN_SOUTH_000-sheet_11: 9135133396200731960
+      AMBULANCE_CLEAN_SOUTH_000-sheet_2: -3539887068057832613
+      AMBULANCE_CLEAN_SOUTH_000-sheet_3: -7438344742639359615
+      AMBULANCE_CLEAN_SOUTH_000-sheet_4: 3242368262183361066
+      AMBULANCE_CLEAN_SOUTH_000-sheet_5: 8816748489015352193
+      AMBULANCE_CLEAN_SOUTH_000-sheet_6: -6032690784866911656
+      AMBULANCE_CLEAN_SOUTH_000-sheet_7: 2403686192740991660
+      AMBULANCE_CLEAN_SOUTH_000-sheet_8: 8490980369027586030
+      AMBULANCE_CLEAN_SOUTH_000-sheet_9: -7963119154376476227
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

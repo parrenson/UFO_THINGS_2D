@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 77ababd35392c0f4e9d79dbec47ddec2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5264846490086519986
+    second: White_LUXURY_CLEAN_NORTH_000-sheet_0
+  - first:
+      213: -3068256125990184156
+    second: White_LUXURY_CLEAN_NORTH_000-sheet_1
+  - first:
+      213: 8110475563875727407
+    second: White_LUXURY_CLEAN_NORTH_000-sheet_2
+  - first:
+      213: -4442824917666703932
+    second: White_LUXURY_CLEAN_NORTH_000-sheet_3
+  - first:
+      213: 3476439776924782483
+    second: White_LUXURY_CLEAN_NORTH_000-sheet_4
+  - first:
+      213: -9214520553463590563
+    second: White_LUXURY_CLEAN_NORTH_000-sheet_5
+  - first:
+      213: 7510779133234070982
+    second: White_LUXURY_CLEAN_NORTH_000-sheet_6
+  - first:
+      213: -8238699581783137105
+    second: White_LUXURY_CLEAN_NORTH_000-sheet_7
+  - first:
+      213: 315634357729119907
+    second: White_LUXURY_CLEAN_NORTH_000-sheet_8
+  - first:
+      213: -2659623830949184561
+    second: White_LUXURY_CLEAN_NORTH_000-sheet_9
+  - first:
+      213: 6615496955506917574
+    second: White_LUXURY_CLEAN_NORTH_000-sheet_10
+  - first:
+      213: 8043531774961380690
+    second: White_LUXURY_CLEAN_NORTH_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White_LUXURY_CLEAN_NORTH_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 209
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b4e69f2028fe6b0800000000000000
+      internalID: -5264846490086519986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LUXURY_CLEAN_NORTH_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 209
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b507a4f4d5b65d0800000000000000
+      internalID: -3068256125990184156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LUXURY_CLEAN_NORTH_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 209
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f287c40ed823e8070800000000000000
+      internalID: 8110475563875727407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LUXURY_CLEAN_NORTH_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 209
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5d837c64ae752c0800000000000000
+      internalID: -4442824917666703932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LUXURY_CLEAN_NORTH_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 109
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fc3a2ee8bce3030800000000000000
+      internalID: 3476439776924782483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LUXURY_CLEAN_NORTH_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 109
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51544390627f1080800000000000000
+      internalID: -9214520553463590563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LUXURY_CLEAN_NORTH_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 109
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c545dee3d5ab3860800000000000000
+      internalID: 7510779133234070982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LUXURY_CLEAN_NORTH_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 109
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa428a081624aad80800000000000000
+      internalID: -8238699581783137105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LUXURY_CLEAN_NORTH_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 9
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae4a5ba6cb516400800000000000000
+      internalID: 315634357729119907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LUXURY_CLEAN_NORTH_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 9
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb3c10973e171bd0800000000000000
+      internalID: -2659623830949184561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LUXURY_CLEAN_NORTH_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 9
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c00bad3e67fecb50800000000000000
+      internalID: 6615496955506917574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LUXURY_CLEAN_NORTH_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 9
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25de32a688d50af60800000000000000
+      internalID: 8043531774961380690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      White_LUXURY_CLEAN_NORTH_000-sheet_0: -5264846490086519986
+      White_LUXURY_CLEAN_NORTH_000-sheet_1: -3068256125990184156
+      White_LUXURY_CLEAN_NORTH_000-sheet_10: 6615496955506917574
+      White_LUXURY_CLEAN_NORTH_000-sheet_11: 8043531774961380690
+      White_LUXURY_CLEAN_NORTH_000-sheet_2: 8110475563875727407
+      White_LUXURY_CLEAN_NORTH_000-sheet_3: -4442824917666703932
+      White_LUXURY_CLEAN_NORTH_000-sheet_4: 3476439776924782483
+      White_LUXURY_CLEAN_NORTH_000-sheet_5: -9214520553463590563
+      White_LUXURY_CLEAN_NORTH_000-sheet_6: 7510779133234070982
+      White_LUXURY_CLEAN_NORTH_000-sheet_7: -8238699581783137105
+      White_LUXURY_CLEAN_NORTH_000-sheet_8: 315634357729119907
+      White_LUXURY_CLEAN_NORTH_000-sheet_9: -2659623830949184561
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

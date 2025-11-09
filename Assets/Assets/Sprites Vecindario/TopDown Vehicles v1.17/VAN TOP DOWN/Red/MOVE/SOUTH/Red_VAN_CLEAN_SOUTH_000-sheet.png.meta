@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: f7ae50f75f3e26c44879f3726c7c17f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1188328888940695669
+    second: Red_VAN_CLEAN_SOUTH_000-sheet_0
+  - first:
+      213: 2460034173521553048
+    second: Red_VAN_CLEAN_SOUTH_000-sheet_1
+  - first:
+      213: -3719347479144513773
+    second: Red_VAN_CLEAN_SOUTH_000-sheet_2
+  - first:
+      213: 2098288422294142457
+    second: Red_VAN_CLEAN_SOUTH_000-sheet_3
+  - first:
+      213: 4509154138593579773
+    second: Red_VAN_CLEAN_SOUTH_000-sheet_4
+  - first:
+      213: -1195045416825671460
+    second: Red_VAN_CLEAN_SOUTH_000-sheet_5
+  - first:
+      213: -1880124124307922736
+    second: Red_VAN_CLEAN_SOUTH_000-sheet_6
+  - first:
+      213: -7597869289767850920
+    second: Red_VAN_CLEAN_SOUTH_000-sheet_7
+  - first:
+      213: -4634774638928241179
+    second: Red_VAN_CLEAN_SOUTH_000-sheet_8
+  - first:
+      213: -795759318734065681
+    second: Red_VAN_CLEAN_SOUTH_000-sheet_9
+  - first:
+      213: -7074668031017879478
+    second: Red_VAN_CLEAN_SOUTH_000-sheet_10
+  - first:
+      213: 8682877570617108855
+    second: Red_VAN_CLEAN_SOUTH_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red_VAN_CLEAN_SOUTH_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 215
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fea5aeb25328fe0800000000000000
+      internalID: -1188328888940695669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_VAN_CLEAN_SOUTH_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 215
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896e2180c0cc32220800000000000000
+      internalID: 2460034173521553048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_VAN_CLEAN_SOUTH_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 214
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fb8557c29326cc0800000000000000
+      internalID: -3719347479144513773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_VAN_CLEAN_SOUTH_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 214
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd382fe33e9e1d10800000000000000
+      internalID: 2098288422294142457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_VAN_CLEAN_SOUTH_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 114
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df25a5c6ccbb39e30800000000000000
+      internalID: 4509154138593579773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_VAN_CLEAN_SOUTH_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 114
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0b5a766885a6fe0800000000000000
+      internalID: -1195045416825671460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_VAN_CLEAN_SOUTH_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 114
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0ebfcf11578e5e0800000000000000
+      internalID: -1880124124307922736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_VAN_CLEAN_SOUTH_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 114
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ca98dd222fe8690800000000000000
+      internalID: -7597869289767850920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_VAN_CLEAN_SOUTH_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 14
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed51b0a509fdafb0800000000000000
+      internalID: -4634774638928241179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_VAN_CLEAN_SOUTH_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 14
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef2620ad15e4f4f0800000000000000
+      internalID: -795759318734065681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_VAN_CLEAN_SOUTH_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 14
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48fd53b8eab1dd90800000000000000
+      internalID: -7074668031017879478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_VAN_CLEAN_SOUTH_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 15
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779e6d88527cf7870800000000000000
+      internalID: 8682877570617108855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Red_VAN_CLEAN_SOUTH_000-sheet_0: -1188328888940695669
+      Red_VAN_CLEAN_SOUTH_000-sheet_1: 2460034173521553048
+      Red_VAN_CLEAN_SOUTH_000-sheet_10: -7074668031017879478
+      Red_VAN_CLEAN_SOUTH_000-sheet_11: 8682877570617108855
+      Red_VAN_CLEAN_SOUTH_000-sheet_2: -3719347479144513773
+      Red_VAN_CLEAN_SOUTH_000-sheet_3: 2098288422294142457
+      Red_VAN_CLEAN_SOUTH_000-sheet_4: 4509154138593579773
+      Red_VAN_CLEAN_SOUTH_000-sheet_5: -1195045416825671460
+      Red_VAN_CLEAN_SOUTH_000-sheet_6: -1880124124307922736
+      Red_VAN_CLEAN_SOUTH_000-sheet_7: -7597869289767850920
+      Red_VAN_CLEAN_SOUTH_000-sheet_8: -4634774638928241179
+      Red_VAN_CLEAN_SOUTH_000-sheet_9: -795759318734065681
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

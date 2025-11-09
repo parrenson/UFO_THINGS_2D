@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 63abff5459ad98a418de0e51e34990a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8093551035369164540
+    second: Yellow_VAN_CLEAN_WEST_000-sheet_0
+  - first:
+      213: 2863511015855289220
+    second: Yellow_VAN_CLEAN_WEST_000-sheet_1
+  - first:
+      213: 3621315172039480777
+    second: Yellow_VAN_CLEAN_WEST_000-sheet_2
+  - first:
+      213: 8862673663551188705
+    second: Yellow_VAN_CLEAN_WEST_000-sheet_3
+  - first:
+      213: 446884784772442565
+    second: Yellow_VAN_CLEAN_WEST_000-sheet_4
+  - first:
+      213: -5513822999410616371
+    second: Yellow_VAN_CLEAN_WEST_000-sheet_5
+  - first:
+      213: 7990570084391765699
+    second: Yellow_VAN_CLEAN_WEST_000-sheet_6
+  - first:
+      213: 7214752355260082905
+    second: Yellow_VAN_CLEAN_WEST_000-sheet_7
+  - first:
+      213: -6511748492860471025
+    second: Yellow_VAN_CLEAN_WEST_000-sheet_8
+  - first:
+      213: -8590376689824667038
+    second: Yellow_VAN_CLEAN_WEST_000-sheet_9
+  - first:
+      213: 9179400495433494328
+    second: Yellow_VAN_CLEAN_WEST_000-sheet_10
+  - first:
+      213: 2276103145863754999
+    second: Yellow_VAN_CLEAN_WEST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yellow_VAN_CLEAN_WEST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 227
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe8ca209c1125070800000000000000
+      internalID: 8093551035369164540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_VAN_CLEAN_WEST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 227
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483f87ee81c3db720800000000000000
+      internalID: 2863511015855289220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_VAN_CLEAN_WEST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 227
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5552166fe714230800000000000000
+      internalID: 3621315172039480777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_VAN_CLEAN_WEST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 227
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eead249dba8efa70800000000000000
+      internalID: 8862673663551188705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_VAN_CLEAN_WEST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 127
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c963e31857a33600800000000000000
+      internalID: 446884784772442565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_VAN_CLEAN_WEST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 127
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc750cd0237fa73b0800000000000000
+      internalID: -5513822999410616371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_VAN_CLEAN_WEST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 127
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6c809e72534ee60800000000000000
+      internalID: 7990570084391765699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_VAN_CLEAN_WEST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 127
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9daa0bdaa03ff1460800000000000000
+      internalID: 7214752355260082905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_VAN_CLEAN_WEST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 27
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09cd581f3f91a5a0800000000000000
+      internalID: -6511748492860471025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_VAN_CLEAN_WEST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 27
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a64341ae9d8c880800000000000000
+      internalID: -8590376689824667038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_VAN_CLEAN_WEST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 27
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fab55bd18c36f70800000000000000
+      internalID: 9179400495433494328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_VAN_CLEAN_WEST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 27
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4bb5970c7569f10800000000000000
+      internalID: 2276103145863754999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Yellow_VAN_CLEAN_WEST_000-sheet_0: 8093551035369164540
+      Yellow_VAN_CLEAN_WEST_000-sheet_1: 2863511015855289220
+      Yellow_VAN_CLEAN_WEST_000-sheet_10: 9179400495433494328
+      Yellow_VAN_CLEAN_WEST_000-sheet_11: 2276103145863754999
+      Yellow_VAN_CLEAN_WEST_000-sheet_2: 3621315172039480777
+      Yellow_VAN_CLEAN_WEST_000-sheet_3: 8862673663551188705
+      Yellow_VAN_CLEAN_WEST_000-sheet_4: 446884784772442565
+      Yellow_VAN_CLEAN_WEST_000-sheet_5: -5513822999410616371
+      Yellow_VAN_CLEAN_WEST_000-sheet_6: 7990570084391765699
+      Yellow_VAN_CLEAN_WEST_000-sheet_7: 7214752355260082905
+      Yellow_VAN_CLEAN_WEST_000-sheet_8: -6511748492860471025
+      Yellow_VAN_CLEAN_WEST_000-sheet_9: -8590376689824667038
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

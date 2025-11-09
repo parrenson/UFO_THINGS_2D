@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: e31515b87ac60af478a72d7b73eec620
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5802843047520308107
+    second: Magenta_MICRO_CLEAN_SOUTH_000-sheet_0
+  - first:
+      213: -8327480323772291796
+    second: Magenta_MICRO_CLEAN_SOUTH_000-sheet_1
+  - first:
+      213: -7251027123701858001
+    second: Magenta_MICRO_CLEAN_SOUTH_000-sheet_2
+  - first:
+      213: 6669915035289583567
+    second: Magenta_MICRO_CLEAN_SOUTH_000-sheet_3
+  - first:
+      213: 2954220046975612918
+    second: Magenta_MICRO_CLEAN_SOUTH_000-sheet_4
+  - first:
+      213: -2027037585771119680
+    second: Magenta_MICRO_CLEAN_SOUTH_000-sheet_5
+  - first:
+      213: 251242036490517812
+    second: Magenta_MICRO_CLEAN_SOUTH_000-sheet_6
+  - first:
+      213: -684364662231345180
+    second: Magenta_MICRO_CLEAN_SOUTH_000-sheet_7
+  - first:
+      213: 5305849546306693916
+    second: Magenta_MICRO_CLEAN_SOUTH_000-sheet_8
+  - first:
+      213: -8670261348515662674
+    second: Magenta_MICRO_CLEAN_SOUTH_000-sheet_9
+  - first:
+      213: -4450220690222934913
+    second: Magenta_MICRO_CLEAN_SOUTH_000-sheet_10
+  - first:
+      213: -3401888095430037177
+    second: Magenta_MICRO_CLEAN_SOUTH_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magenta_MICRO_CLEAN_SOUTH_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 225
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574f4393ef8287fa0800000000000000
+      internalID: -5802843047520308107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MICRO_CLEAN_SOUTH_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 225
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c256f7334c8de6c80800000000000000
+      internalID: -8327480323772291796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MICRO_CLEAN_SOUTH_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 225
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f214703af3d2f5b90800000000000000
+      internalID: -7251027123701858001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MICRO_CLEAN_SOUTH_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 225
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcff878c26c409c50800000000000000
+      internalID: 6669915035289583567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MICRO_CLEAN_SOUTH_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 125
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7b1580b7f7ff820800000000000000
+      internalID: 2954220046975612918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MICRO_CLEAN_SOUTH_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 125
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb3fb13e048ed3e0800000000000000
+      internalID: -2027037585771119680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MICRO_CLEAN_SOUTH_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 125
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43db9a11d479c7300800000000000000
+      internalID: 251242036490517812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MICRO_CLEAN_SOUTH_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 125
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7ded237f5a086f0800000000000000
+      internalID: -684364662231345180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MICRO_CLEAN_SOUTH_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 25
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b274ffc0a22a940800000000000000
+      internalID: 5305849546306693916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MICRO_CLEAN_SOUTH_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 25
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4bce39d3b0da780800000000000000
+      internalID: -8670261348515662674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MICRO_CLEAN_SOUTH_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 25
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f741b2b4cd3ad32c0800000000000000
+      internalID: -4450220690222934913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MICRO_CLEAN_SOUTH_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 25
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741334a1dc01ac0d0800000000000000
+      internalID: -3401888095430037177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_0: -5802843047520308107
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_1: -8327480323772291796
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_10: -4450220690222934913
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_11: -3401888095430037177
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_2: -7251027123701858001
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_3: 6669915035289583567
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_4: 2954220046975612918
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_5: -2027037585771119680
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_6: 251242036490517812
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_7: -684364662231345180
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_8: 5305849546306693916
+      Magenta_MICRO_CLEAN_SOUTH_000-sheet_9: -8670261348515662674
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

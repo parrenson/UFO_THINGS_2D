@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 0af57081e8a151f49a4db9656a7b8fbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1931488908830642722
+    second: White_LIMO_CLEAN_NORTH_000-sheet_0
+  - first:
+      213: 7525989313493240743
+    second: White_LIMO_CLEAN_NORTH_000-sheet_1
+  - first:
+      213: -1074553379810349642
+    second: White_LIMO_CLEAN_NORTH_000-sheet_2
+  - first:
+      213: 6513447204872633585
+    second: White_LIMO_CLEAN_NORTH_000-sheet_3
+  - first:
+      213: 5853959578198670228
+    second: White_LIMO_CLEAN_NORTH_000-sheet_4
+  - first:
+      213: 4191453112095629907
+    second: White_LIMO_CLEAN_NORTH_000-sheet_5
+  - first:
+      213: -2660685674231978361
+    second: White_LIMO_CLEAN_NORTH_000-sheet_6
+  - first:
+      213: -5408215720375481483
+    second: White_LIMO_CLEAN_NORTH_000-sheet_7
+  - first:
+      213: 3588183392761404847
+    second: White_LIMO_CLEAN_NORTH_000-sheet_8
+  - first:
+      213: 7780246069358128863
+    second: White_LIMO_CLEAN_NORTH_000-sheet_9
+  - first:
+      213: -3150408210140746233
+    second: White_LIMO_CLEAN_NORTH_000-sheet_10
+  - first:
+      213: 8010501921271752329
+    second: White_LIMO_CLEAN_NORTH_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White_LIMO_CLEAN_NORTH_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 296
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddea852219f135e0800000000000000
+      internalID: -1931488908830642722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LIMO_CLEAN_NORTH_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 296
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab862ef76fa17860800000000000000
+      internalID: 7525989313493240743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LIMO_CLEAN_NORTH_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 296
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd6530f46b6611f0800000000000000
+      internalID: -1074553379810349642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LIMO_CLEAN_NORTH_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 297
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcb1bd19b9646a50800000000000000
+      internalID: 6513447204872633585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LIMO_CLEAN_NORTH_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 157
+        width: 40
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bf60488317d3150800000000000000
+      internalID: 5853959578198670228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LIMO_CLEAN_NORTH_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 157
+        width: 40
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3526a2fe5680b2a30800000000000000
+      internalID: 4191453112095629907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LIMO_CLEAN_NORTH_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 157
+        width: 40
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786ae68e978531bd0800000000000000
+      internalID: -2660685674231978361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LIMO_CLEAN_NORTH_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 157
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b065ec47822f4b0800000000000000
+      internalID: -5408215720375481483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LIMO_CLEAN_NORTH_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faddf72e8c9cbc130800000000000000
+      internalID: 3588183392761404847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LIMO_CLEAN_NORTH_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 16
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde683d149cf8fb60800000000000000
+      internalID: 7780246069358128863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LIMO_CLEAN_NORTH_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 16
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e2619ac608744d0800000000000000
+      internalID: -3150408210140746233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_LIMO_CLEAN_NORTH_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 16
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986acf15e050b2f60800000000000000
+      internalID: 8010501921271752329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      White_LIMO_CLEAN_NORTH_000-sheet_0: -1931488908830642722
+      White_LIMO_CLEAN_NORTH_000-sheet_1: 7525989313493240743
+      White_LIMO_CLEAN_NORTH_000-sheet_10: -3150408210140746233
+      White_LIMO_CLEAN_NORTH_000-sheet_11: 8010501921271752329
+      White_LIMO_CLEAN_NORTH_000-sheet_2: -1074553379810349642
+      White_LIMO_CLEAN_NORTH_000-sheet_3: 6513447204872633585
+      White_LIMO_CLEAN_NORTH_000-sheet_4: 5853959578198670228
+      White_LIMO_CLEAN_NORTH_000-sheet_5: 4191453112095629907
+      White_LIMO_CLEAN_NORTH_000-sheet_6: -2660685674231978361
+      White_LIMO_CLEAN_NORTH_000-sheet_7: -5408215720375481483
+      White_LIMO_CLEAN_NORTH_000-sheet_8: 3588183392761404847
+      White_LIMO_CLEAN_NORTH_000-sheet_9: 7780246069358128863
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

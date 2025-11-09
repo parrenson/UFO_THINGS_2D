@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 4739e522c7170074ab73d896acfda33b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 178443493881917666
+    second: Blue_HatchBack_CLEAN_EAST_000-sheet_0
+  - first:
+      213: 6295904997640505305
+    second: Blue_HatchBack_CLEAN_EAST_000-sheet_1
+  - first:
+      213: -5858698595759103655
+    second: Blue_HatchBack_CLEAN_EAST_000-sheet_2
+  - first:
+      213: 7125856475543782665
+    second: Blue_HatchBack_CLEAN_EAST_000-sheet_3
+  - first:
+      213: 5515790943436815879
+    second: Blue_HatchBack_CLEAN_EAST_000-sheet_4
+  - first:
+      213: -1763860832170622226
+    second: Blue_HatchBack_CLEAN_EAST_000-sheet_5
+  - first:
+      213: -1130175915570275213
+    second: Blue_HatchBack_CLEAN_EAST_000-sheet_6
+  - first:
+      213: 7457461045590109637
+    second: Blue_HatchBack_CLEAN_EAST_000-sheet_7
+  - first:
+      213: 7389088119869995194
+    second: Blue_HatchBack_CLEAN_EAST_000-sheet_8
+  - first:
+      213: 3324756524373914765
+    second: Blue_HatchBack_CLEAN_EAST_000-sheet_9
+  - first:
+      213: 309916752822715457
+    second: Blue_HatchBack_CLEAN_EAST_000-sheet_10
+  - first:
+      213: 563242439247371213
+    second: Blue_HatchBack_CLEAN_EAST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue_HatchBack_CLEAN_EAST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 225
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0bf498965f97200800000000000000
+      internalID: 178443493881917666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_HatchBack_CLEAN_EAST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 225
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d708fbfc3c8f5750800000000000000
+      internalID: 6295904997640505305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_HatchBack_CLEAN_EAST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 225
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951e2b9faa8b1bea0800000000000000
+      internalID: -5858698595759103655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_HatchBack_CLEAN_EAST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 225
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9054439c5b024e260800000000000000
+      internalID: 7125856475543782665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_HatchBack_CLEAN_EAST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 125
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e3ede93a60c8c40800000000000000
+      internalID: 5515790943436815879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_HatchBack_CLEAN_EAST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 125
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2ce312be18587e0800000000000000
+      internalID: -1763860832170622226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_HatchBack_CLEAN_EAST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 125
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c5bb22efec050f0800000000000000
+      internalID: -1130175915570275213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_HatchBack_CLEAN_EAST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 125
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd26b44f493e7760800000000000000
+      internalID: 7457461045590109637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_HatchBack_CLEAN_EAST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 25
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8f8e6fe705b8660800000000000000
+      internalID: 7389088119869995194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_HatchBack_CLEAN_EAST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 25
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8438ff8178e32e20800000000000000
+      internalID: 3324756524373914765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_HatchBack_CLEAN_EAST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 25
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144c0f905ab0d4400800000000000000
+      internalID: 309916752822715457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_HatchBack_CLEAN_EAST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 25
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb93c9a30a01d700800000000000000
+      internalID: 563242439247371213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blue_HatchBack_CLEAN_EAST_000-sheet_0: 178443493881917666
+      Blue_HatchBack_CLEAN_EAST_000-sheet_1: 6295904997640505305
+      Blue_HatchBack_CLEAN_EAST_000-sheet_10: 309916752822715457
+      Blue_HatchBack_CLEAN_EAST_000-sheet_11: 563242439247371213
+      Blue_HatchBack_CLEAN_EAST_000-sheet_2: -5858698595759103655
+      Blue_HatchBack_CLEAN_EAST_000-sheet_3: 7125856475543782665
+      Blue_HatchBack_CLEAN_EAST_000-sheet_4: 5515790943436815879
+      Blue_HatchBack_CLEAN_EAST_000-sheet_5: -1763860832170622226
+      Blue_HatchBack_CLEAN_EAST_000-sheet_6: -1130175915570275213
+      Blue_HatchBack_CLEAN_EAST_000-sheet_7: 7457461045590109637
+      Blue_HatchBack_CLEAN_EAST_000-sheet_8: 7389088119869995194
+      Blue_HatchBack_CLEAN_EAST_000-sheet_9: 3324756524373914765
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 08798a732ae65b047b5597f1ade1c5cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7863509297930044114
+    second: CAMPER_CLEAN_WEST_000-sheet_0
+  - first:
+      213: -7369537951755094522
+    second: CAMPER_CLEAN_WEST_000-sheet_1
+  - first:
+      213: -452922521263841896
+    second: CAMPER_CLEAN_WEST_000-sheet_2
+  - first:
+      213: 2379328097368192315
+    second: CAMPER_CLEAN_WEST_000-sheet_3
+  - first:
+      213: 1628132810193343156
+    second: CAMPER_CLEAN_WEST_000-sheet_4
+  - first:
+      213: 7961120423996153514
+    second: CAMPER_CLEAN_WEST_000-sheet_5
+  - first:
+      213: 4119363965322401066
+    second: CAMPER_CLEAN_WEST_000-sheet_6
+  - first:
+      213: 5346113850243805484
+    second: CAMPER_CLEAN_WEST_000-sheet_7
+  - first:
+      213: 6700618173974801789
+    second: CAMPER_CLEAN_WEST_000-sheet_8
+  - first:
+      213: 5712332590409769995
+    second: CAMPER_CLEAN_WEST_000-sheet_9
+  - first:
+      213: 409347916587718388
+    second: CAMPER_CLEAN_WEST_000-sheet_10
+  - first:
+      213: -4608580530556336712
+    second: CAMPER_CLEAN_WEST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CAMPER_CLEAN_WEST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 327
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2df5e8c4f33fd290800000000000000
+      internalID: -7863509297930044114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMPER_CLEAN_WEST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 327
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606b0e247442ab990800000000000000
+      internalID: -7369537951755094522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMPER_CLEAN_WEST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 327
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d5b49dd55e6b9f0800000000000000
+      internalID: -452922521263841896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMPER_CLEAN_WEST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 327
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35bcbf5c42150120800000000000000
+      internalID: 2379328097368192315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMPER_CLEAN_WEST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 187
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b29bb62a2a489610800000000000000
+      internalID: 1628132810193343156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMPER_CLEAN_WEST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 187
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaed56688d49b7e60800000000000000
+      internalID: 7961120423996153514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMPER_CLEAN_WEST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 187
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25169d73bbea2930800000000000000
+      internalID: 4119363965322401066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMPER_CLEAN_WEST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 187
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21f39cc836313a40800000000000000
+      internalID: 5346113850243805484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMPER_CLEAN_WEST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 47
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d6b435ab06dfc50800000000000000
+      internalID: 6700618173974801789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMPER_CLEAN_WEST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 47
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04e24ac938464f40800000000000000
+      internalID: 5712332590409769995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMPER_CLEAN_WEST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 47
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6d1c5e2cb4ea500800000000000000
+      internalID: 409347916587718388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CAMPER_CLEAN_WEST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 47
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5886dbc680b00c0800000000000000
+      internalID: -4608580530556336712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CAMPER_CLEAN_WEST_000-sheet_0: -7863509297930044114
+      CAMPER_CLEAN_WEST_000-sheet_1: -7369537951755094522
+      CAMPER_CLEAN_WEST_000-sheet_10: 409347916587718388
+      CAMPER_CLEAN_WEST_000-sheet_11: -4608580530556336712
+      CAMPER_CLEAN_WEST_000-sheet_2: -452922521263841896
+      CAMPER_CLEAN_WEST_000-sheet_3: 2379328097368192315
+      CAMPER_CLEAN_WEST_000-sheet_4: 1628132810193343156
+      CAMPER_CLEAN_WEST_000-sheet_5: 7961120423996153514
+      CAMPER_CLEAN_WEST_000-sheet_6: 4119363965322401066
+      CAMPER_CLEAN_WEST_000-sheet_7: 5346113850243805484
+      CAMPER_CLEAN_WEST_000-sheet_8: 6700618173974801789
+      CAMPER_CLEAN_WEST_000-sheet_9: 5712332590409769995
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

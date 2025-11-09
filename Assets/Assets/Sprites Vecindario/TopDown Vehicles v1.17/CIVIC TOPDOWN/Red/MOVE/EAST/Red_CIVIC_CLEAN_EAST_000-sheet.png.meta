@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: a8c32229d040b0c4380561944909452c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8902832123417305313
+    second: Red_CIVIC_CLEAN_EAST_000-sheet_0
+  - first:
+      213: 8975178651781506163
+    second: Red_CIVIC_CLEAN_EAST_000-sheet_1
+  - first:
+      213: 4178499387226002704
+    second: Red_CIVIC_CLEAN_EAST_000-sheet_2
+  - first:
+      213: 714549856367306737
+    second: Red_CIVIC_CLEAN_EAST_000-sheet_3
+  - first:
+      213: -341214762367565719
+    second: Red_CIVIC_CLEAN_EAST_000-sheet_4
+  - first:
+      213: 7241608106852927066
+    second: Red_CIVIC_CLEAN_EAST_000-sheet_5
+  - first:
+      213: -4573223112110269927
+    second: Red_CIVIC_CLEAN_EAST_000-sheet_6
+  - first:
+      213: -4024640372429207620
+    second: Red_CIVIC_CLEAN_EAST_000-sheet_7
+  - first:
+      213: 6998408209242563318
+    second: Red_CIVIC_CLEAN_EAST_000-sheet_8
+  - first:
+      213: 6646466534209191351
+    second: Red_CIVIC_CLEAN_EAST_000-sheet_9
+  - first:
+      213: 6482281446904507837
+    second: Red_CIVIC_CLEAN_EAST_000-sheet_10
+  - first:
+      213: -3204376702356012362
+    second: Red_CIVIC_CLEAN_EAST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red_CIVIC_CLEAN_EAST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 228
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0a933a5a63d8b70800000000000000
+      internalID: 8902832123417305313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CIVIC_CLEAN_EAST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 228
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3742b176e6d3e8c70800000000000000
+      internalID: 8975178651781506163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CIVIC_CLEAN_EAST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 228
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0151bc5dd030df930800000000000000
+      internalID: 4178499387226002704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CIVIC_CLEAN_EAST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 228
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7641bfe479ae900800000000000000
+      internalID: 714549856367306737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CIVIC_CLEAN_EAST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 128
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96046f04bf2c34bf0800000000000000
+      internalID: -341214762367565719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CIVIC_CLEAN_EAST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 128
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56ce8b943c5f7460800000000000000
+      internalID: 7241608106852927066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CIVIC_CLEAN_EAST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 128
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a9f0c3fc5a880c0800000000000000
+      internalID: -4573223112110269927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CIVIC_CLEAN_EAST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 128
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb749ac97ea9528c0800000000000000
+      internalID: -4024640372429207620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CIVIC_CLEAN_EAST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 28
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2a419ef275f1160800000000000000
+      internalID: 6998408209242563318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CIVIC_CLEAN_EAST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 28
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd7f0f291efc3c50800000000000000
+      internalID: 6646466534209191351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CIVIC_CLEAN_EAST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 28
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd29d0a1a0b5f950800000000000000
+      internalID: 6482281446904507837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_CIVIC_CLEAN_EAST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 28
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b24881ed54c783d0800000000000000
+      internalID: -3204376702356012362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Red_CIVIC_CLEAN_EAST_000-sheet_0: 8902832123417305313
+      Red_CIVIC_CLEAN_EAST_000-sheet_1: 8975178651781506163
+      Red_CIVIC_CLEAN_EAST_000-sheet_10: 6482281446904507837
+      Red_CIVIC_CLEAN_EAST_000-sheet_11: -3204376702356012362
+      Red_CIVIC_CLEAN_EAST_000-sheet_2: 4178499387226002704
+      Red_CIVIC_CLEAN_EAST_000-sheet_3: 714549856367306737
+      Red_CIVIC_CLEAN_EAST_000-sheet_4: -341214762367565719
+      Red_CIVIC_CLEAN_EAST_000-sheet_5: 7241608106852927066
+      Red_CIVIC_CLEAN_EAST_000-sheet_6: -4573223112110269927
+      Red_CIVIC_CLEAN_EAST_000-sheet_7: -4024640372429207620
+      Red_CIVIC_CLEAN_EAST_000-sheet_8: 6998408209242563318
+      Red_CIVIC_CLEAN_EAST_000-sheet_9: 6646466534209191351
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

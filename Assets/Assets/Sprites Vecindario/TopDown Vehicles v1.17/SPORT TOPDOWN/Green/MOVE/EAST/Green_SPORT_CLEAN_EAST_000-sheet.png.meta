@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 32f483856a28eb445bd990d76b07ebb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -941343196274171540
+    second: Green_SPORT_CLEAN_EAST_000-sheet_0
+  - first:
+      213: 3905972801511154922
+    second: Green_SPORT_CLEAN_EAST_000-sheet_1
+  - first:
+      213: 3367183806588826221
+    second: Green_SPORT_CLEAN_EAST_000-sheet_2
+  - first:
+      213: 2312784469729609580
+    second: Green_SPORT_CLEAN_EAST_000-sheet_3
+  - first:
+      213: -6839718185811629203
+    second: Green_SPORT_CLEAN_EAST_000-sheet_4
+  - first:
+      213: -3669113313498573563
+    second: Green_SPORT_CLEAN_EAST_000-sheet_5
+  - first:
+      213: 5730973334334874734
+    second: Green_SPORT_CLEAN_EAST_000-sheet_6
+  - first:
+      213: 2718377958115388807
+    second: Green_SPORT_CLEAN_EAST_000-sheet_7
+  - first:
+      213: -3684583318472912672
+    second: Green_SPORT_CLEAN_EAST_000-sheet_8
+  - first:
+      213: 8058051517765121108
+    second: Green_SPORT_CLEAN_EAST_000-sheet_9
+  - first:
+      213: 1116622898636710872
+    second: Green_SPORT_CLEAN_EAST_000-sheet_10
+  - first:
+      213: -4594436933373280728
+    second: Green_SPORT_CLEAN_EAST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green_SPORT_CLEAN_EAST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 226
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61e856b95dafe2f0800000000000000
+      internalID: -941343196274171540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SPORT_CLEAN_EAST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 226
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4e868719dc43630800000000000000
+      internalID: 3905972801511154922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SPORT_CLEAN_EAST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 226
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62bc2df4d3aabe20800000000000000
+      internalID: 3367183806588826221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SPORT_CLEAN_EAST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 226
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c670648b839a81020800000000000000
+      internalID: 2312784469729609580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SPORT_CLEAN_EAST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 126
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b2be26c807411a0800000000000000
+      internalID: -6839718185811629203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SPORT_CLEAN_EAST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 126
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505d24491e0b41dc0800000000000000
+      internalID: -3669113313498573563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SPORT_CLEAN_EAST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 126
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64244232e1888f40800000000000000
+      internalID: 5730973334334874734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SPORT_CLEAN_EAST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 126
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d28bea95e99b520800000000000000
+      internalID: 2718377958115388807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SPORT_CLEAN_EAST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 26
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0971d5efabddcc0800000000000000
+      internalID: -3684583318472912672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SPORT_CLEAN_EAST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 26
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454ff2a7923f3df60800000000000000
+      internalID: 8058051517765121108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SPORT_CLEAN_EAST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 26
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3ee453c9a0f7f00800000000000000
+      internalID: 1116622898636710872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SPORT_CLEAN_EAST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 26
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82eb95393f74d30c0800000000000000
+      internalID: -4594436933373280728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green_SPORT_CLEAN_EAST_000-sheet_0: -941343196274171540
+      Green_SPORT_CLEAN_EAST_000-sheet_1: 3905972801511154922
+      Green_SPORT_CLEAN_EAST_000-sheet_10: 1116622898636710872
+      Green_SPORT_CLEAN_EAST_000-sheet_11: -4594436933373280728
+      Green_SPORT_CLEAN_EAST_000-sheet_2: 3367183806588826221
+      Green_SPORT_CLEAN_EAST_000-sheet_3: 2312784469729609580
+      Green_SPORT_CLEAN_EAST_000-sheet_4: -6839718185811629203
+      Green_SPORT_CLEAN_EAST_000-sheet_5: -3669113313498573563
+      Green_SPORT_CLEAN_EAST_000-sheet_6: 5730973334334874734
+      Green_SPORT_CLEAN_EAST_000-sheet_7: 2718377958115388807
+      Green_SPORT_CLEAN_EAST_000-sheet_8: -3684583318472912672
+      Green_SPORT_CLEAN_EAST_000-sheet_9: 8058051517765121108
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

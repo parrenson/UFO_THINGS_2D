@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 783be25cbf9f5c2489a7d1d0094d34e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 544554633792785837
+    second: Black_LUXURY_CLEAN_EAST_000-sheet_0
+  - first:
+      213: -1250607607955248102
+    second: Black_LUXURY_CLEAN_EAST_000-sheet_1
+  - first:
+      213: -803885767061027787
+    second: Black_LUXURY_CLEAN_EAST_000-sheet_2
+  - first:
+      213: -34987833095288173
+    second: Black_LUXURY_CLEAN_EAST_000-sheet_3
+  - first:
+      213: -8842578339540918530
+    second: Black_LUXURY_CLEAN_EAST_000-sheet_4
+  - first:
+      213: 1442973901305885337
+    second: Black_LUXURY_CLEAN_EAST_000-sheet_5
+  - first:
+      213: -5794997004970335842
+    second: Black_LUXURY_CLEAN_EAST_000-sheet_6
+  - first:
+      213: -4027391151761417859
+    second: Black_LUXURY_CLEAN_EAST_000-sheet_7
+  - first:
+      213: 7208339733664951030
+    second: Black_LUXURY_CLEAN_EAST_000-sheet_8
+  - first:
+      213: -8314981527059793490
+    second: Black_LUXURY_CLEAN_EAST_000-sheet_9
+  - first:
+      213: -5051267434385746933
+    second: Black_LUXURY_CLEAN_EAST_000-sheet_10
+  - first:
+      213: -783054333543986024
+    second: Black_LUXURY_CLEAN_EAST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black_LUXURY_CLEAN_EAST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 225
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad0304ed85ae8700800000000000000
+      internalID: 544554633792785837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_LUXURY_CLEAN_EAST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 225
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c2d6ea103f4aee0800000000000000
+      internalID: -1250607607955248102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_LUXURY_CLEAN_EAST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 225
+        width: 92
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534c55e672608d4f0800000000000000
+      internalID: -803885767061027787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_LUXURY_CLEAN_EAST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 225
+        width: 92
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a05ec40c2b38ff0800000000000000
+      internalID: -34987833095288173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_LUXURY_CLEAN_EAST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 125
+        width: 92
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe9915a9d9d84580800000000000000
+      internalID: -8842578339540918530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_LUXURY_CLEAN_EAST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 125
+        width: 92
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9923f773e19760410800000000000000
+      internalID: 1442973901305885337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_LUXURY_CLEAN_EAST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 125
+        width: 92
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e916a4c5de8049fa0800000000000000
+      internalID: -5794997004970335842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_LUXURY_CLEAN_EAST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 125
+        width: 92
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7995b3e515db18c0800000000000000
+      internalID: -4027391151761417859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_LUXURY_CLEAN_EAST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 25
+        width: 92
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faee6ddbca290460800000000000000
+      internalID: 7208339733664951030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_LUXURY_CLEAN_EAST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 25
+        width: 92
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea97aa51b504b9c80800000000000000
+      internalID: -8314981527059793490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_LUXURY_CLEAN_EAST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 25
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0450fbf70b46e9b0800000000000000
+      internalID: -5051267434385746933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_LUXURY_CLEAN_EAST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 25
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cc7418b380225f0800000000000000
+      internalID: -783054333543986024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black_LUXURY_CLEAN_EAST_000-sheet_0: 544554633792785837
+      Black_LUXURY_CLEAN_EAST_000-sheet_1: -1250607607955248102
+      Black_LUXURY_CLEAN_EAST_000-sheet_10: -5051267434385746933
+      Black_LUXURY_CLEAN_EAST_000-sheet_11: -783054333543986024
+      Black_LUXURY_CLEAN_EAST_000-sheet_2: -803885767061027787
+      Black_LUXURY_CLEAN_EAST_000-sheet_3: -34987833095288173
+      Black_LUXURY_CLEAN_EAST_000-sheet_4: -8842578339540918530
+      Black_LUXURY_CLEAN_EAST_000-sheet_5: 1442973901305885337
+      Black_LUXURY_CLEAN_EAST_000-sheet_6: -5794997004970335842
+      Black_LUXURY_CLEAN_EAST_000-sheet_7: -4027391151761417859
+      Black_LUXURY_CLEAN_EAST_000-sheet_8: 7208339733664951030
+      Black_LUXURY_CLEAN_EAST_000-sheet_9: -8314981527059793490
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

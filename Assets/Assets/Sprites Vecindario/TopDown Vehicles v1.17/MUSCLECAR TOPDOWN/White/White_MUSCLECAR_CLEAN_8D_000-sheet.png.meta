@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 4023f85d3f2cf0c4b89a895fefa11a6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6834018554161251624
+    second: White_MUSCLECAR_CLEAN_8D_000-sheet_0
+  - first:
+      213: -8782499846717386679
+    second: White_MUSCLECAR_CLEAN_8D_000-sheet_1
+  - first:
+      213: -7167468356849202453
+    second: White_MUSCLECAR_CLEAN_8D_000-sheet_2
+  - first:
+      213: 8381894447085093742
+    second: White_MUSCLECAR_CLEAN_8D_000-sheet_3
+  - first:
+      213: 3345488152500193648
+    second: White_MUSCLECAR_CLEAN_8D_000-sheet_4
+  - first:
+      213: 2221463617482769650
+    second: White_MUSCLECAR_CLEAN_8D_000-sheet_5
+  - first:
+      213: -7471357092680700664
+    second: White_MUSCLECAR_CLEAN_8D_000-sheet_6
+  - first:
+      213: -3987233874793388421
+    second: White_MUSCLECAR_CLEAN_8D_000-sheet_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White_MUSCLECAR_CLEAN_8D_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 225
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da3aca4550b821a0800000000000000
+      internalID: -6834018554161251624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_MUSCLECAR_CLEAN_8D_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 214
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940dc7ccbea4e1680800000000000000
+      internalID: -8782499846717386679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_MUSCLECAR_CLEAN_8D_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 211
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea862b1189088c90800000000000000
+      internalID: -7167468356849202453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_MUSCLECAR_CLEAN_8D_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 114
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6383572798725470800000000000000
+      internalID: 8381894447085093742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_MUSCLECAR_CLEAN_8D_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 125
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0794d02efbf8d6e20800000000000000
+      internalID: 3345488152500193648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_MUSCLECAR_CLEAN_8D_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 114
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4c389e36934de10800000000000000
+      internalID: 2221463617482769650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_MUSCLECAR_CLEAN_8D_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 13
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80deba42f48605890800000000000000
+      internalID: -7471357092680700664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_MUSCLECAR_CLEAN_8D_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 13
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7629888aef7aa8c0800000000000000
+      internalID: -3987233874793388421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      White_MUSCLECAR_CLEAN_8D_000-sheet_0: -6834018554161251624
+      White_MUSCLECAR_CLEAN_8D_000-sheet_1: -8782499846717386679
+      White_MUSCLECAR_CLEAN_8D_000-sheet_2: -7167468356849202453
+      White_MUSCLECAR_CLEAN_8D_000-sheet_3: 8381894447085093742
+      White_MUSCLECAR_CLEAN_8D_000-sheet_4: 3345488152500193648
+      White_MUSCLECAR_CLEAN_8D_000-sheet_5: 2221463617482769650
+      White_MUSCLECAR_CLEAN_8D_000-sheet_6: -7471357092680700664
+      White_MUSCLECAR_CLEAN_8D_000-sheet_7: -3987233874793388421
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

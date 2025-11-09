@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 79304babb6e03f642b1df8dc9050442a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3316324921426978298
+    second: Magenta_LIMO_CLEAN_EAST_000-sheet_0
+  - first:
+      213: -8885733537787054083
+    second: Magenta_LIMO_CLEAN_EAST_000-sheet_1
+  - first:
+      213: 7425372190085844646
+    second: Magenta_LIMO_CLEAN_EAST_000-sheet_2
+  - first:
+      213: 8276886257304485965
+    second: Magenta_LIMO_CLEAN_EAST_000-sheet_3
+  - first:
+      213: 5931745248619088797
+    second: Magenta_LIMO_CLEAN_EAST_000-sheet_4
+  - first:
+      213: -8391815086741098691
+    second: Magenta_LIMO_CLEAN_EAST_000-sheet_5
+  - first:
+      213: -2281442566993315887
+    second: Magenta_LIMO_CLEAN_EAST_000-sheet_6
+  - first:
+      213: -3373274086349140427
+    second: Magenta_LIMO_CLEAN_EAST_000-sheet_7
+  - first:
+      213: 2760412058293901732
+    second: Magenta_LIMO_CLEAN_EAST_000-sheet_8
+  - first:
+      213: 3422533279289109890
+    second: Magenta_LIMO_CLEAN_EAST_000-sheet_9
+  - first:
+      213: 986131616219851464
+    second: Magenta_LIMO_CLEAN_EAST_000-sheet_10
+  - first:
+      213: -1571072753374167694
+    second: Magenta_LIMO_CLEAN_EAST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magenta_LIMO_CLEAN_EAST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 327
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af52e6502f3f50e20800000000000000
+      internalID: 3316324921426978298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_LIMO_CLEAN_EAST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 327
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df77d6f0d688fa480800000000000000
+      internalID: -8885733537787054083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_LIMO_CLEAN_EAST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 327
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae81236aa83c0760800000000000000
+      internalID: 7425372190085844646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_LIMO_CLEAN_EAST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 327
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4042fcb2386dd270800000000000000
+      internalID: 8276886257304485965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_LIMO_CLEAN_EAST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 187
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b4d0a30eac15250800000000000000
+      internalID: 5931745248619088797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_LIMO_CLEAN_EAST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 187
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f680ee3a84a8b80800000000000000
+      internalID: -8391815086741098691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_LIMO_CLEAN_EAST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 187
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d778eaa210b650e0800000000000000
+      internalID: -2281442566993315887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_LIMO_CLEAN_EAST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 187
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e01214719bf21d0800000000000000
+      internalID: -3373274086349140427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_LIMO_CLEAN_EAST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 47
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a910584424fe4620800000000000000
+      internalID: 2760412058293901732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_LIMO_CLEAN_EAST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 47
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28deaf752e74f7f20800000000000000
+      internalID: 3422533279289109890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_LIMO_CLEAN_EAST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 47
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cae09eea717fad00800000000000000
+      internalID: 986131616219851464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_LIMO_CLEAN_EAST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 47
+        width: 131
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d76da97ad623ae0800000000000000
+      internalID: -1571072753374167694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magenta_LIMO_CLEAN_EAST_000-sheet_0: 3316324921426978298
+      Magenta_LIMO_CLEAN_EAST_000-sheet_1: -8885733537787054083
+      Magenta_LIMO_CLEAN_EAST_000-sheet_10: 986131616219851464
+      Magenta_LIMO_CLEAN_EAST_000-sheet_11: -1571072753374167694
+      Magenta_LIMO_CLEAN_EAST_000-sheet_2: 7425372190085844646
+      Magenta_LIMO_CLEAN_EAST_000-sheet_3: 8276886257304485965
+      Magenta_LIMO_CLEAN_EAST_000-sheet_4: 5931745248619088797
+      Magenta_LIMO_CLEAN_EAST_000-sheet_5: -8391815086741098691
+      Magenta_LIMO_CLEAN_EAST_000-sheet_6: -2281442566993315887
+      Magenta_LIMO_CLEAN_EAST_000-sheet_7: -3373274086349140427
+      Magenta_LIMO_CLEAN_EAST_000-sheet_8: 2760412058293901732
+      Magenta_LIMO_CLEAN_EAST_000-sheet_9: 3422533279289109890
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

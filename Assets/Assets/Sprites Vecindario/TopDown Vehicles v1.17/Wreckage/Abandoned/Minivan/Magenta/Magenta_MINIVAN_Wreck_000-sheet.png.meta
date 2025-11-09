@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: ecba60e4d2d4d43488c682e404727a01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2742007490573618577
+    second: Magenta_MINIVAN_Wreck_000-sheet_0
+  - first:
+      213: 4383236007114441591
+    second: Magenta_MINIVAN_Wreck_000-sheet_1
+  - first:
+      213: -2699878433944700218
+    second: Magenta_MINIVAN_Wreck_000-sheet_2
+  - first:
+      213: -2234280692792953408
+    second: Magenta_MINIVAN_Wreck_000-sheet_3
+  - first:
+      213: -420141133567450260
+    second: Magenta_MINIVAN_Wreck_000-sheet_4
+  - first:
+      213: -1708245104295535368
+    second: Magenta_MINIVAN_Wreck_000-sheet_5
+  - first:
+      213: 2870205695322024590
+    second: Magenta_MINIVAN_Wreck_000-sheet_6
+  - first:
+      213: -3564136347878356148
+    second: Magenta_MINIVAN_Wreck_000-sheet_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magenta_MINIVAN_Wreck_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 223
+        width: 88
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6236e017be62f9d0800000000000000
+      internalID: -2742007490573618577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MINIVAN_Wreck_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 208
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77302c2dce164dc30800000000000000
+      internalID: 4383236007114441591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MINIVAN_Wreck_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 209
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cafcff6eda188ad0800000000000000
+      internalID: -2699878433944700218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MINIVAN_Wreck_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 110
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5ff813c8d3ef0e0800000000000000
+      internalID: -2234280692792953408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MINIVAN_Wreck_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 125
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63ae227ddb5b2af0800000000000000
+      internalID: -420141133567450260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MINIVAN_Wreck_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 112
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc1a29d0281b48e0800000000000000
+      internalID: -1708245104295535368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MINIVAN_Wreck_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 13
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ae8f57fd405d720800000000000000
+      internalID: 2870205695322024590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_MINIVAN_Wreck_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 13
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b07ad00e4a98ec0800000000000000
+      internalID: -3564136347878356148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magenta_MINIVAN_Wreck_000-sheet_0: -2742007490573618577
+      Magenta_MINIVAN_Wreck_000-sheet_1: 4383236007114441591
+      Magenta_MINIVAN_Wreck_000-sheet_2: -2699878433944700218
+      Magenta_MINIVAN_Wreck_000-sheet_3: -2234280692792953408
+      Magenta_MINIVAN_Wreck_000-sheet_4: -420141133567450260
+      Magenta_MINIVAN_Wreck_000-sheet_5: -1708245104295535368
+      Magenta_MINIVAN_Wreck_000-sheet_6: 2870205695322024590
+      Magenta_MINIVAN_Wreck_000-sheet_7: -3564136347878356148
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

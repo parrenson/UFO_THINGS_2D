@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 7e1bb83e4e9e6e843b2781922f3eb80a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2684015506157051877
+    second: Red_MINIVAN_CLEAN_WEST_000-sheet_0
+  - first:
+      213: -6598401654078903697
+    second: Red_MINIVAN_CLEAN_WEST_000-sheet_1
+  - first:
+      213: -8913941611524067659
+    second: Red_MINIVAN_CLEAN_WEST_000-sheet_2
+  - first:
+      213: 630685669608865937
+    second: Red_MINIVAN_CLEAN_WEST_000-sheet_3
+  - first:
+      213: 5429919158174372916
+    second: Red_MINIVAN_CLEAN_WEST_000-sheet_4
+  - first:
+      213: -2939115367625047455
+    second: Red_MINIVAN_CLEAN_WEST_000-sheet_5
+  - first:
+      213: -1554090369514357656
+    second: Red_MINIVAN_CLEAN_WEST_000-sheet_6
+  - first:
+      213: 1649052303153640730
+    second: Red_MINIVAN_CLEAN_WEST_000-sheet_7
+  - first:
+      213: 8744335326548512226
+    second: Red_MINIVAN_CLEAN_WEST_000-sheet_8
+  - first:
+      213: -2135590026779291185
+    second: Red_MINIVAN_CLEAN_WEST_000-sheet_9
+  - first:
+      213: 5256863767767896586
+    second: Red_MINIVAN_CLEAN_WEST_000-sheet_10
+  - first:
+      213: 1468019881921190589
+    second: Red_MINIVAN_CLEAN_WEST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red_MINIVAN_CLEAN_WEST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 227
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b106edf1e1670cad0800000000000000
+      internalID: -2684015506157051877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MINIVAN_CLEAN_WEST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 227
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ae64bc7a4cd64a0800000000000000
+      internalID: -6598401654078903697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MINIVAN_CLEAN_WEST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 227
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bee88815515b4480800000000000000
+      internalID: -8913941611524067659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MINIVAN_CLEAN_WEST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 227
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19047f56645a0c800800000000000000
+      internalID: 630685669608865937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MINIVAN_CLEAN_WEST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 127
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434521694b2fa5b40800000000000000
+      internalID: 5429919158174372916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MINIVAN_CLEAN_WEST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 127
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16241de252a2637d0800000000000000
+      internalID: -2939115367625047455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MINIVAN_CLEAN_WEST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 127
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cbd38fa03ce6ae0800000000000000
+      internalID: -1554090369514357656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MINIVAN_CLEAN_WEST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 127
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a153389255c92e610800000000000000
+      internalID: 1649052303153640730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MINIVAN_CLEAN_WEST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 27
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edc2d766ae1a5970800000000000000
+      internalID: 8744335326548512226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MINIVAN_CLEAN_WEST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 27
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc114fb7f2cdc52e0800000000000000
+      internalID: -2135590026779291185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MINIVAN_CLEAN_WEST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 26
+        width: 84
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a025d66aeb124f840800000000000000
+      internalID: 5256863767767896586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MINIVAN_CLEAN_WEST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 27
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba9f110e447f5410800000000000000
+      internalID: 1468019881921190589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Red_MINIVAN_CLEAN_WEST_000-sheet_0: -2684015506157051877
+      Red_MINIVAN_CLEAN_WEST_000-sheet_1: -6598401654078903697
+      Red_MINIVAN_CLEAN_WEST_000-sheet_10: 5256863767767896586
+      Red_MINIVAN_CLEAN_WEST_000-sheet_11: 1468019881921190589
+      Red_MINIVAN_CLEAN_WEST_000-sheet_2: -8913941611524067659
+      Red_MINIVAN_CLEAN_WEST_000-sheet_3: 630685669608865937
+      Red_MINIVAN_CLEAN_WEST_000-sheet_4: 5429919158174372916
+      Red_MINIVAN_CLEAN_WEST_000-sheet_5: -2939115367625047455
+      Red_MINIVAN_CLEAN_WEST_000-sheet_6: -1554090369514357656
+      Red_MINIVAN_CLEAN_WEST_000-sheet_7: 1649052303153640730
+      Red_MINIVAN_CLEAN_WEST_000-sheet_8: 8744335326548512226
+      Red_MINIVAN_CLEAN_WEST_000-sheet_9: -2135590026779291185
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

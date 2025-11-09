@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 0f36de95527a0684ba331a09b9840cb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4340154285280053039
+    second: Yellow_BUS_CLEAN_NORTH_000-sheet_0
+  - first:
+      213: -2219736118121924461
+    second: Yellow_BUS_CLEAN_NORTH_000-sheet_1
+  - first:
+      213: 1724638338130550445
+    second: Yellow_BUS_CLEAN_NORTH_000-sheet_2
+  - first:
+      213: 2557918309841420814
+    second: Yellow_BUS_CLEAN_NORTH_000-sheet_3
+  - first:
+      213: -1811755221305489223
+    second: Yellow_BUS_CLEAN_NORTH_000-sheet_4
+  - first:
+      213: -5144162337989439839
+    second: Yellow_BUS_CLEAN_NORTH_000-sheet_5
+  - first:
+      213: 8532224233408114161
+    second: Yellow_BUS_CLEAN_NORTH_000-sheet_6
+  - first:
+      213: -347618221780261435
+    second: Yellow_BUS_CLEAN_NORTH_000-sheet_7
+  - first:
+      213: 3170949135113218213
+    second: Yellow_BUS_CLEAN_NORTH_000-sheet_8
+  - first:
+      213: -196461074820804836
+    second: Yellow_BUS_CLEAN_NORTH_000-sheet_9
+  - first:
+      213: 3830724380553976560
+    second: Yellow_BUS_CLEAN_NORTH_000-sheet_10
+  - first:
+      213: -4226785157986313062
+    second: Yellow_BUS_CLEAN_NORTH_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yellow_BUS_CLEAN_NORTH_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 472
+        width: 46
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27c18cc3535b3c30800000000000000
+      internalID: 4340154285280053039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_BUS_CLEAN_NORTH_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 472
+        width: 46
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398fc30e2c9e131e0800000000000000
+      internalID: -2219736118121924461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_BUS_CLEAN_NORTH_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 472
+        width: 46
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae9a465e652fe710800000000000000
+      internalID: 1724638338130550445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_BUS_CLEAN_NORTH_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 473
+        width: 46
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02c09e762d8f7320800000000000000
+      internalID: 2557918309841420814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_BUS_CLEAN_NORTH_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 263
+        width: 46
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8802ea93a5bd6e0800000000000000
+      internalID: -1811755221305489223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_BUS_CLEAN_NORTH_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 263
+        width: 46
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae4239cb934c98b0800000000000000
+      internalID: -5144162337989439839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_BUS_CLEAN_NORTH_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 263
+        width: 46
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd25401cbc886670800000000000000
+      internalID: 8532224233408114161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_BUS_CLEAN_NORTH_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 263
+        width: 46
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5a55da1130d2bf0800000000000000
+      internalID: -347618221780261435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_BUS_CLEAN_NORTH_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 53
+        width: 46
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8614f1079710c20800000000000000
+      internalID: 3170949135113218213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_BUS_CLEAN_NORTH_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 52
+        width: 46
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f4d1f71b7064df0800000000000000
+      internalID: -196461074820804836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_BUS_CLEAN_NORTH_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 52
+        width: 46
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa195f2787792530800000000000000
+      internalID: 3830724380553976560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_BUS_CLEAN_NORTH_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 52
+        width: 46
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c15541b417755c0800000000000000
+      internalID: -4226785157986313062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Yellow_BUS_CLEAN_NORTH_000-sheet_0: 4340154285280053039
+      Yellow_BUS_CLEAN_NORTH_000-sheet_1: -2219736118121924461
+      Yellow_BUS_CLEAN_NORTH_000-sheet_10: 3830724380553976560
+      Yellow_BUS_CLEAN_NORTH_000-sheet_11: -4226785157986313062
+      Yellow_BUS_CLEAN_NORTH_000-sheet_2: 1724638338130550445
+      Yellow_BUS_CLEAN_NORTH_000-sheet_3: 2557918309841420814
+      Yellow_BUS_CLEAN_NORTH_000-sheet_4: -1811755221305489223
+      Yellow_BUS_CLEAN_NORTH_000-sheet_5: -5144162337989439839
+      Yellow_BUS_CLEAN_NORTH_000-sheet_6: 8532224233408114161
+      Yellow_BUS_CLEAN_NORTH_000-sheet_7: -347618221780261435
+      Yellow_BUS_CLEAN_NORTH_000-sheet_8: 3170949135113218213
+      Yellow_BUS_CLEAN_NORTH_000-sheet_9: -196461074820804836
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
