@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 78b5de1ec68418a4498bc8d5f9b94ab0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3932230332610666190
+    second: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_0
+  - first:
+      213: 2188926639744181734
+    second: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_1
+  - first:
+      213: -979126974870959413
+    second: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_2
+  - first:
+      213: -4662048822424941884
+    second: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_3
+  - first:
+      213: -9091626876142421344
+    second: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_4
+  - first:
+      213: -8701279305590068385
+    second: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_5
+  - first:
+      213: 6548904151893569097
+    second: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_6
+  - first:
+      213: 8182739877330187042
+    second: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_7
+  - first:
+      213: 7423118282946455616
+    second: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_8
+  - first:
+      213: 1331831314365555451
+    second: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_9
+  - first:
+      213: -7010062418317331577
+    second: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_10
+  - first:
+      213: 7500744494301422934
+    second: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 212
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231a9b9a859ed69c0800000000000000
+      internalID: -3932230332610666190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 212
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e567517e21a06e10800000000000000
+      internalID: 2188926639744181734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 212
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca40d834317962f0800000000000000
+      internalID: -979126974870959413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 212
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca45ddeb431d4fb0800000000000000
+      internalID: -4662048822424941884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaf221968d04d180800000000000000
+      internalID: -9091626876142421344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 111
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ba8daa298de3780800000000000000
+      internalID: -8701279305590068385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 111
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e62b9e0a162ea50800000000000000
+      internalID: 6548904151893569097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 112
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22370bd709eee8170800000000000000
+      internalID: 8182739877330187042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 12
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0482bbcbfb6340760800000000000000
+      internalID: 7423118282946455616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 12
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf22089268d9b7210800000000000000
+      internalID: 1331831314365555451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 12
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78331e61f5147be90800000000000000
+      internalID: -7010062418317331577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 12
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655adcd706ff71860800000000000000
+      internalID: 7500744494301422934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_0: -3932230332610666190
+      Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_1: 2188926639744181734
+      Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_10: -7010062418317331577
+      Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_11: 7500744494301422934
+      Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_2: -979126974870959413
+      Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_3: -4662048822424941884
+      Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_4: -9091626876142421344
+      Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_5: -8701279305590068385
+      Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_6: 6548904151893569097
+      Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_7: 8182739877330187042
+      Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_8: 7423118282946455616
+      Brown_SPORT_CLEAN_SOUTHEAST_000-sheet_9: 1331831314365555451
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

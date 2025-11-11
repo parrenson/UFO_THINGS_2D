@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 23998b565b0875f4fb860a8ec6142035
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8326087569958813622
+    second: POLICE_CLEAN_EAST_000-sheet_0
+  - first:
+      213: 5439864815007893674
+    second: POLICE_CLEAN_EAST_000-sheet_1
+  - first:
+      213: 1725596435271179532
+    second: POLICE_CLEAN_EAST_000-sheet_2
+  - first:
+      213: -1675893665629026958
+    second: POLICE_CLEAN_EAST_000-sheet_3
+  - first:
+      213: 50738163888015823
+    second: POLICE_CLEAN_EAST_000-sheet_4
+  - first:
+      213: -4248546581485770101
+    second: POLICE_CLEAN_EAST_000-sheet_5
+  - first:
+      213: 6169004767673519260
+    second: POLICE_CLEAN_EAST_000-sheet_6
+  - first:
+      213: 6864599147913287523
+    second: POLICE_CLEAN_EAST_000-sheet_7
+  - first:
+      213: -1762464214755519480
+    second: POLICE_CLEAN_EAST_000-sheet_8
+  - first:
+      213: 5313509478971916974
+    second: POLICE_CLEAN_EAST_000-sheet_9
+  - first:
+      213: 1490324618115815635
+    second: POLICE_CLEAN_EAST_000-sheet_10
+  - first:
+      213: -3105300631433641544
+    second: POLICE_CLEAN_EAST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: POLICE_CLEAN_EAST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 227
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a404fc7f77bc37c80800000000000000
+      internalID: -8326087569958813622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POLICE_CLEAN_EAST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 227
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa801b44a384e7b40800000000000000
+      internalID: 5439864815007893674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POLICE_CLEAN_EAST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 227
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dd406b0dc82f710800000000000000
+      internalID: 1725596435271179532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POLICE_CLEAN_EAST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 227
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275cad227970eb8e0800000000000000
+      internalID: -1675893665629026958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POLICE_CLEAN_EAST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 127
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9c91b571244b000800000000000000
+      internalID: 50738163888015823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POLICE_CLEAN_EAST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 127
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a27d6d4612a05c0800000000000000
+      internalID: -4248546581485770101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POLICE_CLEAN_EAST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c0fd2c625bc9550800000000000000
+      internalID: 6169004767673519260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POLICE_CLEAN_EAST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 127
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36712d80e84f34f50800000000000000
+      internalID: 6864599147913287523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POLICE_CLEAN_EAST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 27
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804d82672287a87e0800000000000000
+      internalID: -1762464214755519480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POLICE_CLEAN_EAST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 27
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2cacc08b06db940800000000000000
+      internalID: 5313509478971916974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POLICE_CLEAN_EAST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 27
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d810d61852bea410800000000000000
+      internalID: 1490324618115815635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POLICE_CLEAN_EAST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 27
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b10a9e3781c7e4d0800000000000000
+      internalID: -3105300631433641544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      POLICE_CLEAN_EAST_000-sheet_0: -8326087569958813622
+      POLICE_CLEAN_EAST_000-sheet_1: 5439864815007893674
+      POLICE_CLEAN_EAST_000-sheet_10: 1490324618115815635
+      POLICE_CLEAN_EAST_000-sheet_11: -3105300631433641544
+      POLICE_CLEAN_EAST_000-sheet_2: 1725596435271179532
+      POLICE_CLEAN_EAST_000-sheet_3: -1675893665629026958
+      POLICE_CLEAN_EAST_000-sheet_4: 50738163888015823
+      POLICE_CLEAN_EAST_000-sheet_5: -4248546581485770101
+      POLICE_CLEAN_EAST_000-sheet_6: 6169004767673519260
+      POLICE_CLEAN_EAST_000-sheet_7: 6864599147913287523
+      POLICE_CLEAN_EAST_000-sheet_8: -1762464214755519480
+      POLICE_CLEAN_EAST_000-sheet_9: 5313509478971916974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

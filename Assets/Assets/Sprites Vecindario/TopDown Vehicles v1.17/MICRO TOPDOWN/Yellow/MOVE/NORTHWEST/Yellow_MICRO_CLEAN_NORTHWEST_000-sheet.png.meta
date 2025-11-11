@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 512f0a352a0bf6540ac6b0ec414d70e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1888676233120317556
+    second: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_0
+  - first:
+      213: 2010250780901007380
+    second: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_1
+  - first:
+      213: 6256801308359717391
+    second: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_2
+  - first:
+      213: 6888752702175965691
+    second: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_3
+  - first:
+      213: 4806538780699830042
+    second: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_4
+  - first:
+      213: -4389636056012420519
+    second: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_5
+  - first:
+      213: 959758265276037692
+    second: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_6
+  - first:
+      213: -4158219600343865147
+    second: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_7
+  - first:
+      213: -3337040873944515635
+    second: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_8
+  - first:
+      213: 9023077856501402726
+    second: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_9
+  - first:
+      213: 4269367044257311354
+    second: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_10
+  - first:
+      213: -1759463944697199664
+    second: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 227
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4700cd2070de53a10800000000000000
+      internalID: 1888676233120317556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 227
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4106e093f68d5eb10800000000000000
+      internalID: 2010250780901007380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 227
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02faf6d3af94d650800000000000000
+      internalID: 6256801308359717391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 227
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1f5be9514c99f50800000000000000
+      internalID: 6888752702175965691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 127
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17a0ce0e8144b240800000000000000
+      internalID: 4806538780699830042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 127
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a022ca341e413c0800000000000000
+      internalID: -4389636056012420519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 127
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3af508ae0fb15d00800000000000000
+      internalID: 959758265276037692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 127
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8ef6ffd490b46c0800000000000000
+      internalID: -4158219600343865147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 27
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbf39b610370b1d0800000000000000
+      internalID: -3337040873944515635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 27
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c85711189683d70800000000000000
+      internalID: 9023077856501402726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 27
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a67b8e4b6df3b30800000000000000
+      internalID: 4269367044257311354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 27
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d347354dd02597e0800000000000000
+      internalID: -1759463944697199664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_0: 1888676233120317556
+      Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_1: 2010250780901007380
+      Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_10: 4269367044257311354
+      Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_11: -1759463944697199664
+      Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_2: 6256801308359717391
+      Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_3: 6888752702175965691
+      Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_4: 4806538780699830042
+      Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_5: -4389636056012420519
+      Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_6: 959758265276037692
+      Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_7: -4158219600343865147
+      Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_8: -3337040873944515635
+      Yellow_MICRO_CLEAN_NORTHWEST_000-sheet_9: 9023077856501402726
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

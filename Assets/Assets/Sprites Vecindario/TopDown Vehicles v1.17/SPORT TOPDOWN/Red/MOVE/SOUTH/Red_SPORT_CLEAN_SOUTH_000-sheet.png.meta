@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 112b890e78bc40740856c5926a4a8657
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7597434302450970661
+    second: Red_SPORT_CLEAN_SOUTH_000-sheet_0
+  - first:
+      213: -3990743399464528843
+    second: Red_SPORT_CLEAN_SOUTH_000-sheet_1
+  - first:
+      213: -18071522824277294
+    second: Red_SPORT_CLEAN_SOUTH_000-sheet_2
+  - first:
+      213: 5731198952926817141
+    second: Red_SPORT_CLEAN_SOUTH_000-sheet_3
+  - first:
+      213: -2272611458878877101
+    second: Red_SPORT_CLEAN_SOUTH_000-sheet_4
+  - first:
+      213: 3857397581315041436
+    second: Red_SPORT_CLEAN_SOUTH_000-sheet_5
+  - first:
+      213: 305928216480362964
+    second: Red_SPORT_CLEAN_SOUTH_000-sheet_6
+  - first:
+      213: -7760293293273896606
+    second: Red_SPORT_CLEAN_SOUTH_000-sheet_7
+  - first:
+      213: 787797242520726860
+    second: Red_SPORT_CLEAN_SOUTH_000-sheet_8
+  - first:
+      213: 3746345952873641507
+    second: Red_SPORT_CLEAN_SOUTH_000-sheet_9
+  - first:
+      213: 1556088444215007967
+    second: Red_SPORT_CLEAN_SOUTH_000-sheet_10
+  - first:
+      213: 2732020642378092883
+    second: Red_SPORT_CLEAN_SOUTH_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red_SPORT_CLEAN_SOUTH_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 210
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfca0e31cd709690800000000000000
+      internalID: -7597434302450970661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_SPORT_CLEAN_SOUTH_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 210
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5349e25a5080e98c0800000000000000
+      internalID: -3990743399464528843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_SPORT_CLEAN_SOUTH_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 210
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d23285bb0ccfbff0800000000000000
+      internalID: -18071522824277294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_SPORT_CLEAN_SOUTH_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 210
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b2b4e151f498f40800000000000000
+      internalID: 5731198952926817141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_SPORT_CLEAN_SOUTH_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 110
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352da014bef0670e0800000000000000
+      internalID: -2272611458878877101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_SPORT_CLEAN_SOUTH_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 109
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98ebbfa9aa388530800000000000000
+      internalID: 3857397581315041436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_SPORT_CLEAN_SOUTH_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 110
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1b41e8710ee3400800000000000000
+      internalID: 305928216480362964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_SPORT_CLEAN_SOUTH_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 110
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26920959d56ed4490800000000000000
+      internalID: -7760293293273896606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_SPORT_CLEAN_SOUTH_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 10
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dea7b0b61deea00800000000000000
+      internalID: 787797242520726860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_SPORT_CLEAN_SOUTH_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 10
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32671ce8bc1bdf330800000000000000
+      internalID: 3746345952873641507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_SPORT_CLEAN_SOUTH_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 10
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda968c0236589510800000000000000
+      internalID: 1556088444215007967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_SPORT_CLEAN_SOUTH_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 10
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3511bf3ac461ae520800000000000000
+      internalID: 2732020642378092883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Red_SPORT_CLEAN_SOUTH_000-sheet_0: -7597434302450970661
+      Red_SPORT_CLEAN_SOUTH_000-sheet_1: -3990743399464528843
+      Red_SPORT_CLEAN_SOUTH_000-sheet_10: 1556088444215007967
+      Red_SPORT_CLEAN_SOUTH_000-sheet_11: 2732020642378092883
+      Red_SPORT_CLEAN_SOUTH_000-sheet_2: -18071522824277294
+      Red_SPORT_CLEAN_SOUTH_000-sheet_3: 5731198952926817141
+      Red_SPORT_CLEAN_SOUTH_000-sheet_4: -2272611458878877101
+      Red_SPORT_CLEAN_SOUTH_000-sheet_5: 3857397581315041436
+      Red_SPORT_CLEAN_SOUTH_000-sheet_6: 305928216480362964
+      Red_SPORT_CLEAN_SOUTH_000-sheet_7: -7760293293273896606
+      Red_SPORT_CLEAN_SOUTH_000-sheet_8: 787797242520726860
+      Red_SPORT_CLEAN_SOUTH_000-sheet_9: 3746345952873641507
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

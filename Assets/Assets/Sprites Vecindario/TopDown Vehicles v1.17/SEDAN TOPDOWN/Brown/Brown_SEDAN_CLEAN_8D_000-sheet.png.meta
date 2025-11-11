@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 4c93da145e8d22f43916e9e2ce0207a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7898772618326764047
+    second: Brown_SEDAN_CLEAN_8D_000-sheet_0
+  - first:
+      213: 6373945786829198466
+    second: Brown_SEDAN_CLEAN_8D_000-sheet_1
+  - first:
+      213: -1316510083552536035
+    second: Brown_SEDAN_CLEAN_8D_000-sheet_2
+  - first:
+      213: -1448009251810580883
+    second: Brown_SEDAN_CLEAN_8D_000-sheet_3
+  - first:
+      213: -418929812796691464
+    second: Brown_SEDAN_CLEAN_8D_000-sheet_4
+  - first:
+      213: -8796377370479492934
+    second: Brown_SEDAN_CLEAN_8D_000-sheet_5
+  - first:
+      213: 7413824631387379730
+    second: Brown_SEDAN_CLEAN_8D_000-sheet_6
+  - first:
+      213: 1067960233813811681
+    second: Brown_SEDAN_CLEAN_8D_000-sheet_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brown_SEDAN_CLEAN_8D_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 227
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ae2fcc8d31e9d60800000000000000
+      internalID: 7898772618326764047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SEDAN_CLEAN_8D_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 212
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2845d892cedc47850800000000000000
+      internalID: 6373945786829198466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SEDAN_CLEAN_8D_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 211
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a91aedd01dabde0800000000000000
+      internalID: -1316510083552536035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SEDAN_CLEAN_8D_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 112
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66e952e143a7ebe0800000000000000
+      internalID: -1448009251810580883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SEDAN_CLEAN_8D_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 127
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbae6a0e89af2af0800000000000000
+      internalID: -418929812796691464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SEDAN_CLEAN_8D_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 113
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab00942036dfce580800000000000000
+      internalID: -8796377370479492934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SEDAN_CLEAN_8D_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 13
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218d2ecd83233e660800000000000000
+      internalID: 7413824631387379730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SEDAN_CLEAN_8D_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 13
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e127b2ac2822de00800000000000000
+      internalID: 1067960233813811681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Brown_SEDAN_CLEAN_8D_000-sheet_0: 7898772618326764047
+      Brown_SEDAN_CLEAN_8D_000-sheet_1: 6373945786829198466
+      Brown_SEDAN_CLEAN_8D_000-sheet_2: -1316510083552536035
+      Brown_SEDAN_CLEAN_8D_000-sheet_3: -1448009251810580883
+      Brown_SEDAN_CLEAN_8D_000-sheet_4: -418929812796691464
+      Brown_SEDAN_CLEAN_8D_000-sheet_5: -8796377370479492934
+      Brown_SEDAN_CLEAN_8D_000-sheet_6: 7413824631387379730
+      Brown_SEDAN_CLEAN_8D_000-sheet_7: 1067960233813811681
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

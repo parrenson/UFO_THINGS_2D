@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: e6da1c8ef7b47a7469b7dcd1efa78d34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2696775724379447569
+    second: Black_COUPE_CLEAN_WEST_000-sheet_0
+  - first:
+      213: 5923453410913298759
+    second: Black_COUPE_CLEAN_WEST_000-sheet_1
+  - first:
+      213: -4371227392565645008
+    second: Black_COUPE_CLEAN_WEST_000-sheet_2
+  - first:
+      213: 1558698054264562457
+    second: Black_COUPE_CLEAN_WEST_000-sheet_3
+  - first:
+      213: -5907558089605136392
+    second: Black_COUPE_CLEAN_WEST_000-sheet_4
+  - first:
+      213: -8253784689860881300
+    second: Black_COUPE_CLEAN_WEST_000-sheet_5
+  - first:
+      213: -5010864114712860750
+    second: Black_COUPE_CLEAN_WEST_000-sheet_6
+  - first:
+      213: 2001180194789166549
+    second: Black_COUPE_CLEAN_WEST_000-sheet_7
+  - first:
+      213: 4191208743148188280
+    second: Black_COUPE_CLEAN_WEST_000-sheet_8
+  - first:
+      213: 1493442097490466019
+    second: Black_COUPE_CLEAN_WEST_000-sheet_9
+  - first:
+      213: -4078931620117388416
+    second: Black_COUPE_CLEAN_WEST_000-sheet_10
+  - first:
+      213: 6360787340823755340
+    second: Black_COUPE_CLEAN_WEST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black_COUPE_CLEAN_WEST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 226
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111a882bb3fdc6520800000000000000
+      internalID: 2696775724379447569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_COUPE_CLEAN_WEST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 226
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74920115e75543250800000000000000
+      internalID: 5923453410913298759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_COUPE_CLEAN_WEST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 226
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031faa1a8d74653c0800000000000000
+      internalID: -4371227392565645008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_COUPE_CLEAN_WEST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 226
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913288c3f9b91a510800000000000000
+      internalID: 1558698054264562457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_COUPE_CLEAN_WEST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 126
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffb9139733240ea0800000000000000
+      internalID: -5907558089605136392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_COUPE_CLEAN_WEST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 126
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64d8441e8aa47d80800000000000000
+      internalID: -8253784689860881300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_COUPE_CLEAN_WEST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 126
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7a9c8e2a5d57ab0800000000000000
+      internalID: -5010864114712860750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_COUPE_CLEAN_WEST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 126
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd84f1d8ce95cb10800000000000000
+      internalID: 2001180194789166549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_COUPE_CLEAN_WEST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 26
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872fbda552a2a2a30800000000000000
+      internalID: 4191208743148188280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_COUPE_CLEAN_WEST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 26
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e49881dca5c9b410800000000000000
+      internalID: 1493442097490466019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_COUPE_CLEAN_WEST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 26
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0836bc77d49b467c0800000000000000
+      internalID: -4078931620117388416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_COUPE_CLEAN_WEST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 26
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4af995b26e064850800000000000000
+      internalID: 6360787340823755340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black_COUPE_CLEAN_WEST_000-sheet_0: 2696775724379447569
+      Black_COUPE_CLEAN_WEST_000-sheet_1: 5923453410913298759
+      Black_COUPE_CLEAN_WEST_000-sheet_10: -4078931620117388416
+      Black_COUPE_CLEAN_WEST_000-sheet_11: 6360787340823755340
+      Black_COUPE_CLEAN_WEST_000-sheet_2: -4371227392565645008
+      Black_COUPE_CLEAN_WEST_000-sheet_3: 1558698054264562457
+      Black_COUPE_CLEAN_WEST_000-sheet_4: -5907558089605136392
+      Black_COUPE_CLEAN_WEST_000-sheet_5: -8253784689860881300
+      Black_COUPE_CLEAN_WEST_000-sheet_6: -5010864114712860750
+      Black_COUPE_CLEAN_WEST_000-sheet_7: 2001180194789166549
+      Black_COUPE_CLEAN_WEST_000-sheet_8: 4191208743148188280
+      Black_COUPE_CLEAN_WEST_000-sheet_9: 1493442097490466019
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

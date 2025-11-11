@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 1ef486deee22b414495e0ac2038189ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6781649647048188794
+    second: TAXI_CLEAN_WEST_000-sheet_0
+  - first:
+      213: -779581320509244314
+    second: TAXI_CLEAN_WEST_000-sheet_1
+  - first:
+      213: -6162185261451617268
+    second: TAXI_CLEAN_WEST_000-sheet_2
+  - first:
+      213: -5802818067166760654
+    second: TAXI_CLEAN_WEST_000-sheet_3
+  - first:
+      213: -464820402348570673
+    second: TAXI_CLEAN_WEST_000-sheet_4
+  - first:
+      213: 4147999742878511957
+    second: TAXI_CLEAN_WEST_000-sheet_5
+  - first:
+      213: 4887737311154529881
+    second: TAXI_CLEAN_WEST_000-sheet_6
+  - first:
+      213: -2695641692191544713
+    second: TAXI_CLEAN_WEST_000-sheet_7
+  - first:
+      213: 8478252458606749409
+    second: TAXI_CLEAN_WEST_000-sheet_8
+  - first:
+      213: 8938945058414695482
+    second: TAXI_CLEAN_WEST_000-sheet_9
+  - first:
+      213: 6928749342666457286
+    second: TAXI_CLEAN_WEST_000-sheet_10
+  - first:
+      213: 5197914015322819180
+    second: TAXI_CLEAN_WEST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TAXI_CLEAN_WEST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 227
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73e57b5c624d1e50800000000000000
+      internalID: 6781649647048188794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TAXI_CLEAN_WEST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 227
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c348d5bee5e25f0800000000000000
+      internalID: -779581320509244314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TAXI_CLEAN_WEST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 227
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c570347258b7aa0800000000000000
+      internalID: -6162185261451617268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TAXI_CLEAN_WEST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 227
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2317e4a66bf387fa0800000000000000
+      internalID: -5802818067166760654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TAXI_CLEAN_WEST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7c8a98e40ac89f0800000000000000
+      internalID: -464820402348570673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TAXI_CLEAN_WEST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 127
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5537fa20ac7a09930800000000000000
+      internalID: 4147999742878511957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TAXI_CLEAN_WEST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 127
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956e9ca203bb4d340800000000000000
+      internalID: 4887737311154529881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TAXI_CLEAN_WEST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 127
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77aa03fb928279ad0800000000000000
+      internalID: -2695641692191544713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TAXI_CLEAN_WEST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 27
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6665ff0bdc8a570800000000000000
+      internalID: 8478252458606749409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TAXI_CLEAN_WEST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 27
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a349a898b238d0c70800000000000000
+      internalID: 8938945058414695482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TAXI_CLEAN_WEST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 27
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c00b5b21dcd72060800000000000000
+      internalID: 6928749342666457286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TAXI_CLEAN_WEST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 27
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a4758d143b22840800000000000000
+      internalID: 5197914015322819180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TAXI_CLEAN_WEST_000-sheet_0: 6781649647048188794
+      TAXI_CLEAN_WEST_000-sheet_1: -779581320509244314
+      TAXI_CLEAN_WEST_000-sheet_10: 6928749342666457286
+      TAXI_CLEAN_WEST_000-sheet_11: 5197914015322819180
+      TAXI_CLEAN_WEST_000-sheet_2: -6162185261451617268
+      TAXI_CLEAN_WEST_000-sheet_3: -5802818067166760654
+      TAXI_CLEAN_WEST_000-sheet_4: -464820402348570673
+      TAXI_CLEAN_WEST_000-sheet_5: 4147999742878511957
+      TAXI_CLEAN_WEST_000-sheet_6: 4887737311154529881
+      TAXI_CLEAN_WEST_000-sheet_7: -2695641692191544713
+      TAXI_CLEAN_WEST_000-sheet_8: 8478252458606749409
+      TAXI_CLEAN_WEST_000-sheet_9: 8938945058414695482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

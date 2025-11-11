@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 6ad9b0b00088b1a40a5dbaf3c2617797
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4240700547611191938
+    second: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_0
+  - first:
+      213: -2782816221830232079
+    second: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_1
+  - first:
+      213: -5603153506364160802
+    second: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_2
+  - first:
+      213: 7716649584389562902
+    second: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_3
+  - first:
+      213: 1787314657705538170
+    second: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_4
+  - first:
+      213: 8168751789182421583
+    second: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_5
+  - first:
+      213: -4975534465820371665
+    second: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_6
+  - first:
+      213: 5579578294613186254
+    second: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_7
+  - first:
+      213: 7675959578085619846
+    second: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_8
+  - first:
+      213: 4917628919740050178
+    second: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_9
+  - first:
+      213: 17627586598241027
+    second: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_10
+  - first:
+      213: 5502469509435497657
+    second: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 213
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7594d4f1510625c0800000000000000
+      internalID: -4240700547611191938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 213
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f74d96e3637169d0800000000000000
+      internalID: -2782816221830232079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 213
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed40e2f92999d32b0800000000000000
+      internalID: -5603153506364160802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 213
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612a4b599eb071b60800000000000000
+      internalID: 7716649584389562902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 113
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72336a2631ddc810800000000000000
+      internalID: 1787314657705538170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 113
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a0e8ce87c3d5170800000000000000
+      internalID: 8168751789182421583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 113
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25501dc3c953fab0800000000000000
+      internalID: -4975534465820371665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 113
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec616e6a5e4ae6d40800000000000000
+      internalID: 5579578294613186254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 13
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688fc0a319c768a60800000000000000
+      internalID: 7675959578085619846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 13
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b2b42a27dee3440800000000000000
+      internalID: 4917628919740050178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 13
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3038f655230ae3000800000000000000
+      internalID: 17627586598241027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_MUSCLECAR_CLEAN_NORTH_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 13
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc12519dd2bc5c40800000000000000
+      internalID: 5502469509435497657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black_MUSCLECAR_CLEAN_NORTH_000-sheet_0: -4240700547611191938
+      Black_MUSCLECAR_CLEAN_NORTH_000-sheet_1: -2782816221830232079
+      Black_MUSCLECAR_CLEAN_NORTH_000-sheet_10: 17627586598241027
+      Black_MUSCLECAR_CLEAN_NORTH_000-sheet_11: 5502469509435497657
+      Black_MUSCLECAR_CLEAN_NORTH_000-sheet_2: -5603153506364160802
+      Black_MUSCLECAR_CLEAN_NORTH_000-sheet_3: 7716649584389562902
+      Black_MUSCLECAR_CLEAN_NORTH_000-sheet_4: 1787314657705538170
+      Black_MUSCLECAR_CLEAN_NORTH_000-sheet_5: 8168751789182421583
+      Black_MUSCLECAR_CLEAN_NORTH_000-sheet_6: -4975534465820371665
+      Black_MUSCLECAR_CLEAN_NORTH_000-sheet_7: 5579578294613186254
+      Black_MUSCLECAR_CLEAN_NORTH_000-sheet_8: 7675959578085619846
+      Black_MUSCLECAR_CLEAN_NORTH_000-sheet_9: 4917628919740050178
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

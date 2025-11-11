@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 6c1b2846dc3ebfe4f92a505460165bf2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1580452725608416030
+    second: Brown_JEEP_CLEAN_SOUTH_000-sheet_0
+  - first:
+      213: -6042943566883448970
+    second: Brown_JEEP_CLEAN_SOUTH_000-sheet_1
+  - first:
+      213: 3298242839679154613
+    second: Brown_JEEP_CLEAN_SOUTH_000-sheet_2
+  - first:
+      213: 487307120794093968
+    second: Brown_JEEP_CLEAN_SOUTH_000-sheet_3
+  - first:
+      213: 1908071474258706013
+    second: Brown_JEEP_CLEAN_SOUTH_000-sheet_4
+  - first:
+      213: -1037481861582852322
+    second: Brown_JEEP_CLEAN_SOUTH_000-sheet_5
+  - first:
+      213: 3326241644258854163
+    second: Brown_JEEP_CLEAN_SOUTH_000-sheet_6
+  - first:
+      213: 8471778251282343497
+    second: Brown_JEEP_CLEAN_SOUTH_000-sheet_7
+  - first:
+      213: 2892856792147718464
+    second: Brown_JEEP_CLEAN_SOUTH_000-sheet_8
+  - first:
+      213: -4922218144051322525
+    second: Brown_JEEP_CLEAN_SOUTH_000-sheet_9
+  - first:
+      213: 8293933129124073117
+    second: Brown_JEEP_CLEAN_SOUTH_000-sheet_10
+  - first:
+      213: 7809778053265061010
+    second: Brown_JEEP_CLEAN_SOUTH_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brown_JEEP_CLEAN_SOUTH_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 221
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13003e5165eee510800000000000000
+      internalID: 1580452725608416030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_JEEP_CLEAN_SOUTH_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 221
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6771e22c7d6232ca0800000000000000
+      internalID: -6042943566883448970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_JEEP_CLEAN_SOUTH_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 221
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b93d0a4366b5cd20800000000000000
+      internalID: 3298242839679154613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_JEEP_CLEAN_SOUTH_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 221
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09943779e3343c600800000000000000
+      internalID: 487307120794093968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_JEEP_CLEAN_SOUTH_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5efe3d75e4da7a10800000000000000
+      internalID: 1908071474258706013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_JEEP_CLEAN_SOUTH_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 120
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f61736ebf1a91f0800000000000000
+      internalID: -1037481861582852322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_JEEP_CLEAN_SOUTH_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 120
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315092bf62f292e20800000000000000
+      internalID: 3326241644258854163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_JEEP_CLEAN_SOUTH_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 121
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94660932f6dc19570800000000000000
+      internalID: 8471778251282343497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_JEEP_CLEAN_SOUTH_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 21
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0417a0aeced752820800000000000000
+      internalID: 2892856792147718464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_JEEP_CLEAN_SOUTH_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 21
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361a6d05da4c0bbb0800000000000000
+      internalID: -4922218144051322525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_JEEP_CLEAN_SOUTH_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 21
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ec840ec38f91370800000000000000
+      internalID: 8293933129124073117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_JEEP_CLEAN_SOUTH_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 21
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294718fe2c7e16c60800000000000000
+      internalID: 7809778053265061010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Brown_JEEP_CLEAN_SOUTH_000-sheet_0: 1580452725608416030
+      Brown_JEEP_CLEAN_SOUTH_000-sheet_1: -6042943566883448970
+      Brown_JEEP_CLEAN_SOUTH_000-sheet_10: 8293933129124073117
+      Brown_JEEP_CLEAN_SOUTH_000-sheet_11: 7809778053265061010
+      Brown_JEEP_CLEAN_SOUTH_000-sheet_2: 3298242839679154613
+      Brown_JEEP_CLEAN_SOUTH_000-sheet_3: 487307120794093968
+      Brown_JEEP_CLEAN_SOUTH_000-sheet_4: 1908071474258706013
+      Brown_JEEP_CLEAN_SOUTH_000-sheet_5: -1037481861582852322
+      Brown_JEEP_CLEAN_SOUTH_000-sheet_6: 3326241644258854163
+      Brown_JEEP_CLEAN_SOUTH_000-sheet_7: 8471778251282343497
+      Brown_JEEP_CLEAN_SOUTH_000-sheet_8: 2892856792147718464
+      Brown_JEEP_CLEAN_SOUTH_000-sheet_9: -4922218144051322525
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

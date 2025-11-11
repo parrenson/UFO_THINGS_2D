@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 9ca8dfa040c8bf948bcd0f2e672e77ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3085182850041612263
+    second: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_0
+  - first:
+      213: 3536569699072145065
+    second: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_1
+  - first:
+      213: -1697921529986264601
+    second: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_2
+  - first:
+      213: 5527252209597488524
+    second: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_3
+  - first:
+      213: 1775405032949598231
+    second: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_4
+  - first:
+      213: -2876249297232309120
+    second: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_5
+  - first:
+      213: -8871220097743388677
+    second: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_6
+  - first:
+      213: 4053986900256529861
+    second: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_7
+  - first:
+      213: 677763567605494621
+    second: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_8
+  - first:
+      213: 5507740727468985154
+    second: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_9
+  - first:
+      213: -7272552059590233564
+    second: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_10
+  - first:
+      213: 5625824877117202268
+    second: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 214
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e78bd3c475c0da20800000000000000
+      internalID: 3085182850041612263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 214
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6fa9c576b641130800000000000000
+      internalID: 3536569699072145065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 213
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e15eac4d55cf68e0800000000000000
+      internalID: -1697921529986264601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 213
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d1d09999eb4bc40800000000000000
+      internalID: 5527252209597488524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 113
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718c661987183a810800000000000000
+      internalID: 1775405032949598231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 113
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0845001d0828518d0800000000000000
+      internalID: -2876249297232309120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 113
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfff2b5a25813e480800000000000000
+      internalID: -8871220097743388677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 113
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd90e95b97a24830800000000000000
+      internalID: 4053986900256529861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 13
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53b3d0bf56e76900800000000000000
+      internalID: 677763567605494621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 13
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b8db7a20d6f6c40800000000000000
+      internalID: 5507740727468985154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 13
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422b695fe64b21b90800000000000000
+      internalID: -7272552059590233564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 14
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f50293be1f21e40800000000000000
+      internalID: 5625824877117202268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_0: 3085182850041612263
+      Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_1: 3536569699072145065
+      Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_10: -7272552059590233564
+      Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_11: 5625824877117202268
+      Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_2: -1697921529986264601
+      Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_3: 5527252209597488524
+      Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_4: 1775405032949598231
+      Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_5: -2876249297232309120
+      Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_6: -8871220097743388677
+      Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_7: 4053986900256529861
+      Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_8: 677763567605494621
+      Black_HatchBack_CLEAN_SOUTHWEST_000-sheet_9: 5507740727468985154
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

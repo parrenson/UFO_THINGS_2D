@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: b11e7c6fb359b2f49b539ab0a15c0453
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8316616959885362493
+    second: Black_SPORT_CLEAN_WEST_000-sheet_0
+  - first:
+      213: 8338120763075383474
+    second: Black_SPORT_CLEAN_WEST_000-sheet_1
+  - first:
+      213: -4356771713639230834
+    second: Black_SPORT_CLEAN_WEST_000-sheet_2
+  - first:
+      213: 3149178499479839866
+    second: Black_SPORT_CLEAN_WEST_000-sheet_3
+  - first:
+      213: -4757946623868006099
+    second: Black_SPORT_CLEAN_WEST_000-sheet_4
+  - first:
+      213: 6569829338179246030
+    second: Black_SPORT_CLEAN_WEST_000-sheet_5
+  - first:
+      213: 6077639088975252195
+    second: Black_SPORT_CLEAN_WEST_000-sheet_6
+  - first:
+      213: 4193739830991311020
+    second: Black_SPORT_CLEAN_WEST_000-sheet_7
+  - first:
+      213: 5359534935132252621
+    second: Black_SPORT_CLEAN_WEST_000-sheet_8
+  - first:
+      213: 8135037544335302899
+    second: Black_SPORT_CLEAN_WEST_000-sheet_9
+  - first:
+      213: -8409537675834777630
+    second: Black_SPORT_CLEAN_WEST_000-sheet_10
+  - first:
+      213: -1865844788642456742
+    second: Black_SPORT_CLEAN_WEST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black_SPORT_CLEAN_WEST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 226
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca3b0530f0759c80800000000000000
+      internalID: -8316616959885362493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SPORT_CLEAN_WEST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 226
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0da6128a4f6b370800000000000000
+      internalID: 8338120763075383474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SPORT_CLEAN_WEST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 226
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e825019a533a983c0800000000000000
+      internalID: -4356771713639230834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SPORT_CLEAN_WEST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 226
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a742bc3092124bb20800000000000000
+      internalID: 3149178499479839866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SPORT_CLEAN_WEST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 126
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21141811c068fdb0800000000000000
+      internalID: -4757946623868006099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SPORT_CLEAN_WEST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 126
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec71d1189f8bc2b50800000000000000
+      internalID: 6569829338179246030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SPORT_CLEAN_WEST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 126
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea066bfc8c185450800000000000000
+      internalID: 6077639088975252195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SPORT_CLEAN_WEST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 126
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0d4aa2828233a30800000000000000
+      internalID: 4193739830991311020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SPORT_CLEAN_WEST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 26
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9aad1a0a4e06a40800000000000000
+      internalID: 5359534935132252621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SPORT_CLEAN_WEST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 26
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f062989b8575e070800000000000000
+      internalID: 8135037544335302899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SPORT_CLEAN_WEST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 26
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef9a9a1a025b4b80800000000000000
+      internalID: -8409537675834777630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SPORT_CLEAN_WEST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 26
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bd3f6ec003b16e0800000000000000
+      internalID: -1865844788642456742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black_SPORT_CLEAN_WEST_000-sheet_0: -8316616959885362493
+      Black_SPORT_CLEAN_WEST_000-sheet_1: 8338120763075383474
+      Black_SPORT_CLEAN_WEST_000-sheet_10: -8409537675834777630
+      Black_SPORT_CLEAN_WEST_000-sheet_11: -1865844788642456742
+      Black_SPORT_CLEAN_WEST_000-sheet_2: -4356771713639230834
+      Black_SPORT_CLEAN_WEST_000-sheet_3: 3149178499479839866
+      Black_SPORT_CLEAN_WEST_000-sheet_4: -4757946623868006099
+      Black_SPORT_CLEAN_WEST_000-sheet_5: 6569829338179246030
+      Black_SPORT_CLEAN_WEST_000-sheet_6: 6077639088975252195
+      Black_SPORT_CLEAN_WEST_000-sheet_7: 4193739830991311020
+      Black_SPORT_CLEAN_WEST_000-sheet_8: 5359534935132252621
+      Black_SPORT_CLEAN_WEST_000-sheet_9: 8135037544335302899
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

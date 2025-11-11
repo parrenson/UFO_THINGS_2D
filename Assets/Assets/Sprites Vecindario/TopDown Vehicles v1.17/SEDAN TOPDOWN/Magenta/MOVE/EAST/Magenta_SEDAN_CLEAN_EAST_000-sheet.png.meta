@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 5bc947c10c1bd93428f7a8a3e98db074
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8173448262543594830
+    second: Magenta_SEDAN_CLEAN_EAST_000-sheet_0
+  - first:
+      213: -3760140355527311779
+    second: Magenta_SEDAN_CLEAN_EAST_000-sheet_1
+  - first:
+      213: -4898970701687733303
+    second: Magenta_SEDAN_CLEAN_EAST_000-sheet_2
+  - first:
+      213: -1126801643244380139
+    second: Magenta_SEDAN_CLEAN_EAST_000-sheet_3
+  - first:
+      213: -8012094553589761915
+    second: Magenta_SEDAN_CLEAN_EAST_000-sheet_4
+  - first:
+      213: 1808843803244047897
+    second: Magenta_SEDAN_CLEAN_EAST_000-sheet_5
+  - first:
+      213: -1669522138825457250
+    second: Magenta_SEDAN_CLEAN_EAST_000-sheet_6
+  - first:
+      213: 8373701617980963281
+    second: Magenta_SEDAN_CLEAN_EAST_000-sheet_7
+  - first:
+      213: -5919246668694440139
+    second: Magenta_SEDAN_CLEAN_EAST_000-sheet_8
+  - first:
+      213: 1130398952661408641
+    second: Magenta_SEDAN_CLEAN_EAST_000-sheet_9
+  - first:
+      213: -7040043742528286219
+    second: Magenta_SEDAN_CLEAN_EAST_000-sheet_10
+  - first:
+      213: -355331875351032041
+    second: Magenta_SEDAN_CLEAN_EAST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magenta_SEDAN_CLEAN_EAST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 227
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45d1f6d3ebed6170800000000000000
+      internalID: 8173448262543594830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_SEDAN_CLEAN_EAST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 227
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5efe2bc44c41dbc0800000000000000
+      internalID: -3760140355527311779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_SEDAN_CLEAN_EAST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 227
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c34bd84a1c530cb0800000000000000
+      internalID: -4898970701687733303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_SEDAN_CLEAN_EAST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 227
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510a71220ebcc50f0800000000000000
+      internalID: -1126801643244380139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_SEDAN_CLEAN_EAST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 127
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588b07214725fc090800000000000000
+      internalID: -8012094553589761915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_SEDAN_CLEAN_EAST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 127
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e278afadd4a1910800000000000000
+      internalID: 1808843803244047897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_SEDAN_CLEAN_EAST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9188a2d57aa4d8e0800000000000000
+      internalID: -1669522138825457250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_SEDAN_CLEAN_EAST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 127
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d97eda714d553470800000000000000
+      internalID: 8373701617980963281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_SEDAN_CLEAN_EAST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 27
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537bd8e248c9adda0800000000000000
+      internalID: -5919246668694440139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_SEDAN_CLEAN_EAST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 27
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b5bdbbbdbffaf00800000000000000
+      internalID: 1130398952661408641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_SEDAN_CLEAN_EAST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 27
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1d363148dbc4e90800000000000000
+      internalID: -7040043742528286219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_SEDAN_CLEAN_EAST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 27
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f0450ca8b911bf0800000000000000
+      internalID: -355331875351032041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magenta_SEDAN_CLEAN_EAST_000-sheet_0: 8173448262543594830
+      Magenta_SEDAN_CLEAN_EAST_000-sheet_1: -3760140355527311779
+      Magenta_SEDAN_CLEAN_EAST_000-sheet_10: -7040043742528286219
+      Magenta_SEDAN_CLEAN_EAST_000-sheet_11: -355331875351032041
+      Magenta_SEDAN_CLEAN_EAST_000-sheet_2: -4898970701687733303
+      Magenta_SEDAN_CLEAN_EAST_000-sheet_3: -1126801643244380139
+      Magenta_SEDAN_CLEAN_EAST_000-sheet_4: -8012094553589761915
+      Magenta_SEDAN_CLEAN_EAST_000-sheet_5: 1808843803244047897
+      Magenta_SEDAN_CLEAN_EAST_000-sheet_6: -1669522138825457250
+      Magenta_SEDAN_CLEAN_EAST_000-sheet_7: 8373701617980963281
+      Magenta_SEDAN_CLEAN_EAST_000-sheet_8: -5919246668694440139
+      Magenta_SEDAN_CLEAN_EAST_000-sheet_9: 1130398952661408641
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

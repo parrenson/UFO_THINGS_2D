@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 77baf88ff1e41934d8e741e84285ff5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3154173563620859717
+    second: Green_SEDAN_CLEAN_WEST_000-sheet_0
+  - first:
+      213: -4428227864271008003
+    second: Green_SEDAN_CLEAN_WEST_000-sheet_1
+  - first:
+      213: 35541690098307683
+    second: Green_SEDAN_CLEAN_WEST_000-sheet_2
+  - first:
+      213: 934005977274906797
+    second: Green_SEDAN_CLEAN_WEST_000-sheet_3
+  - first:
+      213: -4201108040905710121
+    second: Green_SEDAN_CLEAN_WEST_000-sheet_4
+  - first:
+      213: 286873684494852597
+    second: Green_SEDAN_CLEAN_WEST_000-sheet_5
+  - first:
+      213: 3740483805114469578
+    second: Green_SEDAN_CLEAN_WEST_000-sheet_6
+  - first:
+      213: 332311635971928611
+    second: Green_SEDAN_CLEAN_WEST_000-sheet_7
+  - first:
+      213: 567949875773993548
+    second: Green_SEDAN_CLEAN_WEST_000-sheet_8
+  - first:
+      213: 3520140287097052818
+    second: Green_SEDAN_CLEAN_WEST_000-sheet_9
+  - first:
+      213: -5874263043772773622
+    second: Green_SEDAN_CLEAN_WEST_000-sheet_10
+  - first:
+      213: -495469158938805971
+    second: Green_SEDAN_CLEAN_WEST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green_SEDAN_CLEAN_WEST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 227
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0637cfadf1a34d0800000000000000
+      internalID: -3154173563620859717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SEDAN_CLEAN_WEST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 227
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfec3ad1836cb82c0800000000000000
+      internalID: -4428227864271008003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SEDAN_CLEAN_WEST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 227
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362d6059af44e7000800000000000000
+      internalID: 35541690098307683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SEDAN_CLEAN_WEST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 227
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8ff8ddc7146fc00800000000000000
+      internalID: 934005977274906797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SEDAN_CLEAN_WEST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d527c6ce7aa2b5c0800000000000000
+      internalID: -4201108040905710121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SEDAN_CLEAN_WEST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 127
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f129bb981e2bf300800000000000000
+      internalID: 286873684494852597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SEDAN_CLEAN_WEST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 127
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc03fbe33ed8e330800000000000000
+      internalID: 3740483805114469578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SEDAN_CLEAN_WEST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 127
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322f5d81cab9c9400800000000000000
+      internalID: 332311635971928611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SEDAN_CLEAN_WEST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 27
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c427cb32763c1e700800000000000000
+      internalID: 567949875773993548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SEDAN_CLEAN_WEST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 27
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e16fbc0fc0ad030800000000000000
+      internalID: 3520140287097052818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SEDAN_CLEAN_WEST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 27
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b08b682ec6a7ea0800000000000000
+      internalID: -5874263043772773622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SEDAN_CLEAN_WEST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 27
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d297a40dc6dbf19f0800000000000000
+      internalID: -495469158938805971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green_SEDAN_CLEAN_WEST_000-sheet_0: -3154173563620859717
+      Green_SEDAN_CLEAN_WEST_000-sheet_1: -4428227864271008003
+      Green_SEDAN_CLEAN_WEST_000-sheet_10: -5874263043772773622
+      Green_SEDAN_CLEAN_WEST_000-sheet_11: -495469158938805971
+      Green_SEDAN_CLEAN_WEST_000-sheet_2: 35541690098307683
+      Green_SEDAN_CLEAN_WEST_000-sheet_3: 934005977274906797
+      Green_SEDAN_CLEAN_WEST_000-sheet_4: -4201108040905710121
+      Green_SEDAN_CLEAN_WEST_000-sheet_5: 286873684494852597
+      Green_SEDAN_CLEAN_WEST_000-sheet_6: 3740483805114469578
+      Green_SEDAN_CLEAN_WEST_000-sheet_7: 332311635971928611
+      Green_SEDAN_CLEAN_WEST_000-sheet_8: 567949875773993548
+      Green_SEDAN_CLEAN_WEST_000-sheet_9: 3520140287097052818
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

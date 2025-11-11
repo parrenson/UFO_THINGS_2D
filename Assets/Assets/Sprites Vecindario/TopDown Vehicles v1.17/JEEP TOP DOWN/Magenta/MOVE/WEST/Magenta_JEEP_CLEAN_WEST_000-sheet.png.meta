@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 838ec65a558304b46bb4684f24d0e3a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5706234407309638128
+    second: Magenta_JEEP_CLEAN_WEST_000-sheet_0
+  - first:
+      213: -7688128637445946097
+    second: Magenta_JEEP_CLEAN_WEST_000-sheet_1
+  - first:
+      213: 563156469661843104
+    second: Magenta_JEEP_CLEAN_WEST_000-sheet_2
+  - first:
+      213: 998814355226270390
+    second: Magenta_JEEP_CLEAN_WEST_000-sheet_3
+  - first:
+      213: 7185591743965677612
+    second: Magenta_JEEP_CLEAN_WEST_000-sheet_4
+  - first:
+      213: 4387245573367442814
+    second: Magenta_JEEP_CLEAN_WEST_000-sheet_5
+  - first:
+      213: 1692445829937981986
+    second: Magenta_JEEP_CLEAN_WEST_000-sheet_6
+  - first:
+      213: 8503712117990483946
+    second: Magenta_JEEP_CLEAN_WEST_000-sheet_7
+  - first:
+      213: -1763014470564215126
+    second: Magenta_JEEP_CLEAN_WEST_000-sheet_8
+  - first:
+      213: 8258731647306259821
+    second: Magenta_JEEP_CLEAN_WEST_000-sheet_9
+  - first:
+      213: -7731842516565543372
+    second: Magenta_JEEP_CLEAN_WEST_000-sheet_10
+  - first:
+      213: 8739117267723495916
+    second: Magenta_JEEP_CLEAN_WEST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magenta_JEEP_CLEAN_WEST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 226
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016823b1a026fc0b0800000000000000
+      internalID: -5706234407309638128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_JEEP_CLEAN_WEST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 226
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05c689dcb74e4590800000000000000
+      internalID: -7688128637445946097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_JEEP_CLEAN_WEST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 226
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae382f43dbb0d700800000000000000
+      internalID: 563156469661843104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_JEEP_CLEAN_WEST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 226
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba92d73d508cdd00800000000000000
+      internalID: 998814355226270390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_JEEP_CLEAN_WEST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 126
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28cd08ce9958b360800000000000000
+      internalID: 7185591743965677612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_JEEP_CLEAN_WEST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 126
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7da8f6ba90a2ec30800000000000000
+      internalID: 4387245573367442814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_JEEP_CLEAN_WEST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 126
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a6b0fe386cc7710800000000000000
+      internalID: 1692445829937981986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_JEEP_CLEAN_WEST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 126
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7e101ed11430670800000000000000
+      internalID: 8503712117990483946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_JEEP_CLEAN_WEST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 26
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6852c0ea38887e0800000000000000
+      internalID: -1763014470564215126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_JEEP_CLEAN_WEST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 26
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d57f43da8ec9270800000000000000
+      internalID: 8258731647306259821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_JEEP_CLEAN_WEST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 26
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43639dc323af2b490800000000000000
+      internalID: -7731842516565543372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_JEEP_CLEAN_WEST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 26
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce924296ad4974970800000000000000
+      internalID: 8739117267723495916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magenta_JEEP_CLEAN_WEST_000-sheet_0: -5706234407309638128
+      Magenta_JEEP_CLEAN_WEST_000-sheet_1: -7688128637445946097
+      Magenta_JEEP_CLEAN_WEST_000-sheet_10: -7731842516565543372
+      Magenta_JEEP_CLEAN_WEST_000-sheet_11: 8739117267723495916
+      Magenta_JEEP_CLEAN_WEST_000-sheet_2: 563156469661843104
+      Magenta_JEEP_CLEAN_WEST_000-sheet_3: 998814355226270390
+      Magenta_JEEP_CLEAN_WEST_000-sheet_4: 7185591743965677612
+      Magenta_JEEP_CLEAN_WEST_000-sheet_5: 4387245573367442814
+      Magenta_JEEP_CLEAN_WEST_000-sheet_6: 1692445829937981986
+      Magenta_JEEP_CLEAN_WEST_000-sheet_7: 8503712117990483946
+      Magenta_JEEP_CLEAN_WEST_000-sheet_8: -1763014470564215126
+      Magenta_JEEP_CLEAN_WEST_000-sheet_9: 8258731647306259821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

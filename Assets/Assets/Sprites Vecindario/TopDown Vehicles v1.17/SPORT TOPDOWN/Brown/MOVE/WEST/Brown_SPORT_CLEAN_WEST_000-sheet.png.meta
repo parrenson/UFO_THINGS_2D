@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 2001e8a051760894bba0b4eeaf40db15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7308380539708525950
+    second: Brown_SPORT_CLEAN_WEST_000-sheet_0
+  - first:
+      213: -6939554143835889797
+    second: Brown_SPORT_CLEAN_WEST_000-sheet_1
+  - first:
+      213: -7811287756003754245
+    second: Brown_SPORT_CLEAN_WEST_000-sheet_2
+  - first:
+      213: -6105264378768766074
+    second: Brown_SPORT_CLEAN_WEST_000-sheet_3
+  - first:
+      213: 8539021512887876207
+    second: Brown_SPORT_CLEAN_WEST_000-sheet_4
+  - first:
+      213: 1987798080819836705
+    second: Brown_SPORT_CLEAN_WEST_000-sheet_5
+  - first:
+      213: -5632023689714720516
+    second: Brown_SPORT_CLEAN_WEST_000-sheet_6
+  - first:
+      213: 2817895591495010665
+    second: Brown_SPORT_CLEAN_WEST_000-sheet_7
+  - first:
+      213: -517363675259354846
+    second: Brown_SPORT_CLEAN_WEST_000-sheet_8
+  - first:
+      213: 6802009167403175828
+    second: Brown_SPORT_CLEAN_WEST_000-sheet_9
+  - first:
+      213: -1027381919659039155
+    second: Brown_SPORT_CLEAN_WEST_000-sheet_10
+  - first:
+      213: 8759594110117239884
+    second: Brown_SPORT_CLEAN_WEST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_WEST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 226
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282bb4fde9a639a90800000000000000
+      internalID: -7308380539708525950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_WEST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 226
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f52150640c1bf90800000000000000
+      internalID: -6939554143835889797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_WEST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 226
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfeb9010c2bb89390800000000000000
+      internalID: -7811287756003754245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_WEST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 226
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b44a3056eb54ba0800000000000000
+      internalID: -6105264378768766074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_WEST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 126
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ab91503d2b08670800000000000000
+      internalID: 8539021512887876207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_WEST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 126
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127387c92d3169b10800000000000000
+      internalID: 1987798080819836705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_WEST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 126
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf028ff3b4807d1b0800000000000000
+      internalID: -5632023689714720516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_WEST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 126
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96903315c1d2b1720800000000000000
+      internalID: 2817895591495010665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_WEST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 26
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221c97c7a74f1d8f0800000000000000
+      internalID: -517363675259354846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_WEST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 26
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f44069c47956e50800000000000000
+      internalID: 6802009167403175828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_WEST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 26
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46601e56910eb1f0800000000000000
+      internalID: -1027381919659039155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_SPORT_CLEAN_WEST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 26
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c542ece64509970800000000000000
+      internalID: 8759594110117239884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Brown_SPORT_CLEAN_WEST_000-sheet_0: -7308380539708525950
+      Brown_SPORT_CLEAN_WEST_000-sheet_1: -6939554143835889797
+      Brown_SPORT_CLEAN_WEST_000-sheet_10: -1027381919659039155
+      Brown_SPORT_CLEAN_WEST_000-sheet_11: 8759594110117239884
+      Brown_SPORT_CLEAN_WEST_000-sheet_2: -7811287756003754245
+      Brown_SPORT_CLEAN_WEST_000-sheet_3: -6105264378768766074
+      Brown_SPORT_CLEAN_WEST_000-sheet_4: 8539021512887876207
+      Brown_SPORT_CLEAN_WEST_000-sheet_5: 1987798080819836705
+      Brown_SPORT_CLEAN_WEST_000-sheet_6: -5632023689714720516
+      Brown_SPORT_CLEAN_WEST_000-sheet_7: 2817895591495010665
+      Brown_SPORT_CLEAN_WEST_000-sheet_8: -517363675259354846
+      Brown_SPORT_CLEAN_WEST_000-sheet_9: 6802009167403175828
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

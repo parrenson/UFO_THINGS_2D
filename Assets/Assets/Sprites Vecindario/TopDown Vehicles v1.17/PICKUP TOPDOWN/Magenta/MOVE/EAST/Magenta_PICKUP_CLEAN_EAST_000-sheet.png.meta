@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 33d3c1be6d30b284c8a619117c4a357e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5678492187733238453
+    second: Magenta_PICKUP_CLEAN_EAST_000-sheet_0
+  - first:
+      213: -3092468363760469433
+    second: Magenta_PICKUP_CLEAN_EAST_000-sheet_1
+  - first:
+      213: 8348464206832517069
+    second: Magenta_PICKUP_CLEAN_EAST_000-sheet_2
+  - first:
+      213: -1776631784597006245
+    second: Magenta_PICKUP_CLEAN_EAST_000-sheet_3
+  - first:
+      213: -5536989002051417844
+    second: Magenta_PICKUP_CLEAN_EAST_000-sheet_4
+  - first:
+      213: 5865100247288094829
+    second: Magenta_PICKUP_CLEAN_EAST_000-sheet_5
+  - first:
+      213: -414014825114455299
+    second: Magenta_PICKUP_CLEAN_EAST_000-sheet_6
+  - first:
+      213: 8063763098972143607
+    second: Magenta_PICKUP_CLEAN_EAST_000-sheet_7
+  - first:
+      213: -159398083642166139
+    second: Magenta_PICKUP_CLEAN_EAST_000-sheet_8
+  - first:
+      213: 1654138966496528670
+    second: Magenta_PICKUP_CLEAN_EAST_000-sheet_9
+  - first:
+      213: 2732427167897551251
+    second: Magenta_PICKUP_CLEAN_EAST_000-sheet_10
+  - first:
+      213: -8317745001145308593
+    second: Magenta_PICKUP_CLEAN_EAST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magenta_PICKUP_CLEAN_EAST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 227
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d5452f071f131b0800000000000000
+      internalID: -5678492187733238453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_PICKUP_CLEAN_EAST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 227
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a7ce268685515d0800000000000000
+      internalID: -3092468363760469433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_PICKUP_CLEAN_EAST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 227
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfb05cc6f3bbd370800000000000000
+      internalID: 8348464206832517069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_PICKUP_CLEAN_EAST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 227
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b585d6e0ec22857e0800000000000000
+      internalID: -1776631784597006245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_PICKUP_CLEAN_EAST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 127
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c090b7fb6d9a823b0800000000000000
+      internalID: -5536989002051417844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_PICKUP_CLEAN_EAST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 127
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60a9aba995056150800000000000000
+      internalID: 5865100247288094829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_PICKUP_CLEAN_EAST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 127
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2be49c5bf114af0800000000000000
+      internalID: -414014825114455299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_PICKUP_CLEAN_EAST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 127
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff332b90dd38ef60800000000000000
+      internalID: 8063763098972143607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_PICKUP_CLEAN_EAST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 27
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58471a69944b9cdf0800000000000000
+      internalID: -159398083642166139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_PICKUP_CLEAN_EAST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 27
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19482340aea4f610800000000000000
+      internalID: 1654138966496528670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_PICKUP_CLEAN_EAST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 27
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391092d38088be520800000000000000
+      internalID: 2732427167897551251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magenta_PICKUP_CLEAN_EAST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 27
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ae372adfe619c80800000000000000
+      internalID: -8317745001145308593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magenta_PICKUP_CLEAN_EAST_000-sheet_0: -5678492187733238453
+      Magenta_PICKUP_CLEAN_EAST_000-sheet_1: -3092468363760469433
+      Magenta_PICKUP_CLEAN_EAST_000-sheet_10: 2732427167897551251
+      Magenta_PICKUP_CLEAN_EAST_000-sheet_11: -8317745001145308593
+      Magenta_PICKUP_CLEAN_EAST_000-sheet_2: 8348464206832517069
+      Magenta_PICKUP_CLEAN_EAST_000-sheet_3: -1776631784597006245
+      Magenta_PICKUP_CLEAN_EAST_000-sheet_4: -5536989002051417844
+      Magenta_PICKUP_CLEAN_EAST_000-sheet_5: 5865100247288094829
+      Magenta_PICKUP_CLEAN_EAST_000-sheet_6: -414014825114455299
+      Magenta_PICKUP_CLEAN_EAST_000-sheet_7: 8063763098972143607
+      Magenta_PICKUP_CLEAN_EAST_000-sheet_8: -159398083642166139
+      Magenta_PICKUP_CLEAN_EAST_000-sheet_9: 1654138966496528670
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

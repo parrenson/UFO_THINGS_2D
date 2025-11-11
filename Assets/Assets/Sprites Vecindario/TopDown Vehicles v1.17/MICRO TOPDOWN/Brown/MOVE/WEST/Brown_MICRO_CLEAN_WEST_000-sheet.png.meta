@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 92975baa89f3f374cb05b888a74d13b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6057695436939085427
+    second: Brown_MICRO_CLEAN_WEST_000-sheet_0
+  - first:
+      213: -43476541241868366
+    second: Brown_MICRO_CLEAN_WEST_000-sheet_1
+  - first:
+      213: -1458322163027544500
+    second: Brown_MICRO_CLEAN_WEST_000-sheet_2
+  - first:
+      213: 8716856771514039426
+    second: Brown_MICRO_CLEAN_WEST_000-sheet_3
+  - first:
+      213: -7610375756601980379
+    second: Brown_MICRO_CLEAN_WEST_000-sheet_4
+  - first:
+      213: 4813817913808644729
+    second: Brown_MICRO_CLEAN_WEST_000-sheet_5
+  - first:
+      213: 480012720540086493
+    second: Brown_MICRO_CLEAN_WEST_000-sheet_6
+  - first:
+      213: 339062966473710097
+    second: Brown_MICRO_CLEAN_WEST_000-sheet_7
+  - first:
+      213: 8625004883315178549
+    second: Brown_MICRO_CLEAN_WEST_000-sheet_8
+  - first:
+      213: -3578344916037440615
+    second: Brown_MICRO_CLEAN_WEST_000-sheet_9
+  - first:
+      213: -7047921774229990580
+    second: Brown_MICRO_CLEAN_WEST_000-sheet_10
+  - first:
+      213: 6192008213784437226
+    second: Brown_MICRO_CLEAN_WEST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_WEST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 231
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3764244a7e1411450800000000000000
+      internalID: 6057695436939085427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_WEST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 231
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf373be05a856ff0800000000000000
+      internalID: -43476541241868366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_WEST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 231
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46f9a028bff2cbe0800000000000000
+      internalID: -1458322163027544500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_WEST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 231
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c7d00cc0f78f870800000000000000
+      internalID: 8716856771514039426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_WEST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 131
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a8e742293826690800000000000000
+      internalID: -7610375756601980379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_WEST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 131
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ae9fd43ed1ec240800000000000000
+      internalID: 4813817913808644729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_WEST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 131
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0f57fa60959a600800000000000000
+      internalID: 480012720540086493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_WEST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 131
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ad729b8f794b400800000000000000
+      internalID: 339062966473710097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_WEST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 31
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cb2008e3c22b770800000000000000
+      internalID: 8625004883315178549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_WEST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 31
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b63cbf14a275ec0800000000000000
+      internalID: -3578344916037440615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_WEST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 31
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43d742ec70c03e90800000000000000
+      internalID: -7047921774229990580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_WEST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 31
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae12cece9ae6ee550800000000000000
+      internalID: 6192008213784437226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Brown_MICRO_CLEAN_WEST_000-sheet_0: 6057695436939085427
+      Brown_MICRO_CLEAN_WEST_000-sheet_1: -43476541241868366
+      Brown_MICRO_CLEAN_WEST_000-sheet_10: -7047921774229990580
+      Brown_MICRO_CLEAN_WEST_000-sheet_11: 6192008213784437226
+      Brown_MICRO_CLEAN_WEST_000-sheet_2: -1458322163027544500
+      Brown_MICRO_CLEAN_WEST_000-sheet_3: 8716856771514039426
+      Brown_MICRO_CLEAN_WEST_000-sheet_4: -7610375756601980379
+      Brown_MICRO_CLEAN_WEST_000-sheet_5: 4813817913808644729
+      Brown_MICRO_CLEAN_WEST_000-sheet_6: 480012720540086493
+      Brown_MICRO_CLEAN_WEST_000-sheet_7: 339062966473710097
+      Brown_MICRO_CLEAN_WEST_000-sheet_8: 8625004883315178549
+      Brown_MICRO_CLEAN_WEST_000-sheet_9: -3578344916037440615
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

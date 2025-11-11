@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 42c9ceaa681c0af4fb5755faceafa1e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3668925541259477733
+    second: Brown_MICRO_CLEAN_8D_000-sheet_0
+  - first:
+      213: 415007957768748460
+    second: Brown_MICRO_CLEAN_8D_000-sheet_1
+  - first:
+      213: -1250424384046376462
+    second: Brown_MICRO_CLEAN_8D_000-sheet_2
+  - first:
+      213: -4858658259710491240
+    second: Brown_MICRO_CLEAN_8D_000-sheet_3
+  - first:
+      213: 5167533750552284326
+    second: Brown_MICRO_CLEAN_8D_000-sheet_4
+  - first:
+      213: 1851682451995233914
+    second: Brown_MICRO_CLEAN_8D_000-sheet_5
+  - first:
+      213: 6969926657709056613
+    second: Brown_MICRO_CLEAN_8D_000-sheet_6
+  - first:
+      213: -637337774818659476
+    second: Brown_MICRO_CLEAN_8D_000-sheet_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_8D_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 231
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2012a4754aae230800000000000000
+      internalID: 3668925541259477733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_8D_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 225
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad34cde98762c500800000000000000
+      internalID: 415007957768748460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_8D_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 225
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9dd62d5a995aee0800000000000000
+      internalID: -1250424384046376462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_8D_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 125
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89540f81e04929cb0800000000000000
+      internalID: -4858658259710491240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_8D_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 131
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acc28e3194c6b740800000000000000
+      internalID: 5167533750552284326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_8D_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 127
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e0004216f72b910800000000000000
+      internalID: 1851682451995233914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_8D_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 29
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562264fed572ab060800000000000000
+      internalID: 6969926657709056613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_MICRO_CLEAN_8D_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 27
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63fef9aba8b727f0800000000000000
+      internalID: -637337774818659476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Brown_MICRO_CLEAN_8D_000-sheet_0: 3668925541259477733
+      Brown_MICRO_CLEAN_8D_000-sheet_1: 415007957768748460
+      Brown_MICRO_CLEAN_8D_000-sheet_2: -1250424384046376462
+      Brown_MICRO_CLEAN_8D_000-sheet_3: -4858658259710491240
+      Brown_MICRO_CLEAN_8D_000-sheet_4: 5167533750552284326
+      Brown_MICRO_CLEAN_8D_000-sheet_5: 1851682451995233914
+      Brown_MICRO_CLEAN_8D_000-sheet_6: 6969926657709056613
+      Brown_MICRO_CLEAN_8D_000-sheet_7: -637337774818659476
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

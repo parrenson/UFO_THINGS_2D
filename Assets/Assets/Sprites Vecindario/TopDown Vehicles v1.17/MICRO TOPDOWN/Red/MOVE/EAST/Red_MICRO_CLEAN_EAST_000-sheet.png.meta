@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 0868490daca294544a6ff3018d78cb12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 747469085225880301
+    second: Red_MICRO_CLEAN_EAST_000-sheet_0
+  - first:
+      213: -7163544561578338770
+    second: Red_MICRO_CLEAN_EAST_000-sheet_1
+  - first:
+      213: -6099945440879589848
+    second: Red_MICRO_CLEAN_EAST_000-sheet_2
+  - first:
+      213: 1635429407964904757
+    second: Red_MICRO_CLEAN_EAST_000-sheet_3
+  - first:
+      213: -6841996985772090210
+    second: Red_MICRO_CLEAN_EAST_000-sheet_4
+  - first:
+      213: -7169966978847586649
+    second: Red_MICRO_CLEAN_EAST_000-sheet_5
+  - first:
+      213: 4507313342559774989
+    second: Red_MICRO_CLEAN_EAST_000-sheet_6
+  - first:
+      213: -7000213456514637368
+    second: Red_MICRO_CLEAN_EAST_000-sheet_7
+  - first:
+      213: -1036649045299690182
+    second: Red_MICRO_CLEAN_EAST_000-sheet_8
+  - first:
+      213: 8924687056956263632
+    second: Red_MICRO_CLEAN_EAST_000-sheet_9
+  - first:
+      213: -5707379963033115929
+    second: Red_MICRO_CLEAN_EAST_000-sheet_10
+  - first:
+      213: -1198853107286508954
+    second: Red_MICRO_CLEAN_EAST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red_MICRO_CLEAN_EAST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 231
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea89793c2b8f5a00800000000000000
+      internalID: 747469085225880301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MICRO_CLEAN_EAST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 231
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e261172ec2af59c90800000000000000
+      internalID: -7163544561578338770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MICRO_CLEAN_EAST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 231
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826cb1fb0f3a85ba0800000000000000
+      internalID: -6099945440879589848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MICRO_CLEAN_EAST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 231
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53db9f4b16632b610800000000000000
+      internalID: 1635429407964904757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MICRO_CLEAN_EAST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 131
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cd2ccedf75c01a0800000000000000
+      internalID: -6841996985772090210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MICRO_CLEAN_EAST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 131
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6428655092f7c90800000000000000
+      internalID: -7169966978847586649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MICRO_CLEAN_EAST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 131
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0967a2ba913d8e30800000000000000
+      internalID: 4507313342559774989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MICRO_CLEAN_EAST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 131
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1298433fe3ade90800000000000000
+      internalID: -7000213456514637368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MICRO_CLEAN_EAST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a350a2a8f251d91f0800000000000000
+      internalID: -1036649045299690182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MICRO_CLEAN_EAST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 31
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc8761e79bdadb70800000000000000
+      internalID: 8924687056956263632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MICRO_CLEAN_EAST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 31
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2aa31a9205bc0b0800000000000000
+      internalID: -5707379963033115929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_MICRO_CLEAN_EAST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 31
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a70526371dc5fe0800000000000000
+      internalID: -1198853107286508954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Red_MICRO_CLEAN_EAST_000-sheet_0: 747469085225880301
+      Red_MICRO_CLEAN_EAST_000-sheet_1: -7163544561578338770
+      Red_MICRO_CLEAN_EAST_000-sheet_10: -5707379963033115929
+      Red_MICRO_CLEAN_EAST_000-sheet_11: -1198853107286508954
+      Red_MICRO_CLEAN_EAST_000-sheet_2: -6099945440879589848
+      Red_MICRO_CLEAN_EAST_000-sheet_3: 1635429407964904757
+      Red_MICRO_CLEAN_EAST_000-sheet_4: -6841996985772090210
+      Red_MICRO_CLEAN_EAST_000-sheet_5: -7169966978847586649
+      Red_MICRO_CLEAN_EAST_000-sheet_6: 4507313342559774989
+      Red_MICRO_CLEAN_EAST_000-sheet_7: -7000213456514637368
+      Red_MICRO_CLEAN_EAST_000-sheet_8: -1036649045299690182
+      Red_MICRO_CLEAN_EAST_000-sheet_9: 8924687056956263632
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

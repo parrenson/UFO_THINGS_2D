@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 632b11fa07b7bbe40911c86ef11e0924
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5886401486684013284
+    second: Black_BUS_CLEAN_8D_000-sheet_0
+  - first:
+      213: -1823080805727363879
+    second: Black_BUS_CLEAN_8D_000-sheet_1
+  - first:
+      213: 5559898601649039740
+    second: Black_BUS_CLEAN_8D_000-sheet_2
+  - first:
+      213: -8046074060956141924
+    second: Black_BUS_CLEAN_8D_000-sheet_3
+  - first:
+      213: 3947538045596768353
+    second: Black_BUS_CLEAN_8D_000-sheet_4
+  - first:
+      213: 2369991538945973548
+    second: Black_BUS_CLEAN_8D_000-sheet_5
+  - first:
+      213: -564841915539029511
+    second: Black_BUS_CLEAN_8D_000-sheet_6
+  - first:
+      213: 4021581569371201540
+    second: Black_BUS_CLEAN_8D_000-sheet_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black_BUS_CLEAN_8D_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 499
+        width: 144
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2c123f6f2b0b150800000000000000
+      internalID: 5886401486684013284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_BUS_CLEAN_8D_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 469
+        width: 115
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc99c19aad13b6e0800000000000000
+      internalID: -1823080805727363879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_BUS_CLEAN_8D_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 468
+        width: 46
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c796b72125ab82d40800000000000000
+      internalID: 5559898601649039740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_BUS_CLEAN_8D_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 259
+        width: 115
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c967930854a965090800000000000000
+      internalID: -8046074060956141924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_BUS_CLEAN_8D_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 289
+        width: 144
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168922100f878c630800000000000000
+      internalID: 3947538045596768353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_BUS_CLEAN_8D_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 263
+        width: 115
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d5e877fb6e3e020800000000000000
+      internalID: 2369991538945973548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_BUS_CLEAN_8D_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 52
+        width: 46
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f18b0e35474928f0800000000000000
+      internalID: -564841915539029511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_BUS_CLEAN_8D_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 53
+        width: 115
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400e0ad41278fc730800000000000000
+      internalID: 4021581569371201540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black_BUS_CLEAN_8D_000-sheet_0: 5886401486684013284
+      Black_BUS_CLEAN_8D_000-sheet_1: -1823080805727363879
+      Black_BUS_CLEAN_8D_000-sheet_2: 5559898601649039740
+      Black_BUS_CLEAN_8D_000-sheet_3: -8046074060956141924
+      Black_BUS_CLEAN_8D_000-sheet_4: 3947538045596768353
+      Black_BUS_CLEAN_8D_000-sheet_5: 2369991538945973548
+      Black_BUS_CLEAN_8D_000-sheet_6: -564841915539029511
+      Black_BUS_CLEAN_8D_000-sheet_7: 4021581569371201540
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: ec68bfe5db64c8b4a8e74eee3fb22116
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4917611769814529078
+    second: Black_PICKUP_CLEAN_WEST_000-sheet_0
+  - first:
+      213: -3888129223500913946
+    second: Black_PICKUP_CLEAN_WEST_000-sheet_1
+  - first:
+      213: 9156317971156334864
+    second: Black_PICKUP_CLEAN_WEST_000-sheet_2
+  - first:
+      213: 6644621855294152412
+    second: Black_PICKUP_CLEAN_WEST_000-sheet_3
+  - first:
+      213: 6330709495877766911
+    second: Black_PICKUP_CLEAN_WEST_000-sheet_4
+  - first:
+      213: 7439144364071791965
+    second: Black_PICKUP_CLEAN_WEST_000-sheet_5
+  - first:
+      213: 7704848185615955346
+    second: Black_PICKUP_CLEAN_WEST_000-sheet_6
+  - first:
+      213: 8391750494923260516
+    second: Black_PICKUP_CLEAN_WEST_000-sheet_7
+  - first:
+      213: -4311673432419423006
+    second: Black_PICKUP_CLEAN_WEST_000-sheet_8
+  - first:
+      213: 8485182674315056780
+    second: Black_PICKUP_CLEAN_WEST_000-sheet_9
+  - first:
+      213: -5078461151615409685
+    second: Black_PICKUP_CLEAN_WEST_000-sheet_10
+  - first:
+      213: -1592677646571018132
+    second: Black_PICKUP_CLEAN_WEST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black_PICKUP_CLEAN_WEST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 227
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbcce4662221cbb0800000000000000
+      internalID: -4917611769814529078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_PICKUP_CLEAN_WEST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 227
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2a96842179a0ac0800000000000000
+      internalID: -3888129223500913946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_PICKUP_CLEAN_WEST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 227
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0197c49bea6c11f70800000000000000
+      internalID: 9156317971156334864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_PICKUP_CLEAN_WEST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 227
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdeda976f50763c50800000000000000
+      internalID: 6644621855294152412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_PICKUP_CLEAN_WEST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe8cf5beb23bd750800000000000000
+      internalID: 6330709495877766911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_PICKUP_CLEAN_WEST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 127
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d295582662d3760800000000000000
+      internalID: 7439144364071791965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_PICKUP_CLEAN_WEST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 127
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295b3ff4a9e1dea60800000000000000
+      internalID: 7704848185615955346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_PICKUP_CLEAN_WEST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 127
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4620c9d1d9c757470800000000000000
+      internalID: 8391750494923260516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_PICKUP_CLEAN_WEST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 27
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eca6218bdbd924c0800000000000000
+      internalID: -4311673432419423006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_PICKUP_CLEAN_WEST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 27
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8619d49fac61c570800000000000000
+      internalID: 8485182674315056780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_PICKUP_CLEAN_WEST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 27
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1a75c4d7ea589b0800000000000000
+      internalID: -5078461151615409685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_PICKUP_CLEAN_WEST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 27
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68ed6a6e1ca5e9e0800000000000000
+      internalID: -1592677646571018132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black_PICKUP_CLEAN_WEST_000-sheet_0: -4917611769814529078
+      Black_PICKUP_CLEAN_WEST_000-sheet_1: -3888129223500913946
+      Black_PICKUP_CLEAN_WEST_000-sheet_10: -5078461151615409685
+      Black_PICKUP_CLEAN_WEST_000-sheet_11: -1592677646571018132
+      Black_PICKUP_CLEAN_WEST_000-sheet_2: 9156317971156334864
+      Black_PICKUP_CLEAN_WEST_000-sheet_3: 6644621855294152412
+      Black_PICKUP_CLEAN_WEST_000-sheet_4: 6330709495877766911
+      Black_PICKUP_CLEAN_WEST_000-sheet_5: 7439144364071791965
+      Black_PICKUP_CLEAN_WEST_000-sheet_6: 7704848185615955346
+      Black_PICKUP_CLEAN_WEST_000-sheet_7: 8391750494923260516
+      Black_PICKUP_CLEAN_WEST_000-sheet_8: -4311673432419423006
+      Black_PICKUP_CLEAN_WEST_000-sheet_9: 8485182674315056780
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

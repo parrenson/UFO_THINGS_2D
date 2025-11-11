@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: fb0a3c3d36c78e54b8300295bf55e1ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8537122402002381607
+    second: Green_PICKUP_CLEAN_WEST_000-sheet_0
+  - first:
+      213: 2184728856803270862
+    second: Green_PICKUP_CLEAN_WEST_000-sheet_1
+  - first:
+      213: -3201107151807947151
+    second: Green_PICKUP_CLEAN_WEST_000-sheet_2
+  - first:
+      213: -8699096064706497050
+    second: Green_PICKUP_CLEAN_WEST_000-sheet_3
+  - first:
+      213: 7209186475993112260
+    second: Green_PICKUP_CLEAN_WEST_000-sheet_4
+  - first:
+      213: -5770083585827669232
+    second: Green_PICKUP_CLEAN_WEST_000-sheet_5
+  - first:
+      213: 5244196277763861213
+    second: Green_PICKUP_CLEAN_WEST_000-sheet_6
+  - first:
+      213: 5953344455356386478
+    second: Green_PICKUP_CLEAN_WEST_000-sheet_7
+  - first:
+      213: 2883577412990347346
+    second: Green_PICKUP_CLEAN_WEST_000-sheet_8
+  - first:
+      213: -8810110029418899630
+    second: Green_PICKUP_CLEAN_WEST_000-sheet_9
+  - first:
+      213: 2983604138270767111
+    second: Green_PICKUP_CLEAN_WEST_000-sheet_10
+  - first:
+      213: 5807908067866020571
+    second: Green_PICKUP_CLEAN_WEST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green_PICKUP_CLEAN_WEST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 227
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ba16fc793f97670800000000000000
+      internalID: 8537122402002381607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_PICKUP_CLEAN_WEST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 227
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0ed40f157b15e10800000000000000
+      internalID: 2184728856803270862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_PICKUP_CLEAN_WEST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 227
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e568071026393d0800000000000000
+      internalID: -3201107151807947151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_PICKUP_CLEAN_WEST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 227
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5bb2c083a964780800000000000000
+      internalID: -8699096064706497050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_PICKUP_CLEAN_WEST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce9e1d67ec2c0460800000000000000
+      internalID: 7209186475993112260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_PICKUP_CLEAN_WEST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 127
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bfd66cc8b8cefa0800000000000000
+      internalID: -5770083585827669232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_PICKUP_CLEAN_WEST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 127
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda6a8ccab027c840800000000000000
+      internalID: 5244196277763861213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_PICKUP_CLEAN_WEST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 127
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac0f0f6d378e9250800000000000000
+      internalID: 5953344455356386478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_PICKUP_CLEAN_WEST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 27
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25821a71166840820800000000000000
+      internalID: 2883577412990347346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_PICKUP_CLEAN_WEST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 27
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25751603b933cb580800000000000000
+      internalID: -8810110029418899630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_PICKUP_CLEAN_WEST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 27
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708b30ce724e76920800000000000000
+      internalID: 2983604138270767111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_PICKUP_CLEAN_WEST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 27
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda8749bd95d99050800000000000000
+      internalID: 5807908067866020571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green_PICKUP_CLEAN_WEST_000-sheet_0: 8537122402002381607
+      Green_PICKUP_CLEAN_WEST_000-sheet_1: 2184728856803270862
+      Green_PICKUP_CLEAN_WEST_000-sheet_10: 2983604138270767111
+      Green_PICKUP_CLEAN_WEST_000-sheet_11: 5807908067866020571
+      Green_PICKUP_CLEAN_WEST_000-sheet_2: -3201107151807947151
+      Green_PICKUP_CLEAN_WEST_000-sheet_3: -8699096064706497050
+      Green_PICKUP_CLEAN_WEST_000-sheet_4: 7209186475993112260
+      Green_PICKUP_CLEAN_WEST_000-sheet_5: -5770083585827669232
+      Green_PICKUP_CLEAN_WEST_000-sheet_6: 5244196277763861213
+      Green_PICKUP_CLEAN_WEST_000-sheet_7: 5953344455356386478
+      Green_PICKUP_CLEAN_WEST_000-sheet_8: 2883577412990347346
+      Green_PICKUP_CLEAN_WEST_000-sheet_9: -8810110029418899630
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

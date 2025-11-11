@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 2c2ec5ecd6e15b348ba067197e4d201f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1967890048733963415
+    second: Black_SUV_CLEAN_NORTH_000-sheet_0
+  - first:
+      213: -5105712135729257745
+    second: Black_SUV_CLEAN_NORTH_000-sheet_1
+  - first:
+      213: -8331496993745686787
+    second: Black_SUV_CLEAN_NORTH_000-sheet_2
+  - first:
+      213: 5129479488965486509
+    second: Black_SUV_CLEAN_NORTH_000-sheet_3
+  - first:
+      213: -468678980524399119
+    second: Black_SUV_CLEAN_NORTH_000-sheet_4
+  - first:
+      213: 2159509626039496749
+    second: Black_SUV_CLEAN_NORTH_000-sheet_5
+  - first:
+      213: 9186458506413463384
+    second: Black_SUV_CLEAN_NORTH_000-sheet_6
+  - first:
+      213: 4088668580433921557
+    second: Black_SUV_CLEAN_NORTH_000-sheet_7
+  - first:
+      213: 7048285759102479865
+    second: Black_SUV_CLEAN_NORTH_000-sheet_8
+  - first:
+      213: -180708313901531164
+    second: Black_SUV_CLEAN_NORTH_000-sheet_9
+  - first:
+      213: -7300323675448906344
+    second: Black_SUV_CLEAN_NORTH_000-sheet_10
+  - first:
+      213: 282886747949170285
+    second: Black_SUV_CLEAN_NORTH_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black_SUV_CLEAN_NORTH_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 218
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79460dfa2995f4b10800000000000000
+      internalID: 1967890048733963415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SUV_CLEAN_NORTH_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 218
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2e4702dddd429b0800000000000000
+      internalID: -5105712135729257745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SUV_CLEAN_NORTH_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 218
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfead8850a3906c80800000000000000
+      internalID: -8331496993745686787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SUV_CLEAN_NORTH_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 218
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7a0760b629f2740800000000000000
+      internalID: 5129479488965486509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SUV_CLEAN_NORTH_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 118
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5a62c43faee79f0800000000000000
+      internalID: -468678980524399119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SUV_CLEAN_NORTH_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 118
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20fe15309e18fd10800000000000000
+      internalID: 2159509626039496749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SUV_CLEAN_NORTH_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 118
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857d3a2f65bdc7f70800000000000000
+      internalID: 9186458506413463384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SUV_CLEAN_NORTH_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 118
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5168015496eddb830800000000000000
+      internalID: 4088668580433921557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SUV_CLEAN_NORTH_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 18
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd6fb2fd8a80d160800000000000000
+      internalID: 7048285759102479865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SUV_CLEAN_NORTH_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 18
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef70f5febefd7df0800000000000000
+      internalID: -180708313901531164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SUV_CLEAN_NORTH_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 18
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d6e73cb4a00ba90800000000000000
+      internalID: -7300323675448906344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_SUV_CLEAN_NORTH_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 18
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6efc2b9ff30de300800000000000000
+      internalID: 282886747949170285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black_SUV_CLEAN_NORTH_000-sheet_0: 1967890048733963415
+      Black_SUV_CLEAN_NORTH_000-sheet_1: -5105712135729257745
+      Black_SUV_CLEAN_NORTH_000-sheet_10: -7300323675448906344
+      Black_SUV_CLEAN_NORTH_000-sheet_11: 282886747949170285
+      Black_SUV_CLEAN_NORTH_000-sheet_2: -8331496993745686787
+      Black_SUV_CLEAN_NORTH_000-sheet_3: 5129479488965486509
+      Black_SUV_CLEAN_NORTH_000-sheet_4: -468678980524399119
+      Black_SUV_CLEAN_NORTH_000-sheet_5: 2159509626039496749
+      Black_SUV_CLEAN_NORTH_000-sheet_6: 9186458506413463384
+      Black_SUV_CLEAN_NORTH_000-sheet_7: 4088668580433921557
+      Black_SUV_CLEAN_NORTH_000-sheet_8: 7048285759102479865
+      Black_SUV_CLEAN_NORTH_000-sheet_9: -180708313901531164
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

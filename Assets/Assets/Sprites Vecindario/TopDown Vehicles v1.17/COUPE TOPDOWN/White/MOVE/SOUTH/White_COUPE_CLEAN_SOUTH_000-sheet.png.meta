@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 45cdada5c82029746b29a2129052ddf7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2609140498104388547
+    second: White_COUPE_CLEAN_SOUTH_000-sheet_0
+  - first:
+      213: -6039700386495246167
+    second: White_COUPE_CLEAN_SOUTH_000-sheet_1
+  - first:
+      213: -8418574970016147404
+    second: White_COUPE_CLEAN_SOUTH_000-sheet_2
+  - first:
+      213: 5614228145754579403
+    second: White_COUPE_CLEAN_SOUTH_000-sheet_3
+  - first:
+      213: 1419444883078606665
+    second: White_COUPE_CLEAN_SOUTH_000-sheet_4
+  - first:
+      213: -4685548838194093146
+    second: White_COUPE_CLEAN_SOUTH_000-sheet_5
+  - first:
+      213: 3491728769851686694
+    second: White_COUPE_CLEAN_SOUTH_000-sheet_6
+  - first:
+      213: -7653766639056603060
+    second: White_COUPE_CLEAN_SOUTH_000-sheet_7
+  - first:
+      213: -8264821109391006517
+    second: White_COUPE_CLEAN_SOUTH_000-sheet_8
+  - first:
+      213: -5309450417705318359
+    second: White_COUPE_CLEAN_SOUTH_000-sheet_9
+  - first:
+      213: -1776622304872203914
+    second: White_COUPE_CLEAN_SOUTH_000-sheet_10
+  - first:
+      213: 1908499676063070564
+    second: White_COUPE_CLEAN_SOUTH_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White_COUPE_CLEAN_SOUTH_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 213
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34f6617a887acbd0800000000000000
+      internalID: -2609140498104388547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_COUPE_CLEAN_SOUTH_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 213
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a059298f7cae2ca0800000000000000
+      internalID: -6039700386495246167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_COUPE_CLEAN_SOUTH_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 212
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43851351ba63b2b80800000000000000
+      internalID: -8418574970016147404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_COUPE_CLEAN_SOUTH_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 212
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1a3bbc0ceb9ed40800000000000000
+      internalID: 5614228145754579403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_COUPE_CLEAN_SOUTH_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 112
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f6522c991e2b310800000000000000
+      internalID: 1419444883078606665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_COUPE_CLEAN_SOUTH_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a362b1282699feb0800000000000000
+      internalID: -4685548838194093146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_COUPE_CLEAN_SOUTH_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 112
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f7503f0dc157030800000000000000
+      internalID: 3491728769851686694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_COUPE_CLEAN_SOUTH_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 112
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48bb4d0bcb58c590800000000000000
+      internalID: -7653766639056603060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_COUPE_CLEAN_SOUTH_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 12
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4699a6df47d4d80800000000000000
+      internalID: -8264821109391006517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_COUPE_CLEAN_SOUTH_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 12
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928002cc9fa0156b0800000000000000
+      internalID: -5309450417705318359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_COUPE_CLEAN_SOUTH_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 13
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6797e0a3d6b2857e0800000000000000
+      internalID: -1776622304872203914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_COUPE_CLEAN_SOUTH_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 13
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469ffadf75a5c7a10800000000000000
+      internalID: 1908499676063070564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      White_COUPE_CLEAN_SOUTH_000-sheet_0: -2609140498104388547
+      White_COUPE_CLEAN_SOUTH_000-sheet_1: -6039700386495246167
+      White_COUPE_CLEAN_SOUTH_000-sheet_10: -1776622304872203914
+      White_COUPE_CLEAN_SOUTH_000-sheet_11: 1908499676063070564
+      White_COUPE_CLEAN_SOUTH_000-sheet_2: -8418574970016147404
+      White_COUPE_CLEAN_SOUTH_000-sheet_3: 5614228145754579403
+      White_COUPE_CLEAN_SOUTH_000-sheet_4: 1419444883078606665
+      White_COUPE_CLEAN_SOUTH_000-sheet_5: -4685548838194093146
+      White_COUPE_CLEAN_SOUTH_000-sheet_6: 3491728769851686694
+      White_COUPE_CLEAN_SOUTH_000-sheet_7: -7653766639056603060
+      White_COUPE_CLEAN_SOUTH_000-sheet_8: -8264821109391006517
+      White_COUPE_CLEAN_SOUTH_000-sheet_9: -5309450417705318359
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

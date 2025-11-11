@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 22eb513e564ef3d46842df3d1364dd84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1653239635593698119
+    second: Brown_HatchBack_CLEAN_EAST_000-sheet_0
+  - first:
+      213: 3095173893885057398
+    second: Brown_HatchBack_CLEAN_EAST_000-sheet_1
+  - first:
+      213: 588213676515480435
+    second: Brown_HatchBack_CLEAN_EAST_000-sheet_2
+  - first:
+      213: -1603533968665411057
+    second: Brown_HatchBack_CLEAN_EAST_000-sheet_3
+  - first:
+      213: -6555954066478410596
+    second: Brown_HatchBack_CLEAN_EAST_000-sheet_4
+  - first:
+      213: 4679818587244138739
+    second: Brown_HatchBack_CLEAN_EAST_000-sheet_5
+  - first:
+      213: 2505841480550395040
+    second: Brown_HatchBack_CLEAN_EAST_000-sheet_6
+  - first:
+      213: 3800276250172830089
+    second: Brown_HatchBack_CLEAN_EAST_000-sheet_7
+  - first:
+      213: 23151078927100755
+    second: Brown_HatchBack_CLEAN_EAST_000-sheet_8
+  - first:
+      213: 1824881900572940094
+    second: Brown_HatchBack_CLEAN_EAST_000-sheet_9
+  - first:
+      213: 1773875147403557835
+    second: Brown_HatchBack_CLEAN_EAST_000-sheet_10
+  - first:
+      213: 5084123161929949161
+    second: Brown_HatchBack_CLEAN_EAST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brown_HatchBack_CLEAN_EAST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 225
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b467d78f438e09e0800000000000000
+      internalID: -1653239635593698119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_HatchBack_CLEAN_EAST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 225
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679d41fe14444fa20800000000000000
+      internalID: 3095173893885057398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_HatchBack_CLEAN_EAST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 225
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3735bb8e831c92800800000000000000
+      internalID: 588213676515480435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_HatchBack_CLEAN_EAST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 225
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f020d64f95a1fb9e0800000000000000
+      internalID: -1603533968665411057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_HatchBack_CLEAN_EAST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 125
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94d6cfe2829405a0800000000000000
+      internalID: -6555954066478410596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_HatchBack_CLEAN_EAST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 125
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f015f9d53e02f040800000000000000
+      internalID: 4679818587244138739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_HatchBack_CLEAN_EAST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 125
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac25afcc8986c220800000000000000
+      internalID: 2505841480550395040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_HatchBack_CLEAN_EAST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 125
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981b7e36d1b4db430800000000000000
+      internalID: 3800276250172830089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_HatchBack_CLEAN_EAST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 25
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bed9b98cf325000800000000000000
+      internalID: 23151078927100755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_HatchBack_CLEAN_EAST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 25
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3790b08b68435910800000000000000
+      internalID: 1824881900572940094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_HatchBack_CLEAN_EAST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 25
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbf1e45c021e9810800000000000000
+      internalID: 1773875147403557835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brown_HatchBack_CLEAN_EAST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 25
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef9b25341f6e8640800000000000000
+      internalID: 5084123161929949161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Brown_HatchBack_CLEAN_EAST_000-sheet_0: -1653239635593698119
+      Brown_HatchBack_CLEAN_EAST_000-sheet_1: 3095173893885057398
+      Brown_HatchBack_CLEAN_EAST_000-sheet_10: 1773875147403557835
+      Brown_HatchBack_CLEAN_EAST_000-sheet_11: 5084123161929949161
+      Brown_HatchBack_CLEAN_EAST_000-sheet_2: 588213676515480435
+      Brown_HatchBack_CLEAN_EAST_000-sheet_3: -1603533968665411057
+      Brown_HatchBack_CLEAN_EAST_000-sheet_4: -6555954066478410596
+      Brown_HatchBack_CLEAN_EAST_000-sheet_5: 4679818587244138739
+      Brown_HatchBack_CLEAN_EAST_000-sheet_6: 2505841480550395040
+      Brown_HatchBack_CLEAN_EAST_000-sheet_7: 3800276250172830089
+      Brown_HatchBack_CLEAN_EAST_000-sheet_8: 23151078927100755
+      Brown_HatchBack_CLEAN_EAST_000-sheet_9: 1824881900572940094
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

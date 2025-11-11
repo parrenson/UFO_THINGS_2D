@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: d024b8ae161cfe24fb5fff1d0b0eb4b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8670730849629904331
+    second: Green_MUSCLECAR_CLEAN_WEST_000-sheet_0
+  - first:
+      213: 8773607378343662375
+    second: Green_MUSCLECAR_CLEAN_WEST_000-sheet_1
+  - first:
+      213: -1157079237098626202
+    second: Green_MUSCLECAR_CLEAN_WEST_000-sheet_2
+  - first:
+      213: -647940456987224544
+    second: Green_MUSCLECAR_CLEAN_WEST_000-sheet_3
+  - first:
+      213: 7421138289763640541
+    second: Green_MUSCLECAR_CLEAN_WEST_000-sheet_4
+  - first:
+      213: 4071216134516401697
+    second: Green_MUSCLECAR_CLEAN_WEST_000-sheet_5
+  - first:
+      213: 5564217083086084545
+    second: Green_MUSCLECAR_CLEAN_WEST_000-sheet_6
+  - first:
+      213: 3616239939347044545
+    second: Green_MUSCLECAR_CLEAN_WEST_000-sheet_7
+  - first:
+      213: 1438737648925887587
+    second: Green_MUSCLECAR_CLEAN_WEST_000-sheet_8
+  - first:
+      213: 3250005433737776549
+    second: Green_MUSCLECAR_CLEAN_WEST_000-sheet_9
+  - first:
+      213: 1933799551769138623
+    second: Green_MUSCLECAR_CLEAN_WEST_000-sheet_10
+  - first:
+      213: -3677338930216482304
+    second: Green_MUSCLECAR_CLEAN_WEST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green_MUSCLECAR_CLEAN_WEST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 225
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532e9c45b306ba780800000000000000
+      internalID: -8670730849629904331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MUSCLECAR_CLEAN_WEST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 225
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7239be01d6d12c970800000000000000
+      internalID: 8773607378343662375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MUSCLECAR_CLEAN_WEST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 225
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663a1c7709a31ffe0800000000000000
+      internalID: -1157079237098626202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MUSCLECAR_CLEAN_WEST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 225
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0261ca9569d0207f0800000000000000
+      internalID: -647940456987224544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MUSCLECAR_CLEAN_WEST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 125
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd46966a4fd2df660800000000000000
+      internalID: 7421138289763640541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MUSCLECAR_CLEAN_WEST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 125
+        width: 86
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12660bd018ddf7830800000000000000
+      internalID: 4071216134516401697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MUSCLECAR_CLEAN_WEST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 125
+        width: 86
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c99182e4f1183d40800000000000000
+      internalID: 5564217083086084545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MUSCLECAR_CLEAN_WEST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 125
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c85c5fa0177f2230800000000000000
+      internalID: 3616239939347044545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MUSCLECAR_CLEAN_WEST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 25
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c4539d44c67f310800000000000000
+      internalID: 1438737648925887587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MUSCLECAR_CLEAN_WEST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 25
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad870409b65a1d20800000000000000
+      internalID: 3250005433737776549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MUSCLECAR_CLEAN_WEST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 25
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb55206527c36da10800000000000000
+      internalID: 1933799551769138623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_MUSCLECAR_CLEAN_WEST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 25
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a4bb1f9b777fcc0800000000000000
+      internalID: -3677338930216482304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green_MUSCLECAR_CLEAN_WEST_000-sheet_0: -8670730849629904331
+      Green_MUSCLECAR_CLEAN_WEST_000-sheet_1: 8773607378343662375
+      Green_MUSCLECAR_CLEAN_WEST_000-sheet_10: 1933799551769138623
+      Green_MUSCLECAR_CLEAN_WEST_000-sheet_11: -3677338930216482304
+      Green_MUSCLECAR_CLEAN_WEST_000-sheet_2: -1157079237098626202
+      Green_MUSCLECAR_CLEAN_WEST_000-sheet_3: -647940456987224544
+      Green_MUSCLECAR_CLEAN_WEST_000-sheet_4: 7421138289763640541
+      Green_MUSCLECAR_CLEAN_WEST_000-sheet_5: 4071216134516401697
+      Green_MUSCLECAR_CLEAN_WEST_000-sheet_6: 5564217083086084545
+      Green_MUSCLECAR_CLEAN_WEST_000-sheet_7: 3616239939347044545
+      Green_MUSCLECAR_CLEAN_WEST_000-sheet_8: 1438737648925887587
+      Green_MUSCLECAR_CLEAN_WEST_000-sheet_9: 3250005433737776549
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

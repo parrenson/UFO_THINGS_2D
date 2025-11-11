@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 62d7dbebd76bdb14fa7df65c07d96084
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6289351945289818924
+    second: White_BOXTRUCK_CLEAN_EAST_000-sheet_0
+  - first:
+      213: -4558941491276790985
+    second: White_BOXTRUCK_CLEAN_EAST_000-sheet_1
+  - first:
+      213: -7213823148019871536
+    second: White_BOXTRUCK_CLEAN_EAST_000-sheet_2
+  - first:
+      213: -2583043747715806700
+    second: White_BOXTRUCK_CLEAN_EAST_000-sheet_3
+  - first:
+      213: -7565538217145076785
+    second: White_BOXTRUCK_CLEAN_EAST_000-sheet_4
+  - first:
+      213: -288327818759369654
+    second: White_BOXTRUCK_CLEAN_EAST_000-sheet_5
+  - first:
+      213: -384575639560513593
+    second: White_BOXTRUCK_CLEAN_EAST_000-sheet_6
+  - first:
+      213: -345457409120046863
+    second: White_BOXTRUCK_CLEAN_EAST_000-sheet_7
+  - first:
+      213: -757463177342918726
+    second: White_BOXTRUCK_CLEAN_EAST_000-sheet_8
+  - first:
+      213: 8987593515824878009
+    second: White_BOXTRUCK_CLEAN_EAST_000-sheet_9
+  - first:
+      213: -3354138443367926464
+    second: White_BOXTRUCK_CLEAN_EAST_000-sheet_10
+  - first:
+      213: -346476062987465542
+    second: White_BOXTRUCK_CLEAN_EAST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White_BOXTRUCK_CLEAN_EAST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 327
+        width: 105
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2369669544484750800000000000000
+      internalID: 6289351945289818924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_BOXTRUCK_CLEAN_EAST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 327
+        width: 105
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73348a43ed26bb0c0800000000000000
+      internalID: -4558941491276790985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_BOXTRUCK_CLEAN_EAST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 327
+        width: 105
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d019cd311a53eb90800000000000000
+      internalID: -7213823148019871536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_BOXTRUCK_CLEAN_EAST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 327
+        width: 105
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a0b12a56f272cd0800000000000000
+      internalID: -2583043747715806700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_BOXTRUCK_CLEAN_EAST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 187
+        width: 105
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3fc60531fc10790800000000000000
+      internalID: -7565538217145076785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_BOXTRUCK_CLEAN_EAST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 187
+        width: 105
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c0cff5067affbf0800000000000000
+      internalID: -288327818759369654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_BOXTRUCK_CLEAN_EAST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 187
+        width: 105
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c71abe4e76b9aaf0800000000000000
+      internalID: -384575639560513593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_BOXTRUCK_CLEAN_EAST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 187
+        width: 105
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f07f541150b43bf0800000000000000
+      internalID: -345457409120046863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_BOXTRUCK_CLEAN_EAST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 47
+        width: 105
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf5900e043fc75f0800000000000000
+      internalID: -757463177342918726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_BOXTRUCK_CLEAN_EAST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 47
+        width: 105
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b198503fa85abc70800000000000000
+      internalID: 8987593515824878009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_BOXTRUCK_CLEAN_EAST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 47
+        width: 105
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045b2935bd4b371d0800000000000000
+      internalID: -3354138443367926464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_BOXTRUCK_CLEAN_EAST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 47
+        width: 105
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcc47e3bd1113bf0800000000000000
+      internalID: -346476062987465542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      White_BOXTRUCK_CLEAN_EAST_000-sheet_0: 6289351945289818924
+      White_BOXTRUCK_CLEAN_EAST_000-sheet_1: -4558941491276790985
+      White_BOXTRUCK_CLEAN_EAST_000-sheet_10: -3354138443367926464
+      White_BOXTRUCK_CLEAN_EAST_000-sheet_11: -346476062987465542
+      White_BOXTRUCK_CLEAN_EAST_000-sheet_2: -7213823148019871536
+      White_BOXTRUCK_CLEAN_EAST_000-sheet_3: -2583043747715806700
+      White_BOXTRUCK_CLEAN_EAST_000-sheet_4: -7565538217145076785
+      White_BOXTRUCK_CLEAN_EAST_000-sheet_5: -288327818759369654
+      White_BOXTRUCK_CLEAN_EAST_000-sheet_6: -384575639560513593
+      White_BOXTRUCK_CLEAN_EAST_000-sheet_7: -345457409120046863
+      White_BOXTRUCK_CLEAN_EAST_000-sheet_8: -757463177342918726
+      White_BOXTRUCK_CLEAN_EAST_000-sheet_9: 8987593515824878009
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

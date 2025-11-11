@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 495bba97aae8b6c44b78dc7e9031cfb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 587804647992940911
+    second: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_0
+  - first:
+      213: 3060484004667489289
+    second: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_1
+  - first:
+      213: -7136522635653833797
+    second: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_2
+  - first:
+      213: -5573920221712496492
+    second: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_3
+  - first:
+      213: 8920888739176468595
+    second: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_4
+  - first:
+      213: -1606739993452836328
+    second: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_5
+  - first:
+      213: 4596831210080690097
+    second: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_6
+  - first:
+      213: 387786652204156033
+    second: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_7
+  - first:
+      213: -6699918892277663956
+    second: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_8
+  - first:
+      213: 5425728297165112851
+    second: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_9
+  - first:
+      213: 1088472033352557069
+    second: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_10
+  - first:
+      213: -135921567720271921
+    second: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 208
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6951f8863d482800800000000000000
+      internalID: 587804647992940911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 208
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c78f2bcf5097a20800000000000000
+      internalID: 3060484004667489289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 208
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb915a497af5fc90800000000000000
+      internalID: -7136522635653833797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 208
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498c57a171575a2b0800000000000000
+      internalID: -5573920221712496492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 108
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370556b1b0d5dcb70800000000000000
+      internalID: 8920888739176468595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 107
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a84d32d76b3b9e0800000000000000
+      internalID: -1606739993452836328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 107
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfd94961a93bcf30800000000000000
+      internalID: 4596831210080690097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 108
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1844445d7e1b16500800000000000000
+      internalID: 387786652204156033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 8
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c277cd1e34b1503a0800000000000000
+      internalID: -6699918892277663956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 8
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316cf48b32f0c4b40800000000000000
+      internalID: 5425728297165112851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 8
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d022def1c870b1f00800000000000000
+      internalID: 1088472033352557069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_SUPERCAR_CLEAN_SOUTH_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 8
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf08b6ed0c1d1ef0800000000000000
+      internalID: -135921567720271921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green_SUPERCAR_CLEAN_SOUTH_000-sheet_0: 587804647992940911
+      Green_SUPERCAR_CLEAN_SOUTH_000-sheet_1: 3060484004667489289
+      Green_SUPERCAR_CLEAN_SOUTH_000-sheet_10: 1088472033352557069
+      Green_SUPERCAR_CLEAN_SOUTH_000-sheet_11: -135921567720271921
+      Green_SUPERCAR_CLEAN_SOUTH_000-sheet_2: -7136522635653833797
+      Green_SUPERCAR_CLEAN_SOUTH_000-sheet_3: -5573920221712496492
+      Green_SUPERCAR_CLEAN_SOUTH_000-sheet_4: 8920888739176468595
+      Green_SUPERCAR_CLEAN_SOUTH_000-sheet_5: -1606739993452836328
+      Green_SUPERCAR_CLEAN_SOUTH_000-sheet_6: 4596831210080690097
+      Green_SUPERCAR_CLEAN_SOUTH_000-sheet_7: 387786652204156033
+      Green_SUPERCAR_CLEAN_SOUTH_000-sheet_8: -6699918892277663956
+      Green_SUPERCAR_CLEAN_SOUTH_000-sheet_9: 5425728297165112851
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

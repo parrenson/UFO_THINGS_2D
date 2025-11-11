@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 620729c118864d94cbe39e457f471093
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 285846230462457406
+    second: BUS_CLEAN_WEST_000-sheet_0
+  - first:
+      213: 3857335243316719702
+    second: BUS_CLEAN_WEST_000-sheet_1
+  - first:
+      213: 6596722025296776880
+    second: BUS_CLEAN_WEST_000-sheet_2
+  - first:
+      213: -422322757638703023
+    second: BUS_CLEAN_WEST_000-sheet_3
+  - first:
+      213: 1291122496748061023
+    second: BUS_CLEAN_WEST_000-sheet_4
+  - first:
+      213: -2415092842588267516
+    second: BUS_CLEAN_WEST_000-sheet_5
+  - first:
+      213: 2828347041451570139
+    second: BUS_CLEAN_WEST_000-sheet_6
+  - first:
+      213: 7865779605065618632
+    second: BUS_CLEAN_WEST_000-sheet_7
+  - first:
+      213: -5756584523598637456
+    second: BUS_CLEAN_WEST_000-sheet_8
+  - first:
+      213: 3485064218105578770
+    second: BUS_CLEAN_WEST_000-sheet_9
+  - first:
+      213: -7132062945641048573
+    second: BUS_CLEAN_WEST_000-sheet_10
+  - first:
+      213: 2053594198751906406
+    second: BUS_CLEAN_WEST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BUS_CLEAN_WEST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 499
+        width: 144
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e366913d1a787f300800000000000000
+      internalID: 285846230462457406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUS_CLEAN_WEST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 499
+        width: 144
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650fc7d77f1088530800000000000000
+      internalID: 3857335243316719702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUS_CLEAN_WEST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 499
+        width: 144
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be4fc72bb34c8b50800000000000000
+      internalID: 6596722025296776880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUS_CLEAN_WEST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 499
+        width: 144
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158b16280bb932af0800000000000000
+      internalID: -422322757638703023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUS_CLEAN_WEST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 289
+        width: 144
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f510f24f11dfae110800000000000000
+      internalID: 1291122496748061023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUS_CLEAN_WEST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 289
+        width: 144
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c10f9fadddb7ed0800000000000000
+      internalID: -2415092842588267516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUS_CLEAN_WEST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 289
+        width: 144
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd37f3326ae404720800000000000000
+      internalID: 2828347041451570139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUS_CLEAN_WEST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 289
+        width: 144
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4d27940ecd82d60800000000000000
+      internalID: 7865779605065618632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUS_CLEAN_WEST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 79
+        width: 144
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076546f10e08c10b0800000000000000
+      internalID: -5756584523598637456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUS_CLEAN_WEST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 79
+        width: 144
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2158b93117f6d5030800000000000000
+      internalID: 3485064218105578770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUS_CLEAN_WEST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 79
+        width: 144
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306d659c982d50d90800000000000000
+      internalID: -7132062945641048573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUS_CLEAN_WEST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 79
+        width: 144
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a09691b05df7c10800000000000000
+      internalID: 2053594198751906406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BUS_CLEAN_WEST_000-sheet_0: 285846230462457406
+      BUS_CLEAN_WEST_000-sheet_1: 3857335243316719702
+      BUS_CLEAN_WEST_000-sheet_10: -7132062945641048573
+      BUS_CLEAN_WEST_000-sheet_11: 2053594198751906406
+      BUS_CLEAN_WEST_000-sheet_2: 6596722025296776880
+      BUS_CLEAN_WEST_000-sheet_3: -422322757638703023
+      BUS_CLEAN_WEST_000-sheet_4: 1291122496748061023
+      BUS_CLEAN_WEST_000-sheet_5: -2415092842588267516
+      BUS_CLEAN_WEST_000-sheet_6: 2828347041451570139
+      BUS_CLEAN_WEST_000-sheet_7: 7865779605065618632
+      BUS_CLEAN_WEST_000-sheet_8: -5756584523598637456
+      BUS_CLEAN_WEST_000-sheet_9: 3485064218105578770
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

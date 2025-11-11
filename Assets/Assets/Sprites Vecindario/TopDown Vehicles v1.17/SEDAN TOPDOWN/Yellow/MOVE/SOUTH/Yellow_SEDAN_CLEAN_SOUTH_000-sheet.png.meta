@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 89c3308505e33c741bf3144f13343fa1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7789297222278017206
+    second: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_0
+  - first:
+      213: 2771121289674061036
+    second: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_1
+  - first:
+      213: -4772794730617988858
+    second: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_2
+  - first:
+      213: 715325253955578273
+    second: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_3
+  - first:
+      213: -4011293730761193157
+    second: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_4
+  - first:
+      213: -5357764122157215151
+    second: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_5
+  - first:
+      213: 8713574914593456266
+    second: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_6
+  - first:
+      213: 6684050994886560174
+    second: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_7
+  - first:
+      213: -5580821883389509546
+    second: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_8
+  - first:
+      213: 8496956808607120397
+    second: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_9
+  - first:
+      213: -806953936842707108
+    second: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_10
+  - first:
+      213: -5319120383311790384
+    second: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 212
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f8e20227bd6e390800000000000000
+      internalID: -7789297222278017206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 211
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce47b848120057620800000000000000
+      internalID: 2771121289674061036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 211
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60998a7da70a3cdb0800000000000000
+      internalID: -4772794730617988858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 211
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a963ec47885de900800000000000000
+      internalID: 715325253955578273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 111
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b394a38ca950558c0800000000000000
+      internalID: -4011293730761193157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 111
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1529c74eae565a5b0800000000000000
+      internalID: -5357764122157215151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 111
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a800914e736dce870800000000000000
+      internalID: 8713574914593456266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 111
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea94fca57f482cc50800000000000000
+      internalID: 6684050994886560174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 11
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65087d5c010fc82b0800000000000000
+      internalID: -5580821883389509546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 11
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c3dd8d2314be570800000000000000
+      internalID: 8496956808607120397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 11
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f236c7baf1dc4f0800000000000000
+      internalID: -806953936842707108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_SEDAN_CLEAN_SOUTH_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 11
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de392b7130be26b0800000000000000
+      internalID: -5319120383311790384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Yellow_SEDAN_CLEAN_SOUTH_000-sheet_0: -7789297222278017206
+      Yellow_SEDAN_CLEAN_SOUTH_000-sheet_1: 2771121289674061036
+      Yellow_SEDAN_CLEAN_SOUTH_000-sheet_10: -806953936842707108
+      Yellow_SEDAN_CLEAN_SOUTH_000-sheet_11: -5319120383311790384
+      Yellow_SEDAN_CLEAN_SOUTH_000-sheet_2: -4772794730617988858
+      Yellow_SEDAN_CLEAN_SOUTH_000-sheet_3: 715325253955578273
+      Yellow_SEDAN_CLEAN_SOUTH_000-sheet_4: -4011293730761193157
+      Yellow_SEDAN_CLEAN_SOUTH_000-sheet_5: -5357764122157215151
+      Yellow_SEDAN_CLEAN_SOUTH_000-sheet_6: 8713574914593456266
+      Yellow_SEDAN_CLEAN_SOUTH_000-sheet_7: 6684050994886560174
+      Yellow_SEDAN_CLEAN_SOUTH_000-sheet_8: -5580821883389509546
+      Yellow_SEDAN_CLEAN_SOUTH_000-sheet_9: 8496956808607120397
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

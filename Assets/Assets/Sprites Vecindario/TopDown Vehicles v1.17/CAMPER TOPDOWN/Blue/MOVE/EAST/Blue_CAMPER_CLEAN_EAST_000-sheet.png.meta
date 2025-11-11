@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 08b31c1183407cc4e8551976a305f353
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8404397089865372221
+    second: Blue_CAMPER_CLEAN_EAST_000-sheet_0
+  - first:
+      213: -6444038538511249033
+    second: Blue_CAMPER_CLEAN_EAST_000-sheet_1
+  - first:
+      213: -1059184440130382973
+    second: Blue_CAMPER_CLEAN_EAST_000-sheet_2
+  - first:
+      213: 4942094445121272061
+    second: Blue_CAMPER_CLEAN_EAST_000-sheet_3
+  - first:
+      213: -2806793286343285448
+    second: Blue_CAMPER_CLEAN_EAST_000-sheet_4
+  - first:
+      213: 3121511468305286290
+    second: Blue_CAMPER_CLEAN_EAST_000-sheet_5
+  - first:
+      213: 7972680615719476866
+    second: Blue_CAMPER_CLEAN_EAST_000-sheet_6
+  - first:
+      213: 2498162593557085721
+    second: Blue_CAMPER_CLEAN_EAST_000-sheet_7
+  - first:
+      213: -3342380885394987978
+    second: Blue_CAMPER_CLEAN_EAST_000-sheet_8
+  - first:
+      213: -4671221150817024735
+    second: Blue_CAMPER_CLEAN_EAST_000-sheet_9
+  - first:
+      213: -5600310438338940784
+    second: Blue_CAMPER_CLEAN_EAST_000-sheet_10
+  - first:
+      213: 8745031159712265628
+    second: Blue_CAMPER_CLEAN_EAST_000-sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue_CAMPER_CLEAN_EAST_000-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 327
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd6f3b00659d5b80800000000000000
+      internalID: -8404397089865372221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_CAMPER_CLEAN_EAST_000-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 327
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7711c19571d2296a0800000000000000
+      internalID: -6444038538511249033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_CAMPER_CLEAN_EAST_000-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 327
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383586e0d550d41f0800000000000000
+      internalID: -1059184440130382973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_CAMPER_CLEAN_EAST_000-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 327
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df872e7a6b8d59440800000000000000
+      internalID: 4942094445121272061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_CAMPER_CLEAN_EAST_000-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 187
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835ae8980644c09d0800000000000000
+      internalID: -2806793286343285448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_CAMPER_CLEAN_EAST_000-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 187
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29405a65426d15b20800000000000000
+      internalID: 3121511468305286290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_CAMPER_CLEAN_EAST_000-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 187
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e1a9767c6a4ae60800000000000000
+      internalID: 7972680615719476866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_CAMPER_CLEAN_EAST_000-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 187
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e732c94a14ba220800000000000000
+      internalID: 2498162593557085721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_CAMPER_CLEAN_EAST_000-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 47
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634e9fd1b4a7d91d0800000000000000
+      internalID: -3342380885394987978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_CAMPER_CLEAN_EAST_000-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 47
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125824ecc1d7c2fb0800000000000000
+      internalID: -4671221150817024735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_CAMPER_CLEAN_EAST_000-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 47
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09035eaf353b742b0800000000000000
+      internalID: -5600310438338940784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_CAMPER_CLEAN_EAST_000-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 47
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c953f50b1879c5970800000000000000
+      internalID: 8745031159712265628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blue_CAMPER_CLEAN_EAST_000-sheet_0: -8404397089865372221
+      Blue_CAMPER_CLEAN_EAST_000-sheet_1: -6444038538511249033
+      Blue_CAMPER_CLEAN_EAST_000-sheet_10: -5600310438338940784
+      Blue_CAMPER_CLEAN_EAST_000-sheet_11: 8745031159712265628
+      Blue_CAMPER_CLEAN_EAST_000-sheet_2: -1059184440130382973
+      Blue_CAMPER_CLEAN_EAST_000-sheet_3: 4942094445121272061
+      Blue_CAMPER_CLEAN_EAST_000-sheet_4: -2806793286343285448
+      Blue_CAMPER_CLEAN_EAST_000-sheet_5: 3121511468305286290
+      Blue_CAMPER_CLEAN_EAST_000-sheet_6: 7972680615719476866
+      Blue_CAMPER_CLEAN_EAST_000-sheet_7: 2498162593557085721
+      Blue_CAMPER_CLEAN_EAST_000-sheet_8: -3342380885394987978
+      Blue_CAMPER_CLEAN_EAST_000-sheet_9: -4671221150817024735
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
