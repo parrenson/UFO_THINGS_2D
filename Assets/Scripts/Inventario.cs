@@ -17,7 +17,6 @@ public class Inventario : MonoBehaviour
     public int curaciones = 0;
 
     [Header("Referencias externas")]
-    public LinternaController linterna; // Asignar en Inspector
     public PlayerController jugador;    // Asignar en Inspector
 
     void Start()
@@ -29,9 +28,7 @@ public class Inventario : MonoBehaviour
     {
         switch (item)
         {
-            case "Linterna":
-                tieneLinterna = true;
-                break;
+           
             case "Bateria":
                 baterias++;
                 break;
@@ -42,13 +39,6 @@ public class Inventario : MonoBehaviour
         ActualizarInventario();
     }
 
-    public void UsarLinterna()
-    {
-        if (tieneLinterna)
-        {
-            linterna.ToggleLinterna();
-        }
-    }
 
     public void UsarCuracion()
     {
@@ -65,7 +55,6 @@ public class Inventario : MonoBehaviour
         if (baterias > 0)
         {
             baterias--;
-            linterna.RecargarBateria();
             ActualizarInventario();
             return true;
         }
@@ -75,14 +64,13 @@ public class Inventario : MonoBehaviour
     void Update()
     {
         // Teclas rápidas de uso
-        if (Input.GetKeyDown(KeyCode.F)) UsarLinterna();
         if (Input.GetKeyDown(KeyCode.H)) UsarCuracion();
         if (Input.GetKeyDown(KeyCode.R)) UsarBateria();
     }
 
     void ActualizarInventario()
     {
-        linternaIcono.color = tieneLinterna ? Color.white : new Color(1, 1, 1, 0.3f);
+        //linternaIcono.color = tieneLinterna ? Color.white : new Color(1, 1, 1, 0.3f);
         bateriaIcono.color = baterias > 0 ? Color.white : new Color(1, 1, 1, 0.3f);
         curacionIcono.color = curaciones > 0 ? Color.white : new Color(1, 1, 1, 0.3f);
 
