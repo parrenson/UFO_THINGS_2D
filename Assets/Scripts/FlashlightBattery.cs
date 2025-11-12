@@ -1,52 +1,97 @@
-using UnityEngine;
-using UnityEngine.UI; // Necesario si muestras la batería como texto o barra
+ï»¿using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.Rendering.Universal;
 
 public class FlashlightBattery : MonoBehaviour
 {
-    public Light2D flashlight;          // Asigna la luz
-    public Text batteryText;            // Referencia al texto UI
-    public float maxBattery = 100f;     // Batería máxima
-    public float battery;               // Batería actual
-    public float drainRate = 10f;       // Consumo por segundo
-    public KeyCode switchKey = KeyCode.F; // Tecla para encender/apagar
+    [Header("Componentes")]
+    public Light2D flashlight;
+    public Text batteryText;
+    public AudioSource audioSource;
+    private AudioSource alertSource;
+
+    [Header("BaterÃ­a")]
+    public float maxBattery = 100f;
+    public float battery;
+    public float drainRate = 20f;
+    public KeyCode switchKey = KeyCode.F;
+
+    [Header("Sonidos")]
+    public AudioClip toggleSound;
+    public AudioClip lowBatterySound;
+
+    [Header("ConfiguraciÃ³n de alerta")]
+    public float lowBatteryThreshold = 20f;
+    public float alertInterval = 3f;
+    private float nextAlertTime = 0f;
+
     private bool isOn = false;
 
     void Start()
     {
         battery = maxBattery;
         flashlight.enabled = false;
+
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+            audioSource.playOnAwake = false;
+        }
+
+        alertSource = gameObject.AddComponent<AudioSource>();
+        alertSource.playOnAwake = false;
+        alertSource.loop = false;
     }
 
     void Update()
     {
-        // Encender/apagar la linterna
-        if (Input.GetKeyDown(switchKey) && battery > 0)
+        if (Input.GetKeyDown(switchKey))
         {
-            isOn = !isOn;
-            flashlight.enabled = isOn;
+            // Siempre suena el toggle
+            if (toggleSound != null)
+                audioSource.PlayOneShot(toggleSound);
+
+            // Solo cambia estado si hay baterÃ­a
+            if (battery > 0)
+            {
+                isOn = !isOn;
+                flashlight.enabled = isOn;
+
+                if (!isOn && alertSource.isPlaying)
+                    alertSource.Stop();
+            }
         }
 
-        // Consumir batería si está encendida
         if (isOn && battery > 0)
         {
             battery -= drainRate * Time.deltaTime;
+
+            if (battery <= lowBatteryThreshold && battery > 0)
+            {
+                if (Time.time >= nextAlertTime && lowBatterySound != null)
+                {
+                    if (!alertSource.isPlaying)
+                        alertSource.PlayOneShot(lowBatterySound);
+
+                    nextAlertTime = Time.time + alertInterval;
+                }
+            }
+
             if (battery <= 0.01f)
             {
                 battery = 0f;
                 isOn = false;
                 flashlight.enabled = false;
+                alertSource.Stop();
+                if (toggleSound != null)
+                    audioSource.PlayOneShot(toggleSound);
             }
         }
 
-        // Actualiza la UI
         if (batteryText)
-        {
-            batteryText.text = $"Batería: {(int)battery}";
-        }
+            batteryText.text = $"BaterÃ­a: {(int)battery}";
     }
 
-    // Método para recargar batería
     public void Recharge(float amount)
     {
         battery = Mathf.Clamp(battery + amount, 0, maxBattery);
