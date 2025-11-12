@@ -8,11 +8,12 @@ public class FlashlightBattery : MonoBehaviour
     public Light2D flashlight;
     public Text batteryText;
     public AudioSource audioSource;
+    private AudioSource alertSource;
 
     [Header("Batería")]
     public float maxBattery = 100f;
     public float battery;
-    public float drainRate = 10f;
+    public float drainRate = 20f;
     public KeyCode switchKey = KeyCode.F;
 
     [Header("Sonidos")]
@@ -35,18 +36,30 @@ public class FlashlightBattery : MonoBehaviour
         {
             audioSource = gameObject.AddComponent<AudioSource>();
             audioSource.playOnAwake = false;
-            audioSource.spatialBlend = 0f;
         }
+
+        alertSource = gameObject.AddComponent<AudioSource>();
+        alertSource.playOnAwake = false;
+        alertSource.loop = false;
     }
 
     void Update()
     {
-        if (Input.GetKeyDown(switchKey) && battery > 0)
+        if (Input.GetKeyDown(switchKey))
         {
-            isOn = !isOn;
-            flashlight.enabled = isOn;
+            // Siempre suena el toggle
             if (toggleSound != null)
                 audioSource.PlayOneShot(toggleSound);
+
+            // Solo cambia estado si hay batería
+            if (battery > 0)
+            {
+                isOn = !isOn;
+                flashlight.enabled = isOn;
+
+                if (!isOn && alertSource.isPlaying)
+                    alertSource.Stop();
+            }
         }
 
         if (isOn && battery > 0)
@@ -57,8 +70,8 @@ public class FlashlightBattery : MonoBehaviour
             {
                 if (Time.time >= nextAlertTime && lowBatterySound != null)
                 {
-                    if (!audioSource.isPlaying)
-                        audioSource.PlayOneShot(lowBatterySound);
+                    if (!alertSource.isPlaying)
+                        alertSource.PlayOneShot(lowBatterySound);
 
                     nextAlertTime = Time.time + alertInterval;
                 }
@@ -69,7 +82,7 @@ public class FlashlightBattery : MonoBehaviour
                 battery = 0f;
                 isOn = false;
                 flashlight.enabled = false;
-                audioSource.Stop();
+                alertSource.Stop();
                 if (toggleSound != null)
                     audioSource.PlayOneShot(toggleSound);
             }
