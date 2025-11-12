@@ -3409,7 +3409,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
-<<<<<<< HEAD
 --- !u!1001 &876292995
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3515,96 +3514,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
-=======
---- !u!1 &838366707
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 838366709}
-  - component: {fileID: 838366708}
-  m_Layer: 0
-  m_Name: ChargerSpawner
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &838366708
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 838366707}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 37efe9ff4be9816458047fbc932cef22, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::BatteryChargerSpawner
-  batteryChargerPrefab: {fileID: 384501715}
-  cantidadCargadores: 30
-  terrenoTilemap: {fileID: 934494139}
-  spawnZ: 0
-  obstaculos:
-  - {fileID: 887535566}
-  - {fileID: 1824885444}
-  - {fileID: 1682029090}
-  - {fileID: 535263058}
-  - {fileID: 535263058}
-  - {fileID: 1910846415}
-  - {fileID: 2131681372}
-  - {fileID: 1954671521}
-  - {fileID: 781721225}
-  - {fileID: 1424708065}
-  - {fileID: 2114888022}
-  - {fileID: 970744810}
-  - {fileID: 380474523}
-  - {fileID: 1229746284}
-  - {fileID: 2086103129}
-  - {fileID: 432460561}
-  - {fileID: 1331829643}
-  - {fileID: 660752784}
-  - {fileID: 1284844591}
-  - {fileID: 287898460}
-  - {fileID: 484349656}
-  - {fileID: 471785555}
-  - {fileID: 563060200}
-  - {fileID: 299078933}
-  - {fileID: 1294576950}
-  - {fileID: 792874436}
-  - {fileID: 1562230318}
-  - {fileID: 215621510}
-  - {fileID: 342805737}
-  - {fileID: 1594209567}
-  - {fileID: 1634082312}
-  - {fileID: 503371160}
-  - {fileID: 2075525851}
-  - {fileID: 1187971666}
-  - {fileID: 1372969348}
-  - {fileID: 831163187}
-  - {fileID: 1067469973}
-  margen: 0.5
-  distanciaMinimaEntreCargadores: 50
---- !u!4 &838366709
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 838366707}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.70681, y: 0.22023, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
->>>>>>> fee91475ec762dc38ea92aee6692e6a1d44150aa
 --- !u!1 &887535564
 GameObject:
   m_ObjectHideFlags: 0
@@ -34108,11 +34017,7 @@ MonoBehaviour:
   drainRate: 5
   switchKey: 102
   toggleSound: {fileID: 8300000, guid: bff6d168e0186cc4d96327da89d2bd65, type: 3}
-<<<<<<< HEAD
   lowBatterySound: {fileID: 0}
-=======
-  lowBatterySound: {fileID: 8300000, guid: af398943fd2c1b74cb66f03a7ff44abb, type: 3}
->>>>>>> fee91475ec762dc38ea92aee6692e6a1d44150aa
   lowBatteryThreshold: 20
   alertInterval: 3
 --- !u!114 &1730263316
