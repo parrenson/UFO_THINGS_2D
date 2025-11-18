@@ -16,19 +16,24 @@ public class BatteryChargerSpawner : MonoBehaviour
     [Header("Altura fija en Z")]
     public float spawnZ = 0f;
 
-    [Header("Objetos que bloquean generación")]
-    public List<Collider2D> obstaculos = new List<Collider2D>();
-
     [Header("Margen de seguridad (distancia mínima al obstáculo)")]
     public float margen = 0.5f;
 
     [Header("Distancia mínima entre cargadores")]
     public float distanciaMinimaEntreCargadores = 2f;
 
+    private List<Collider2D> obstaculos = new List<Collider2D>();
     private List<Vector3> posicionesGeneradas = new List<Vector3>();
 
     void Start()
     {
+        var encontrados = GameObject.FindGameObjectsWithTag("Obstaculo");
+        foreach (var obj in encontrados)
+        {
+            Collider2D col = obj.GetComponent<Collider2D>();
+            if (col != null) obstaculos.Add(col);
+        }
+
         GenerarCargadores();
     }
 
@@ -66,7 +71,6 @@ public class BatteryChargerSpawner : MonoBehaviour
 
     bool PosicionValida(Vector3 pos)
     {
-        // Evita obstáculos
         foreach (var obs in obstaculos)
         {
             if (obs == null) continue;
@@ -78,7 +82,6 @@ public class BatteryChargerSpawner : MonoBehaviour
                 return false;
         }
 
-        // Evita estar muy cerca de otros cargadores
         foreach (var existente in posicionesGeneradas)
         {
             if (Vector2.Distance(pos, existente) < distanciaMinimaEntreCargadores)

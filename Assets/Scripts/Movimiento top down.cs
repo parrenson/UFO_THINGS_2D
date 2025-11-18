@@ -21,9 +21,9 @@ public class Movimientotopdown : MonoBehaviour
         audioSource.playOnAwake = false;
         audioSource.clip = footstepClip;
         audioSource.loop = true;
-        audioSource.spatialBlend = 0f; // 🔥 Muy importante: 0 = sonido 2D, no interfiere con otros
-        audioSource.volume = 0.6f; // volumen moderado pa’ no tapar el ambiente
-        audioSource.priority = 256; // 🔉 menor prioridad que el ambiente
+        audioSource.spatialBlend = 0f; 
+        audioSource.volume = 0.6f;
+        audioSource.priority = 256;
     }
 
 

@@ -1605,11 +1605,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &384501715 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2185606819822113153, guid: 2f7db69f031e01244a187319a9731811, type: 3}
-  m_PrefabInstance: {fileID: 5966606485135367873}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &418858936
 GameObject:
   m_ObjectHideFlags: 0
@@ -34067,6 +34062,94 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 246058445603208885, guid: ef9a915e2a6226d45bfbf486884794bf, type: 3}
   m_PrefabInstance: {fileID: 1225384007}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1739326183
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1739326185}
+  - component: {fileID: 1739326184}
+  m_Layer: 0
+  m_Name: ChargerSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1739326184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1739326183}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37efe9ff4be9816458047fbc932cef22, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BatteryChargerSpawner
+  batteryChargerPrefab: {fileID: 2185606819822113153, guid: 2f7db69f031e01244a187319a9731811, type: 3}
+  cantidadCargadores: 30
+  terrenoTilemap: {fileID: 934494139}
+  spawnZ: 0
+  obstaculos:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  margen: 0.5
+  distanciaMinimaEntreCargadores: 50
+--- !u!4 &1739326185
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1739326183}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.70681, y: 0.22023, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1824885442
 GameObject:
   m_ObjectHideFlags: 0
@@ -35330,79 +35413,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1001 &5966606485135367873
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 876132667964036177, guid: 2f7db69f031e01244a187319a9731811, type: 3}
-      propertyPath: chargeClip
-      value: 
-      objectReference: {fileID: 8300000, guid: 394cf67314721194b9a18fb632e578c5, type: 3}
-    - target: {fileID: 876132667964036177, guid: 2f7db69f031e01244a187319a9731811, type: 3}
-      propertyPath: soundDelay
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 876132667964036177, guid: 2f7db69f031e01244a187319a9731811, type: 3}
-      propertyPath: electricAmbientClip
-      value: 
-      objectReference: {fileID: 8300000, guid: 066c11b8e8cc14947af9948eb96d7ef8, type: 3}
-    - target: {fileID: 1107046787647961239, guid: 2f7db69f031e01244a187319a9731811, type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2125324623373680900, guid: 2f7db69f031e01244a187319a9731811, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 7.53
-      objectReference: {fileID: 0}
-    - target: {fileID: 2125324623373680900, guid: 2f7db69f031e01244a187319a9731811, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -2.74
-      objectReference: {fileID: 0}
-    - target: {fileID: 2125324623373680900, guid: 2f7db69f031e01244a187319a9731811, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2125324623373680900, guid: 2f7db69f031e01244a187319a9731811, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2125324623373680900, guid: 2f7db69f031e01244a187319a9731811, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2125324623373680900, guid: 2f7db69f031e01244a187319a9731811, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2125324623373680900, guid: 2f7db69f031e01244a187319a9731811, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2125324623373680900, guid: 2f7db69f031e01244a187319a9731811, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2125324623373680900, guid: 2f7db69f031e01244a187319a9731811, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2125324623373680900, guid: 2f7db69f031e01244a187319a9731811, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2185606819822113153, guid: 2f7db69f031e01244a187319a9731811, type: 3}
-      propertyPath: m_Name
-      value: BateriaItem
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 2f7db69f031e01244a187319a9731811, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -35415,11 +35425,7 @@ SceneRoots:
   - {fileID: 82179530}
   - {fileID: 418858938}
   - {fileID: 1827135068}
- HEAD
-  - {fileID: 684534671}
   - {fileID: 876292995}
   - {fileID: 582544313}
   - {fileID: 456767849}
-  - {fileID: 5966606485135367873}
-  - {fileID: 838366709}
- fee91475ec762dc38ea92aee6692e6a1d44150aa
+  - {fileID: 1739326185}
