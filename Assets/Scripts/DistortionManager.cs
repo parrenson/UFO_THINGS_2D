@@ -15,8 +15,7 @@ public class DistortionManager : MonoBehaviour
     public Tilemap tilemapMapa;
     public int maxAttempts = 30;
     public float safeRadius = 0.3f;
-    public AudioClip distortionClip; // Arrastra el archivo aquí en el Editor
-
+    public AudioClip distortionClip;
     private AudioSource audioSource;
     private Coroutine currentDistortion;
 
@@ -25,7 +24,6 @@ public class DistortionManager : MonoBehaviour
         if (distortionOverlay != null)
             distortionOverlay.alpha = 0;
 
-        // Añade AudioSource si no existe
         audioSource = GetComponent<AudioSource>();
         if (audioSource == null)
             audioSource = gameObject.AddComponent<AudioSource>();
