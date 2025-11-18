@@ -12,19 +12,37 @@ public class DistortionManager : MonoBehaviour
     public float resetTimeWindow = 15f;
     private List<float> distortionTimes = new List<float>();
     public Transform playerTransform;
-    public Tilemap tilemapMapa; // Asocia tu Tilemap en el Inspector
+    public Tilemap tilemapMapa;
     public int maxAttempts = 30;
-    public float safeRadius = 0.3f; // Ajusta si tu jugador o obstáculos son grandes
+    public float safeRadius = 0.3f;
+    public AudioClip distortionClip; // Arrastra el archivo aquí en el Editor
+
+    private AudioSource audioSource;
+    private Coroutine currentDistortion;
 
     void Start()
     {
         if (distortionOverlay != null)
             distortionOverlay.alpha = 0;
+
+        // Añade AudioSource si no existe
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+            audioSource = gameObject.AddComponent<AudioSource>();
+
+        audioSource.loop = false;
+        audioSource.playOnAwake = false;
     }
 
     public void TriggerDistortion()
     {
-        StartCoroutine(DoVisualDistortion());
+        if (currentDistortion != null)
+        {
+            StopCoroutine(currentDistortion);
+            EndDistortionAudio();
+        }
+
+        currentDistortion = StartCoroutine(DoVisualDistortion());
         if (paranoiaEffect != null)
             paranoiaEffect.TriggerShake();
         distortionTimes.Add(Time.time);
@@ -33,6 +51,8 @@ public class DistortionManager : MonoBehaviour
 
     private IEnumerator DoVisualDistortion()
     {
+        StartDistortionAudio();
+
         float elapsed = 0f;
         while (elapsed < distortionDuration / 2f)
         {
@@ -48,6 +68,24 @@ public class DistortionManager : MonoBehaviour
             yield return null;
         }
         distortionOverlay.alpha = 0;
+
+        EndDistortionAudio();
+    }
+
+    private void StartDistortionAudio()
+    {
+        if (distortionClip != null)
+        {
+            audioSource.clip = distortionClip;
+            if (!audioSource.isPlaying)
+                audioSource.Play();
+        }
+    }
+
+    private void EndDistortionAudio()
+    {
+        if (audioSource.isPlaying)
+            audioSource.Stop();
     }
 
     void Update()
@@ -90,6 +128,5 @@ public class DistortionManager : MonoBehaviour
             playerTransform.position = new Vector3(worldPos.x + 0.5f, worldPos.y + 0.5f, playerTransform.position.z);
             return;
         }
-        // Si no encuentra posición después del máximo de intentos, no mueve al jugador.
     }
 }
