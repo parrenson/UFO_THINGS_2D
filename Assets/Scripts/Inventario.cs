@@ -8,13 +8,16 @@ public class Inventario : MonoBehaviour
     public Image linternaIcono;
     public Image bateriaIcono;
     public Image curacionIcono;
+    public Image cartaIcono;
     public TMP_Text Bateriatexto;
     public TMP_Text Curaciontexto;
+    public TMP_Text cartaTexto;
 
     [Header("Estado del Inventario")]
     public bool tieneLinterna = false;
     public int baterias = 0;
     public int curaciones = 0;
+    public int cartasRecolectadas = 0;
 
     [Header("Referencias externas")]
     public PlayerController jugador;    // Asignar en Inspector
@@ -68,7 +71,7 @@ public class Inventario : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.R)) UsarBateria();
     }
 
-    void ActualizarInventario()
+    public void ActualizarInventario()
     {
         //linternaIcono.color = tieneLinterna ? Color.white : new Color(1, 1, 1, 0.3f);
         bateriaIcono.color = baterias > 0 ? Color.white : new Color(1, 1, 1, 0.3f);
@@ -76,5 +79,8 @@ public class Inventario : MonoBehaviour
 
         Bateriatexto.text = "x" + baterias;
         Curaciontexto.text = "x" + curaciones;
+
+        cartaIcono.color = cartasRecolectadas > 0 ? Color.white : new Color(1, 1, 1, 0.3f);
+        cartaTexto.text = "x" + cartasRecolectadas;
     }
 }
