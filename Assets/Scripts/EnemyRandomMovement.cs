@@ -18,7 +18,7 @@ public class EnemyRandomMovement : MonoBehaviour
     [Header("Ataque")]
     public float attackRange = 0.8f;     // Distancia a la que se detiene para atacar
     public float attackCooldown = 1.5f;  // Tiempo entre ataques (segundos)
-    public int damage = 1;               // Daño por golpe (cuando tengas vida en el player)
+    public int damage = 1;               // Daño por golpe
 
     [Header("Cono de visión del enemigo")]
     public float viewAngle = 90f;        // Ángulo total del cono (ej: 90 = 45° a cada lado)
@@ -32,6 +32,13 @@ public class EnemyRandomMovement : MonoBehaviour
     [Header("Búsqueda al perder al jugador")]
     public float searchDuration = 3f;        // Tiempo total buscando
     public float searchTurnInterval = 0.5f;  // Cada cuánto cambia de dirección al buscar
+
+    [Header("Sonido")]
+    public AudioSource audioSource;
+    public AudioClip footstepClip;
+    [Range(0f, 1f)] public float footstepVolume = 0.7f;
+    public AudioClip attackClip;
+    [Range(0f, 1f)] public float attackVolume = 1f;
 
     private enum EnemyState { Patrol, Chase, Attack, Search }
     private EnemyState currentState = EnemyState.Patrol;
@@ -84,6 +91,12 @@ public class EnemyRandomMovement : MonoBehaviour
         if (flashlightPivot != null && flashlightLight == null)
         {
             flashlightLight = flashlightPivot.GetComponentInChildren<Light2D>();
+        }
+
+        // Audio por defecto
+        if (audioSource == null)
+        {
+            audioSource = GetComponent<AudioSource>();
         }
 
         PickNewTarget();
@@ -161,12 +174,10 @@ public class EnemyRandomMovement : MonoBehaviour
             }
             else if (currentState == EnemyState.Search)
             {
-                // Si ya está en búsqueda, dejamos que SearchBehaviour decida cuándo volver a patrullar
-                // (no cambiamos el estado aquí)
+                // SearchBehaviour decide cuándo volver a patrullar
             }
             else
             {
-                // No detecta nada y no estaba en persecución → patrulla
                 currentState = EnemyState.Patrol;
             }
         }
@@ -358,12 +369,12 @@ public class EnemyRandomMovement : MonoBehaviour
                 animator.SetTrigger("attackTrigger");
             }
 
-            // Daño real al jugador iría aquí
-            // var health = player.GetComponent<PlayerHealth>();
-            // if (health != null)
-            // {
-            //     health.TakeDamage(damage);
-            // }
+            // --- DAÑO AL PLAYER ---
+            HealthSystem_Player hp = player.GetComponent<HealthSystem_Player>();
+            if (hp != null)
+            {
+                hp.TakeDamage(damage); // El enemigo hace 'damage' puntos de daño
+            }
 
             attackTimer = attackCooldown;
         }
@@ -373,18 +384,16 @@ public class EnemyRandomMovement : MonoBehaviour
 
     private void SearchBehaviour()
     {
-        // Si por alguna razón ya no hay jugador, volvemos a patrullar
         if (player == null)
         {
             currentState = EnemyState.Patrol;
             return;
         }
 
-        // Contador de tiempo total buscando
+        // Tiempo total buscando
         searchTimer -= Time.deltaTime;
         if (searchTimer <= 0f)
         {
-            // Se rinde y vuelve a patrullar
             currentState = EnemyState.Patrol;
             PickNewTarget();
             return;
@@ -394,18 +403,15 @@ public class EnemyRandomMovement : MonoBehaviour
         searchTurnTimer -= Time.deltaTime;
         if (searchTurnTimer <= 0f)
         {
-            // Elegimos una dirección aleatoria entre arriba, derecha, abajo, izquierda
             Vector2[] dirs = { Vector2.up, Vector2.right, Vector2.down, Vector2.left };
             int index = Random.Range(0, dirs.Length);
             lastMoveDir = dirs[index];
 
-            // Actualizamos solo la animación ( Idle mirando en distintas direcciones )
             UpdateAnimator(Vector2.zero, false);
 
             searchTurnTimer = searchTurnInterval;
         }
-
-        // No se mueve en Search, solo "mira" alrededor
+        // No se mueve, solo "escanea" alrededor
     }
 
     // --- ANIMACIÓN ---
@@ -423,6 +429,24 @@ public class EnemyRandomMovement : MonoBehaviour
 
         animator.SetFloat("moveX", dir.x);
         animator.SetFloat("moveY", dir.y);
+    }
+
+    // --- SONIDOS (llamados desde Animation Events) ---
+
+    public void PlayFootstep()
+    {
+        if (audioSource != null && footstepClip != null)
+        {
+            audioSource.PlayOneShot(footstepClip, footstepVolume);
+        }
+    }
+
+    public void PlayAttackSound()
+    {
+        if (audioSource != null && attackClip != null)
+        {
+            audioSource.PlayOneShot(attackClip, attackVolume);
+        }
     }
 
     // --- DEBUG DE COLISIÓN ---
