@@ -56118,6 +56118,10 @@ PrefabInstance:
       propertyPath: footstepClip
       value: 
       objectReference: {fileID: 8300000, guid: 15077af01d79d6a4da873e7079d950e4, type: 3}
+    - target: {fileID: 1689839596033516690, guid: d98b0d348294f284e8538c1f71b8bb96, type: 3}
+      propertyPath: flashlightPivot
+      value: 
+      objectReference: {fileID: 360981836}
     - target: {fileID: 4936446067077530456, guid: d98b0d348294f284e8538c1f71b8bb96, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.04121
