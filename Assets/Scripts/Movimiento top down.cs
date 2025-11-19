@@ -10,7 +10,6 @@ public class Movimientotopdown : MonoBehaviour
     private Vector2 direccionMirada = Vector2.up;
 
     private Rigidbody2D rb2D;
-
     [Header("Sonido de pasos")]
     public AudioClip footstepClip;
     private AudioSource audioSource;
