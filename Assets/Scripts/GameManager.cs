@@ -5,13 +5,14 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
 
-    [Header("Cartas")]
     public int cartasRecolectadas = 0;
     public int cartasNecesarias = 3;
 
-    [Header("UI de la Carta")]
     public GameObject cartaPanel;
     public TMP_Text mensajeCartaText;
+
+    public AudioClip sonidoAbrir;
+    public AudioClip sonidoCerrar;
 
     void Awake()
     {
@@ -32,12 +33,19 @@ public class GameManager : MonoBehaviour
         VerificarVictoria();
     }
 
-    void MostrarCarta(string mensaje)
+    public void MostrarCarta(string mensaje)
     {
         cartaPanel.SetActive(true);
         mensajeCartaText.text = mensaje;
-        Debug.Log("Mostrando carta: " + mensaje);
+        if (sonidoAbrir != null)
+            AudioSource.PlayClipAtPoint(sonidoAbrir, Camera.main.transform.position);
+    }
 
+    public void CerrarCartaPanel()
+    {
+        cartaPanel.SetActive(false);
+        if (sonidoCerrar != null)
+            AudioSource.PlayClipAtPoint(sonidoCerrar, Camera.main.transform.position);
     }
 
     void VerificarVictoria()
@@ -45,12 +53,6 @@ public class GameManager : MonoBehaviour
         if (cartasRecolectadas >= cartasNecesarias)
         {
             Debug.Log("¡Has recolectado todas las cartas! ¡Ganaste!");
-            // Aquí puedes activar pantalla de victoria
         }
-    }
-
-    public void CerrarCartaPanel()
-    {
-        cartaPanel.SetActive(false);
     }
 }
