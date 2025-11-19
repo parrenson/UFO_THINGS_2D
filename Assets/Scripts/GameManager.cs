@@ -53,4 +53,15 @@ public class GameManager : MonoBehaviour
     {
         cartaPanel.SetActive(false);
     }
+
+    void Update()
+    {
+        if (cartaPanel.activeSelf)  // Si el panel está abierto
+        {
+            if (Input.GetKeyDown(KeyCode.Space)) // Detecta la tecla espacio
+            {
+                CerrarCartaPanel();
+            }
+        }
+    }
 }

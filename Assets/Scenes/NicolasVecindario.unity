@@ -3671,11 +3671,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 16.44
+      value: 88.8
       objectReference: {fileID: 0}
     - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.3275635
+      value: -5.6
       objectReference: {fileID: 0}
     - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3717,35 +3717,64 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: CerrarCartaPanel
       objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5422045606107714324, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_Text
       value: Presiona Espacio
       objectReference: {fileID: 0}
+    - target: {fileID: 5650325927412894598, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6586083641055074544, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_Name
-      value: Carta 4
+      value: Carta 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700409189262282852, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700409189262282852, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -6303493272052645250, guid: cbdc6641f106c37469178edcb6a854d7, type: 3}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -811.0041
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -329.1235
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 379.00003
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -123.000046
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 5650325927412894598, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
---- !u!114 &173931798 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
-  m_PrefabInstance: {fileID: 173931797}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
---- !u!1 &173931799 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5650325927412894598, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
-  m_PrefabInstance: {fileID: 173931797}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &173931800 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 4213903522365824699, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
@@ -3757,17 +3786,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
---- !u!114 &173931801 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6318109365050171894, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
-  m_PrefabInstance: {fileID: 173931797}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
 --- !u!114 &173931802 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 8879807613535109803, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
@@ -3790,17 +3808,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
---- !u!114 &173931804 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 9183662455140318896, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
-  m_PrefabInstance: {fileID: 173931797}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
 --- !u!114 &173931805 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 7729314460901070506, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
@@ -3812,17 +3819,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
---- !u!114 &173931806 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2583734291919432288, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
-  m_PrefabInstance: {fileID: 173931797}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
 --- !u!1 &175953949
 GameObject:
   m_ObjectHideFlags: 0
@@ -7754,11 +7750,15 @@ PrefabInstance:
     - target: {fileID: 4764763571380606539, guid: 08821f557b64feb43a5ecab383da90b6, type: 3}
       propertyPath: cartaPanel
       value: 
-      objectReference: {fileID: 173931799}
+      objectReference: {fileID: 0}
+    - target: {fileID: 4764763571380606539, guid: 08821f557b64feb43a5ecab383da90b6, type: 3}
+      propertyPath: cartasNecesarias
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 4764763571380606539, guid: 08821f557b64feb43a5ecab383da90b6, type: 3}
       propertyPath: mensajeCartaText
       value: 
-      objectReference: {fileID: 173931798}
+      objectReference: {fileID: 0}
     - target: {fileID: 8826109234721525255, guid: 08821f557b64feb43a5ecab383da90b6, type: 3}
       propertyPath: m_Name
       value: GameManager
@@ -10210,6 +10210,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CuracionItem
       objectReference: {fileID: 0}
+    - target: {fileID: 3279987496760099977, guid: 480e1c1c478004a4c9fa3e799c97f43f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 3276205895085085550, guid: 4886bc08bbacb0646992bde4c0785610, type: 3}
     - target: {fileID: 5677087110178112849, guid: 480e1c1c478004a4c9fa3e799c97f43f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.24
@@ -13812,7 +13816,7 @@ PrefabInstance:
     - target: {fileID: 738632984377061527, guid: faacdeedcd219fc40941f976d21b6f89, type: 3}
       propertyPath: cartaIcono
       value: 
-      objectReference: {fileID: 173931801}
+      objectReference: {fileID: 1947117423}
     - target: {fileID: 738632984377061527, guid: faacdeedcd219fc40941f976d21b6f89, type: 3}
       propertyPath: cartaTexto
       value: 
@@ -13824,7 +13828,7 @@ PrefabInstance:
     - target: {fileID: 738632984377061527, guid: faacdeedcd219fc40941f976d21b6f89, type: 3}
       propertyPath: bateriaIcono
       value: 
-      objectReference: {fileID: 173931806}
+      objectReference: {fileID: 1947117425}
     - target: {fileID: 738632984377061527, guid: faacdeedcd219fc40941f976d21b6f89, type: 3}
       propertyPath: Curaciontexto
       value: 
@@ -13832,7 +13836,7 @@ PrefabInstance:
     - target: {fileID: 738632984377061527, guid: faacdeedcd219fc40941f976d21b6f89, type: 3}
       propertyPath: curacionIcono
       value: 
-      objectReference: {fileID: 173931804}
+      objectReference: {fileID: 1947117424}
     - target: {fileID: 738632984377061527, guid: faacdeedcd219fc40941f976d21b6f89, type: 3}
       propertyPath: linternaIcono
       value: 
@@ -15796,6 +15800,150 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &674334234
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -61.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1604440565108622699, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 695061227}
+    - target: {fileID: 1604440565108622699, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: CerrarCartaPanel
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_text
+      value: Siempre recarga tu bateria, nunca sabes cuando vas a necesitar tu linterna
+        cargada.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontSize
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3627254912120587108, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3627254912120587108, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 5422045606107714324, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Text
+      value: Presiona Espacio
+      objectReference: {fileID: 0}
+    - target: {fileID: 5650325927412894598, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6087247317808674797, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: mensajeCarta
+      value: Siempre recarga tu bateria, nunca sabes cuando vas a necesitar tu linterna
+        cargada.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586083641055074544, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Name
+      value: Carta 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700409189262282852, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700409189262282852, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -6303493272052645250, guid: cbdc6641f106c37469178edcb6a854d7, type: 3}
+    - target: {fileID: 8486218490827860786, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -811.0043
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -329.1235
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 379
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -123
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 5650325927412894598, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
 --- !u!1 &684108334
 GameObject:
   m_ObjectHideFlags: 0
@@ -50505,11 +50653,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 9.56
+      value: 46.8
       objectReference: {fileID: 0}
     - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.3275635
+      value: 1.7
       objectReference: {fileID: 0}
     - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -50555,9 +50703,29 @@ PrefabInstance:
       propertyPath: m_text
       value: Ten presente en no confiar en nadie.
       objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5422045606107714324, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_Text
       value: Presiona Espacio
+      objectReference: {fileID: 0}
+    - target: {fileID: 5650325927412894598, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6087247317808674797, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: mensajeCarta
@@ -50565,14 +50733,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6586083641055074544, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_Name
-      value: Carta 2
+      value: Carta 5
       objectReference: {fileID: 0}
+    - target: {fileID: 6700409189262282852, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700409189262282852, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -6303493272052645250, guid: cbdc6641f106c37469178edcb6a854d7, type: 3}
     - target: {fileID: 8486218490827860786, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -811.0041
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -329.1235
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -15.000122
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 139.00005
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 5650325927412894598, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
@@ -54038,11 +54231,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 13.2
+      value: -34.6
       objectReference: {fileID: 0}
     - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.3275635
+      value: 1.4
       objectReference: {fileID: 0}
     - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -54088,20 +54281,65 @@ PrefabInstance:
       propertyPath: m_text
       value: "Esquiva a los enemigos que tengas cerca, te haran mucho da\xF1o."
       objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 5650325927412894598, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6087247317808674797, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: mensajeCarta
       value: "Esquiva a los enemigos que tengas cerca, te haran mucho da\xF1o."
       objectReference: {fileID: 0}
     - target: {fileID: 6586083641055074544, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_Name
-      value: Carta 3
+      value: Carta 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6700409189262282852, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700409189262282852, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -6303493272052645250, guid: cbdc6641f106c37469178edcb6a854d7, type: 3}
     - target: {fileID: 8486218490827860786, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -811.0041
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -329.1235
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -15.000122
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 139.00005
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 5650325927412894598, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
@@ -63250,6 +63488,150 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1837340582
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -62
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -17.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1604440565108622699, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 695061227}
+    - target: {fileID: 1604440565108622699, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: CerrarCartaPanel
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_text
+      value: Siempre recarga tu bateria, nunca sabes cuando vas a necesitar tu linterna
+        cargada.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontSize
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3627254912120587108, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3627254912120587108, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 5422045606107714324, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Text
+      value: Presiona Espacio
+      objectReference: {fileID: 0}
+    - target: {fileID: 5650325927412894598, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6087247317808674797, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: mensajeCarta
+      value: Siempre recarga tu bateria, nunca sabes cuando vas a necesitar tu linterna
+        cargada.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586083641055074544, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Name
+      value: Carta 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700409189262282852, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700409189262282852, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -6303493272052645250, guid: cbdc6641f106c37469178edcb6a854d7, type: 3}
+    - target: {fileID: 8486218490827860786, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -811.0043
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -329.1235
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 379
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -123
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 5650325927412894598, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
 --- !u!1 &1838301808
 GameObject:
   m_ObjectHideFlags: 0
@@ -63788,6 +64170,150 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1887452768
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 67
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 704802938227352980, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1604440565108622699, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 695061227}
+    - target: {fileID: 1604440565108622699, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: CerrarCartaPanel
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_text
+      value: Siempre recarga tu bateria, nunca sabes cuando vas a necesitar tu linterna
+        cargada.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontSize
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3627254912120587108, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3627254912120587108, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 5422045606107714324, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Text
+      value: Presiona Espacio
+      objectReference: {fileID: 0}
+    - target: {fileID: 5650325927412894598, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6087247317808674797, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: mensajeCarta
+      value: Siempre recarga tu bateria, nunca sabes cuando vas a necesitar tu linterna
+        cargada.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6586083641055074544, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Name
+      value: Carta 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700409189262282852, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700409189262282852, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -6303493272052645250, guid: cbdc6641f106c37469178edcb6a854d7, type: 3}
+    - target: {fileID: 8486218490827860786, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -811.0043
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -329.1235
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 379
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -123
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 5650325927412894598, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
 --- !u!1 &1890366714
 GameObject:
   m_ObjectHideFlags: 0
@@ -65763,16 +66289,36 @@ PrefabInstance:
       value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_fontSizeBase
       value: 14
       objectReference: {fileID: 0}
+    - target: {fileID: 2367636281347496798, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2583734291919432288, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2993344847352865316, guid: c17091f8e0a608c42bcc0922462b2252, type: 3}
     - target: {fileID: 3627254912120587108, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3627254912120587108, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 28
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 5422045606107714324, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_Text
@@ -65787,19 +66333,85 @@ PrefabInstance:
       value: Siempre recarga tu bateria, nunca sabes cuando vas a necesitar tu linterna
         cargada.
       objectReference: {fileID: 0}
+    - target: {fileID: 6318109365050171894, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -5680507591257374210, guid: 785389d0b1c358d4da8a8f0560ae41ac, type: 3}
     - target: {fileID: 6586083641055074544, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_Name
       value: Carta 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6700409189262282852, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6700409189262282852, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -6303493272052645250, guid: cbdc6641f106c37469178edcb6a854d7, type: 3}
     - target: {fileID: 8486218490827860786, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -811.0043
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -329.1235
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 379
+      objectReference: {fileID: 0}
+    - target: {fileID: 8916516499481126018, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -123
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183662455140318896, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 3276205895085085550, guid: 4886bc08bbacb0646992bde4c0785610, type: 3}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 5650325927412894598, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+--- !u!114 &1947117423 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6318109365050171894, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+  m_PrefabInstance: {fileID: 1947117422}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+--- !u!114 &1947117424 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 9183662455140318896, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+  m_PrefabInstance: {fileID: 1947117422}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+--- !u!114 &1947117425 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2583734291919432288, guid: da3337b9bbd259b4a8b1d56c3396b78f, type: 3}
+  m_PrefabInstance: {fileID: 1947117422}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
 --- !u!1 &1954671519
 GameObject:
   m_ObjectHideFlags: 0
@@ -69482,9 +70094,12 @@ SceneRoots:
   - {fileID: 191334151}
   - {fileID: 1917395175}
   - {fileID: 1175201970}
-  - {fileID: 173931797}
   - {fileID: 1947117422}
-  - {fileID: 1185710246}
   - {fileID: 1356602006}
+  - {fileID: 674334234}
+  - {fileID: 1837340582}
+  - {fileID: 1185710246}
+  - {fileID: 1887452768}
+  - {fileID: 173931797}
   - {fileID: 1428517139}
   - {fileID: 322745056}
