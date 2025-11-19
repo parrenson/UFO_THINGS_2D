@@ -14,10 +14,18 @@ public class GameManager : MonoBehaviour
     public AudioClip sonidoAbrir;
     public AudioClip sonidoCerrar;
 
+    [Header("UI Next level")]
+    public GameObject gameOverPanel;
+
     void Awake()
     {
         if (Instance == null) Instance = this;
         else Destroy(gameObject);
+
+        if (gameOverPanel != null)
+        {
+            gameOverPanel.SetActive(false); // oculto al inicio
+        }
     }
 
     public void RecolectarCarta(string mensaje)
@@ -53,6 +61,11 @@ public class GameManager : MonoBehaviour
         if (cartasRecolectadas >= cartasNecesarias)
         {
             Debug.Log("¡Has recolectado todas las cartas! ¡Ganaste!");
+
+            if (gameOverPanel != null)
+            {
+                gameOverPanel.SetActive(true);
+            }
         }
     }
 }
