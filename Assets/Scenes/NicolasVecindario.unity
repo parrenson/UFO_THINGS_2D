@@ -2068,7 +2068,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f5165cf27ea7c3a40b188d4e10d169b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHeartsUI
-  playerHealth: {fileID: 0}
+  playerHealth: {fileID: 1428517143}
   heartImages:
   - {fileID: 119697857}
   - {fileID: 1909619825}
@@ -3399,7 +3399,7 @@ Transform:
   m_GameObject: {fileID: 168088013}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.07, y: -0.62, z: -10}
+  m_LocalPosition: {x: 1.0412102, y: 0.4446907, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5928,7 +5928,7 @@ MonoBehaviour:
   m_StreamingVersion: 20241001
   m_LegacyPriority: 0
   Target:
-    TrackingTarget: {fileID: 0}
+    TrackingTarget: {fileID: 1428517140}
     LookAtTarget: {fileID: 0}
     CustomLookAtTarget: 0
   Lens:
@@ -5960,7 +5960,7 @@ Transform:
   m_GameObject: {fileID: 248703514}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.07, y: -0.62, z: -10}
+  m_LocalPosition: {x: 1.04121, y: 0.44469, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8347,7 +8347,7 @@ Transform:
   m_GameObject: {fileID: 360981834}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.28496853, y: -0.23773794, z: 0}
+  m_LocalPosition: {x: 0.112, y: 0.045, z: 0}
   m_LocalScale: {x: 0.13497876, y: 0.22329311, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -55636,19 +55636,73 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 8967667091324057990, guid: d98b0d348294f284e8538c1f71b8bb96, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 8967667091324057990, guid: d98b0d348294f284e8538c1f71b8bb96, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 4936446067077530456, guid: d98b0d348294f284e8538c1f71b8bb96, type: 3}
       insertIndex: -1
       addedObject: {fileID: 360981836}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5970402695497627616, guid: d98b0d348294f284e8538c1f71b8bb96, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1428517142}
+    - targetCorrespondingSourceObject: {fileID: 5970402695497627616, guid: d98b0d348294f284e8538c1f71b8bb96, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1428517143}
   m_SourcePrefab: {fileID: 100100000, guid: d98b0d348294f284e8538c1f71b8bb96, type: 3}
 --- !u!4 &1428517140 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4936446067077530456, guid: d98b0d348294f284e8538c1f71b8bb96, type: 3}
   m_PrefabInstance: {fileID: 1428517139}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1428517141 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5970402695497627616, guid: d98b0d348294f284e8538c1f71b8bb96, type: 3}
+  m_PrefabInstance: {fileID: 1428517139}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1428517142
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1428517141}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7056b062aa89217478fe88ee1033bcbf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FlashlightBattery
+  flashlight: {fileID: 360981835}
+  batteryText: {fileID: 0}
+  audioSource: {fileID: 0}
+  maxBattery: 100
+  battery: 0
+  drainRate: 5
+  switchKey: 102
+  toggleSound: {fileID: 8300000, guid: bff6d168e0186cc4d96327da89d2bd65, type: 3}
+  lowBatterySound: {fileID: 8300000, guid: af398943fd2c1b74cb66f03a7ff44abb, type: 3}
+  lowBatteryThreshold: 20
+  alertInterval: 3
+--- !u!114 &1428517143
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1428517141}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9a5251ae2d690e42a07f35f155a4d93, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HealthSystem_Player
+  maxHealth: 3
+  currentHealth: 0
+  isDead: 0
 --- !u!1 &1428745716
 GameObject:
   m_ObjectHideFlags: 0
@@ -67659,7 +67713,7 @@ MonoBehaviour:
   - {fileID: 2393244428705217705, guid: 1b27c5f787b2c524e9e763ce9f27a49a, type: 3}
   - {fileID: -4642187395621983120, guid: d881986235fa6d54d9c1307b0a36f6a0, type: 3}
   - {fileID: -8627315692988046953, guid: d2caa10caf67d6441908749476fe5858, type: 3}
-  flashlightBattery: {fileID: 0}
+  flashlightBattery: {fileID: 1428517142}
 --- !u!114 &2032139248
 MonoBehaviour:
   m_ObjectHideFlags: 0
