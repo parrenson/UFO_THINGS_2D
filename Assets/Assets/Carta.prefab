@@ -344,7 +344,6 @@ GameObject:
   - component: {fileID: 6948345858219010689}
   - component: {fileID: 3027021793359358610}
   - component: {fileID: 808327647430202675}
-  - component: {fileID: 6102127876747863172}
   m_Layer: 0
   m_Name: Carta
   m_TagString: Untagged
@@ -472,19 +471,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &6102127876747863172
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3660570093191649253}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8ecae76c85a9e8945adec3bbf5ad00ed, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::CartaInteractiva
-  cartaPanel: {fileID: 2865257247689278611}
 --- !u!1 &4264399364999129785
 GameObject:
   m_ObjectHideFlags: 0

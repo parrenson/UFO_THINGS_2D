@@ -2,14 +2,14 @@ using UnityEngine;
 
 public class Carta : MonoBehaviour
 {
-    public string mensajeCarta; // Texto que muestra la carta al recogerla
+    public static Carta Instance;
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    [TextArea]
+    public string mensajeCarta;
+
+    public void RecolectarCarta()
     {
-        if (collision.CompareTag("Player"))
-        {
-            GameManager.Instance.RecolectarCarta(mensajeCarta);
-            Destroy(gameObject); // Se destruye la carta al recogerla
-        }
+        GameManager.Instance.RecolectarCarta(mensajeCarta);
+        Destroy(gameObject);
     }
 }

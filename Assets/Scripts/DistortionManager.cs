@@ -16,20 +16,20 @@ public class DistortionManager : MonoBehaviour
     public int maxAttempts = 30;
     public float safeRadius = 0.3f;
     public AudioClip distortionClip;
-    private AudioSource audioSource;
     private Coroutine currentDistortion;
+    private AudioSource distortionAudioSource;
 
     void Start()
     {
         if (distortionOverlay != null)
             distortionOverlay.alpha = 0;
 
-        audioSource = GetComponent<AudioSource>();
-        if (audioSource == null)
-            audioSource = gameObject.AddComponent<AudioSource>();
-
-        audioSource.loop = false;
-        audioSource.playOnAwake = false;
+        distortionAudioSource = gameObject.AddComponent<AudioSource>();
+        distortionAudioSource.clip = distortionClip;
+        distortionAudioSource.loop = true;
+        distortionAudioSource.playOnAwake = false;
+        distortionAudioSource.spatialBlend = 0f;
+        distortionAudioSource.volume = 1f; // Ajusta volumen aquí
     }
 
     public void TriggerDistortion()
@@ -37,7 +37,7 @@ public class DistortionManager : MonoBehaviour
         if (currentDistortion != null)
         {
             StopCoroutine(currentDistortion);
-            EndDistortionAudio();
+            StopDistortionAudio();
         }
 
         currentDistortion = StartCoroutine(DoVisualDistortion());
@@ -67,23 +67,23 @@ public class DistortionManager : MonoBehaviour
         }
         distortionOverlay.alpha = 0;
 
-        EndDistortionAudio();
+        StopDistortionAudio();
     }
 
     private void StartDistortionAudio()
     {
-        if (distortionClip != null)
+        if (distortionClip != null && distortionAudioSource != null && !distortionAudioSource.isPlaying)
         {
-            audioSource.clip = distortionClip;
-            if (!audioSource.isPlaying)
-                audioSource.Play();
+            distortionAudioSource.Play();
         }
     }
 
-    private void EndDistortionAudio()
+    private void StopDistortionAudio()
     {
-        if (audioSource.isPlaying)
-            audioSource.Stop();
+        if (distortionAudioSource != null && distortionAudioSource.isPlaying)
+        {
+            distortionAudioSource.Stop();
+        }
     }
 
     void Update()
